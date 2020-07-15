@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/leonardorifeli)](https://twitter.com/leonardorifeli)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardorifeli@gmail.com)](mailto:leonardorifeli@gmail.com)
 
-I'm a brazilian 🇧🇷 developer. Co-founder & CTO at Harmo.
+I'm a brazilian 🇧🇷 developer.
 
 - :office_worker: Co-founder & CTO **@HarmoDeveloper**
 - :blue_heart: My main tech stacks is: Javascript (with Node.js), golang and scala, but I also have some experience with Python.
