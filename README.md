@@ -12,7 +12,7 @@ I'm a brazilian 🇧🇷 developer.
 - :blue_heart: My main tech stacks is: Javascript (with Node.js), golang and scala, but I also have some experience with Python.
 - :books: Studies Data Science at uninter.com university. :heart:
 
-> :octocat: [rifeli.me](https://rifeli.me)
+> :octocat: [rifeli.com](https://rifeli.com)
 
 ---
 
