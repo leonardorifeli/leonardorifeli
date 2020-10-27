@@ -14,6 +14,6 @@ I'm a brazilian 🇧🇷 developer.
 
 > :octocat: [rifeli.com](https://rifeli.com)
 
----
+[![Leonardo's github stats](https://github-readme-stats.vercel.app/api?username=leonardorifeli&count_private=tru&show_icons=true&theme=dark)](https://github.com/leonardorifeli)
 
-[![Leonardo's github stats](https://github-readme-stats.vercel.app/api?username=leonardorifeli&count_private=true)](https://github.com/leonardorifeli)
+---
