@@ -8,7 +8,8 @@
 
 I'm a brazilian 🇧🇷 developer.
 
-- :office_worker: Co-founder & CTO **@HarmoDeveloper**
+- :office_worker: Co-founder & CTO at **@HarmoDeveloper**
+- :office_worker: Back-end developer & Data Engineering at **@HarmoDeveloper**
 - :blue_heart: My main tech stacks is: Javascript (with Node.js), golang and scala, but I also have some experience with Python.
 - :books: Studies Data Science at uninter.com university. :heart:
 
