@@ -15,11 +15,13 @@ I'm a brazilian 🇧🇷 developer.
 
 > :octocat: [rifeli.com](https://rifeli.com)
 
+
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardorifeli&hide=ApacheConf,SCSS,html,TSQL,CSS&layout=compact&count_private=true&langs_count=50&theme=dark" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=leonardorifeli&count_private=tru&show_icons=true&theme=dark" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardorifeli&show=scala&hide=ApacheConf,SCSS,html,TSQL,CSS&layout=compact&count_private=true&langs_count=50&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=leonardorifeli&count_private=tru&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+      </td>
     </tr>   
   </table>
 </center>
