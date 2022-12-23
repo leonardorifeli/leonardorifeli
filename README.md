@@ -11,6 +11,3 @@ I'm a data engineering based in Florianópolis/SC 🇧🇷
 - :books: Data Science at uninter.com
 - :blue_heart: Main tech stacks: Javascript, golang, scala and Python
 - :octocat: Writer at [rifeli.dev](https://rifeli.dev)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardorifeli&show_icons=true&theme=dark&count_private=true)
