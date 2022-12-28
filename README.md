@@ -9,5 +9,5 @@ I'm a data engineering based in Florianópolis/SC 🇧🇷
 
 - :office_worker: Co-founder & CTO at **@HarmoDeveloper**
 - :books: Data Science at uninter.com
-- :blue_heart: Main tech stacks: Javascript, golang, scala and Python
+- :blue_heart: Main tech stacks: Golang, javascript and Python
 - :octocat: Writer at [rifeli.dev](https://rifeli.dev)
