@@ -6,11 +6,12 @@
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-red?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/leonardorifeli)](https://www.kaggle.com/leonardorifeli)
 [![Github Badge](https://komarev.com/ghpvc/?username=leonardorifeli&label=Profile%20views&color=red&style=flat)](https://github.com/leonardorifeli)
 
-I'm a data engineering based in Florianópolis/SC 🇧🇷
+Welcome! I'm a Brazilian Data Scientist.
 
 - :office_worker: Co-founder & CTO at **@HarmoDeveloper**
-- :books: Data Science at uninter.com
-- :blue_heart: Main tech stacks: Golang, javascript and Python
+- :books: Data Scientist
+- :blue_heart: Main tech stacks: Golang, JavaScript, and Python
 - :octocat: Writer at [rifeli.dev](https://rifeli.dev)
+- 📍 Antônio Carlos - SC 🇧🇷
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=leonardorifeli&theme=dark&hide_border=true&border_radius=10&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
