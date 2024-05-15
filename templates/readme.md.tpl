@@ -55,7 +55,7 @@ Many thanks everyone! 🙏
 
 #### 📄 Latest blog posts
 
-{{- range rss "https://rifeli.dev/posts/index.xml" 5 }}
+{{- range rss "https://rifeli.dev/blog/index.xml" 5 }}
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
 {{- end }}
 
