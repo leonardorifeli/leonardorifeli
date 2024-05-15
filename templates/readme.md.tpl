@@ -20,6 +20,20 @@ I'm [Leonardo](https://rifeli.dev), I'm a Brazilian Mathematician and Data Scien
 - **[{{ .Name }}]({{ .URL }})**{{ with .Description }} - {{ . }}{{ end }}
 {{- end }}
 
+#### 🔨 My recent Pull Requests
+{{range recentPullRequests 10}}
+- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
+
+#### ⭐ Recent Stars
+{{range recentStars 10}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
+{{- end}}
+
+{{range followers 5}}
+- Username: {{.Login}}
+{{end}}
+
 #### ❤️ Recent Sponsors
 
 {{- range sponsors 10 }}
