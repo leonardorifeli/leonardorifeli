@@ -12,7 +12,7 @@ I'm [Leonardo](https://rifeli.dev), I'm a Brazilian Mathematician and Data Scien
 - 📚 Mathematician and Data Scientist
 - 💙 Main tech stacks: Golang and Python
 - :octocat: Writer at [rifeli.dev](https://rifeli.dev)
-- 🇧🇷 Antônio Carlos - SC 🇧🇷
+- 🇧🇷 Antônio Carlos - SC
 
 #### 👨‍💻 Repositories I created recently
 
