@@ -6,7 +6,7 @@
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-red?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/leonardorifeli)](https://www.kaggle.com/leonardorifeli)
 [![Github Badge](https://komarev.com/ghpvc/?username=leonardorifeli&label=Profile%20views&color=red&style=flat)](https://github.com/leonardorifeli)
 
-I'm [Leonardo](https://rifeli.dev), I'm a Brazilian Mathematician and Data Scientist.
+I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scientist.
 
 - :office_worker: Co-founder & CTO at **@HarmoDeveloper**
 - 📚 Mathematician and Data Scientist
