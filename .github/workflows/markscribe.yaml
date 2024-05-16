@@ -20,6 +20,8 @@ jobs:
         uses: muesli/markscribe@master
         env:
           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+          LITERAL_EMAIL: ${{ secrets.LITERAL_EMAIL }}
+          LITERAL_PASSWORD: ${{ secrets.LITERAL_PASSWORD }}
         with:
           args: 'templates/README.gtpl > README.md'
 
