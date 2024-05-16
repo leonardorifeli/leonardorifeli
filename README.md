@@ -50,6 +50,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 
 #### ❤️ Recent Sponsors
 
+
+
 Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
