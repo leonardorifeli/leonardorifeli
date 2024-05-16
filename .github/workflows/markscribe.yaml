@@ -17,14 +17,14 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Generate README
-        uses: muesli/markscribe@master
+        uses: muesli/readme-scribe@master
         env:
           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
           LITERAL_EMAIL: ${{ secrets.LITERAL_EMAIL }}
           LITERAL_PASSWORD: ${{ secrets.LITERAL_PASSWORD }}
         with:
-          args: 'templates/README.gtpl > README.md'
-
+          template: "templates/README.gtpl"
+          writeTo: "README.md"
       - name: Commit README
         uses: stefanzweifel/git-auto-commit-action@v4
         env:
