@@ -40,7 +40,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 
 #### ❤️ Recent Sponsors
 
-{{- range sponsors 5 }}
+{{range sponsors 5 }}
 - [{{ or .User.Name .User.Login }}]({{ .User.URL }})
 {{- end }}
 
