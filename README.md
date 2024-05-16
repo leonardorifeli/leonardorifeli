@@ -37,15 +37,15 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 #### ❤️ Recent Followers
 
 
-- [flaviotsx](flaviotsx)
+- [flaviotsx](flaviotsx) - Flavio Tavares Silva
 
-- [zanlucathiago](zanlucathiago)
+- [zanlucathiago](zanlucathiago) - Thiago Zanluca
 
-- [Rakhimjon](Rakhimjon)
+- [Rakhimjon](Rakhimjon) - Rakhim Abdullayev
 
-- [rafaelabou1999](rafaelabou1999)
+- [rafaelabou1999](rafaelabou1999) - Rafaela Bourdette
 
-- [m4theuspereira-maker](m4theuspereira-maker)
+- [m4theuspereira-maker](m4theuspereira-maker) - Matheus Pereira
 
 
 #### ❤️ Recent Sponsors
