@@ -21,14 +21,18 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 {{- end }}
 
 #### 🔨 My recent Pull Requests
-{{range recentPullRequests 10}}
+
+{{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
 #### ⭐ Recent Stars
-{{range recentStars 10}}
+
+{{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
+
+#### ❤️ Recent Followers
 
 {{range followers 5}}
 - Username: {{.Login}}
@@ -36,7 +40,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 
 #### ❤️ Recent Sponsors
 
-{{- range sponsors 10 }}
+{{- range sponsors 5 }}
 - [{{ or .User.Name .User.Login }}]({{ .User.URL }})
 {{- end }}
 
@@ -45,12 +49,6 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 {{ range recentContributions 10 }}
 - [{{.Repo.Name}}]({{.Repo.URL}})
-{{- end }}
-
-#### 📚 Books I'm reading
-
-{{- range literalClubCurrentlyReading 5 }}
-- **[{{ .Title }}{{ with .Subtitle }} - {{ . }}{{ end }}](https://literal.club/leonardorifeli/book/{{.Slug}})** by _{{ range $i, $a := .Authors }}{{ if gt $i 0 }}, {{ end }}{{ $a.Name }}{{ end }}_
 {{- end }}
 
 #### 📄 Latest blog posts
