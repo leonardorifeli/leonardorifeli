@@ -29,4 +29,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ github.token }}
         with:
-          commit_message: 'markscribe: update README.md'
+          commit_message: 'docs: Update generated README'
+          branch: master
+          commit_user_name: readme-scribe 🤖
+          commit_user_email: actions@github.com
+          commit_author: readme-scribe 🤖 <actions@github.com>
