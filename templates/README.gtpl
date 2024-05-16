@@ -35,7 +35,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 #### ❤️ Recent Followers
 
 {{range followers 5}}
-- [{{ or .User.Name .User.Login }}]({{ .User.URL }})
+- [{{.Login}}]({{.Login}})
 {{end}}
 
 #### ❤️ Recent Sponsors
