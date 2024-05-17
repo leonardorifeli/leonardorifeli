@@ -37,6 +37,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 #### ❤️ Recent Followers
 
 
+- [vinicius-gandini](https://github.com/vinicius-gandini) - Vinicius Gandini
+
 - [flaviotsx](https://github.com/flaviotsx) - Flavio Tavares Silva
 
 - [zanlucathiago](https://github.com/zanlucathiago) - Thiago Zanluca
@@ -44,8 +46,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 - [Rakhimjon](https://github.com/Rakhimjon) - Rakhim Abdullayev
 
 - [rafaelabou1999](https://github.com/rafaelabou1999) - Rafaela Bourdette
-
-- [m4theuspereira-maker](https://github.com/m4theuspereira-maker) - Matheus Pereira
 
 
 #### ❤️ Recent Sponsors
