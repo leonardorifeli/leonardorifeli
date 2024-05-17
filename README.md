@@ -28,29 +28,30 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 #### ⭐ Recent Stars
 
 
-- [efectn/go-orm-benchmarks](https://github.com/efectn/go-orm-benchmarks) - Advanced benchmarks for &#43;15 Go ORMs. (6 days ago)
+- [Engenheira-Coelho/Curriculo](https://github.com/Engenheira-Coelho/Curriculo) -  (today)
+- [efectn/go-orm-benchmarks](https://github.com/efectn/go-orm-benchmarks) - Advanced benchmarks for &#43;15 Go ORMs. (1 week ago)
 - [hashicorp/serf](https://github.com/hashicorp/serf) - Service orchestration and management tool. (1 week ago)
 - [andreleoni/slogmockexample](https://github.com/andreleoni/slogmockexample) -  (1 week ago)
 - [jba/OnTheGo](https://github.com/jba/OnTheGo) - Code for the OnTheGo web series (2 weeks ago)
-- [1pkg/gohalt](https://github.com/1pkg/gohalt) - Gohalt 👮‍♀🛑: Fast; Simple; Powerful; Go Throttler library (2 weeks ago)
 
 #### ❤️ Recent Followers
 
 
-- [https://github.com/flaviotsx](flaviotsx) - Flavio Tavares Silva
+- [vinicius-gandini](https://github.com/vinicius-gandini) - Vinicius Gandini
 
-- [https://github.com/zanlucathiago](zanlucathiago) - Thiago Zanluca
+- [flaviotsx](https://github.com/flaviotsx) - Flavio Tavares Silva
 
-- [https://github.com/Rakhimjon](Rakhimjon) - Rakhim Abdullayev
+- [zanlucathiago](https://github.com/zanlucathiago) - Thiago Zanluca
 
-- [https://github.com/rafaelabou1999](rafaelabou1999) - Rafaela Bourdette
+- [Rakhimjon](https://github.com/Rakhimjon) - Rakhim Abdullayev
 
-- [https://github.com/m4theuspereira-maker](m4theuspereira-maker) - Matheus Pereira
+- [rafaelabou1999](https://github.com/rafaelabou1999) - Rafaela Bourdette
 
 
 #### ❤️ Recent Sponsors
 
 
+- [Ataíde](https://github.com/wellataide)
 
 Many thanks everyone! 🙏
 
