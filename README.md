@@ -51,6 +51,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 #### ❤️ Recent Sponsors
 
 
+- [Ataíde](https://github.com/wellataide)
 
 Many thanks everyone! 🙏
 
