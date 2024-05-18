@@ -28,7 +28,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 #### ⭐ Recent Stars
 
 
-- [Engenheira-Coelho/Curriculo](https://github.com/Engenheira-Coelho/Curriculo) -  (today)
+- [Engenheira-Coelho/Curriculo](https://github.com/Engenheira-Coelho/Curriculo) -  (1 day ago)
 - [efectn/go-orm-benchmarks](https://github.com/efectn/go-orm-benchmarks) - Advanced benchmarks for &#43;15 Go ORMs. (1 week ago)
 - [hashicorp/serf](https://github.com/hashicorp/serf) - Service orchestration and management tool. (1 week ago)
 - [andreleoni/slogmockexample](https://github.com/andreleoni/slogmockexample) -  (1 week ago)
