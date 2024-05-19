@@ -24,15 +24,16 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 #### 🔨 My recent Pull Requests
 
 
+- [Start markdown](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-leonardorifeli/pull/3) on [Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-leonardorifeli](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-leonardorifeli) (today)
 
 #### ⭐ Recent Stars
 
 
-- [awslabs/agent-evaluation](https://github.com/awslabs/agent-evaluation) - A generative AI-powered framework for testing virtual agents. (today)
-- [Engenheira-Coelho/Curriculo](https://github.com/Engenheira-Coelho/Curriculo) -  (1 day ago)
+- [HarmoDeveloper/airflow](https://github.com/HarmoDeveloper/airflow) - All airflow jobs (dags) (1 day ago)
+- [leonardorifeli/morfeu](https://github.com/leonardorifeli/morfeu) - The morfeu is a financial management system. (1 day ago)
+- [awslabs/agent-evaluation](https://github.com/awslabs/agent-evaluation) - A generative AI-powered framework for testing virtual agents. (1 day ago)
+- [Engenheira-Coelho/Curriculo](https://github.com/Engenheira-Coelho/Curriculo) -  (2 days ago)
 - [efectn/go-orm-benchmarks](https://github.com/efectn/go-orm-benchmarks) - Advanced benchmarks for &#43;15 Go ORMs. (1 week ago)
-- [hashicorp/serf](https://github.com/hashicorp/serf) - Service orchestration and management tool. (1 week ago)
-- [andreleoni/slogmockexample](https://github.com/andreleoni/slogmockexample) -  (1 week ago)
 
 #### ❤️ Recent Followers
 
@@ -59,6 +60,8 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-leonardorifeli](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-leonardorifeli)
+- [leonardorifeli/morfeu](https://github.com/leonardorifeli/morfeu)
 - [digitalinnovationone/dio-lab-open-source](https://github.com/digitalinnovationone/dio-lab-open-source)
 
 #### 📄 Latest blog posts
