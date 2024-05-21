@@ -24,19 +24,21 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 #### 🔨 My recent Pull Requests
 
 
-- [Start markdown](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-leonardorifeli/pull/3) on [Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-leonardorifeli](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-leonardorifeli) (1 day ago)
+- [Start markdown](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-leonardorifeli/pull/3) on [Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-leonardorifeli](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-leonardorifeli) (2 days ago)
 
 #### ⭐ Recent Stars
 
 
-- [HarmoDeveloper/airflow](https://github.com/HarmoDeveloper/airflow) - All airflow jobs (dags) (2 days ago)
-- [leonardorifeli/morfeu](https://github.com/leonardorifeli/morfeu) - The morfeu is a financial management system. (2 days ago)
-- [awslabs/agent-evaluation](https://github.com/awslabs/agent-evaluation) - A generative AI-powered framework for testing virtual agents. (2 days ago)
-- [Engenheira-Coelho/Curriculo](https://github.com/Engenheira-Coelho/Curriculo) -  (3 days ago)
+- [HarmoDeveloper/airflow](https://github.com/HarmoDeveloper/airflow) - All airflow jobs (dags) (3 days ago)
+- [leonardorifeli/morfeu](https://github.com/leonardorifeli/morfeu) - The morfeu is a financial management system. (3 days ago)
+- [awslabs/agent-evaluation](https://github.com/awslabs/agent-evaluation) - A generative AI-powered framework for testing virtual agents. (3 days ago)
+- [Engenheira-Coelho/Curriculo](https://github.com/Engenheira-Coelho/Curriculo) -  (4 days ago)
 - [efectn/go-orm-benchmarks](https://github.com/efectn/go-orm-benchmarks) - Advanced benchmarks for &#43;15 Go ORMs. (1 week ago)
 
 #### ❤️ Recent Followers
 
+
+- [TiagoValdrich](https://github.com/TiagoValdrich) - Tiago José Valdrich
 
 - [Dess193](https://github.com/Dess193) - 
 
@@ -45,8 +47,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 - [vinicius-gandini](https://github.com/vinicius-gandini) - Vinicius Gandini
 
 - [flaviotsx](https://github.com/flaviotsx) - Flavio Tavares Silva
-
-- [zanlucathiago](https://github.com/zanlucathiago) - Thiago Zanluca
 
 
 #### ❤️ Recent Sponsors
