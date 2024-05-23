@@ -46,7 +46,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 
 - [Dess193](https://github.com/Dess193) - 
 
-- [NobleMajo](https://github.com/NobleMajo) - NobleMajo
+- [vinicius-gandini](https://github.com/vinicius-gandini) - Vinicius Gandini
 
 
 #### ❤️ Recent Sponsors
