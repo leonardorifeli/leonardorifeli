@@ -24,19 +24,21 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 #### 🔨 My recent Pull Requests
 
 
-- [Start markdown](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-leonardorifeli/pull/3) on [Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-leonardorifeli](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-leonardorifeli) (3 days ago)
+- [Start markdown](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-leonardorifeli/pull/3) on [Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-leonardorifeli](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-leonardorifeli) (4 days ago)
 
 #### ⭐ Recent Stars
 
 
-- [crealytics/spark-excel](https://github.com/crealytics/spark-excel) - A Spark plugin for reading and writing Excel files (1 day ago)
-- [HarmoDeveloper/airflow](https://github.com/HarmoDeveloper/airflow) - All airflow jobs (dags) (4 days ago)
-- [leonardorifeli/morfeu](https://github.com/leonardorifeli/morfeu) - The morfeu is a financial management system. (4 days ago)
-- [awslabs/agent-evaluation](https://github.com/awslabs/agent-evaluation) - A generative AI-powered framework for testing virtual agents. (4 days ago)
-- [Engenheira-Coelho/Curriculo](https://github.com/Engenheira-Coelho/Curriculo) -  (5 days ago)
+- [crealytics/spark-excel](https://github.com/crealytics/spark-excel) - A Spark plugin for reading and writing Excel files (2 days ago)
+- [HarmoDeveloper/airflow](https://github.com/HarmoDeveloper/airflow) - All airflow jobs (dags) (5 days ago)
+- [leonardorifeli/morfeu](https://github.com/leonardorifeli/morfeu) - The morfeu is a financial management system. (5 days ago)
+- [awslabs/agent-evaluation](https://github.com/awslabs/agent-evaluation) - A generative AI-powered framework for testing virtual agents. (5 days ago)
+- [Engenheira-Coelho/Curriculo](https://github.com/Engenheira-Coelho/Curriculo) -  (6 days ago)
 
 #### ❤️ Recent Followers
 
+
+- [CherylHenkels](https://github.com/CherylHenkels) - Cheryl Henkels
 
 - [aldrshan](https://github.com/aldrshan) - Shane Aldridge
 
@@ -45,8 +47,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 - [Dess193](https://github.com/Dess193) - 
 
 - [NobleMajo](https://github.com/NobleMajo) - NobleMajo
-
-- [vinicius-gandini](https://github.com/vinicius-gandini) - Vinicius Gandini
 
 
 #### ❤️ Recent Sponsors
