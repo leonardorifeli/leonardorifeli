@@ -24,15 +24,15 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 #### 🔨 My recent Pull Requests
 
 
-- [Start markdown](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-leonardorifeli/pull/3) on [Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-leonardorifeli](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-leonardorifeli) (5 days ago)
+- [Start markdown](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-leonardorifeli/pull/3) on [Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-leonardorifeli](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-leonardorifeli) (6 days ago)
 
 #### ⭐ Recent Stars
 
 
-- [crealytics/spark-excel](https://github.com/crealytics/spark-excel) - A Spark plugin for reading and writing Excel files (3 days ago)
-- [HarmoDeveloper/airflow](https://github.com/HarmoDeveloper/airflow) - All airflow jobs (dags) (6 days ago)
-- [leonardorifeli/morfeu](https://github.com/leonardorifeli/morfeu) - The morfeu is a financial management system. (6 days ago)
-- [awslabs/agent-evaluation](https://github.com/awslabs/agent-evaluation) - A generative AI-powered framework for testing virtual agents. (6 days ago)
+- [crealytics/spark-excel](https://github.com/crealytics/spark-excel) - A Spark plugin for reading and writing Excel files (4 days ago)
+- [HarmoDeveloper/airflow](https://github.com/HarmoDeveloper/airflow) - All airflow jobs (dags) (1 week ago)
+- [leonardorifeli/morfeu](https://github.com/leonardorifeli/morfeu) - The morfeu is a financial management system. (1 week ago)
+- [awslabs/agent-evaluation](https://github.com/awslabs/agent-evaluation) - A generative AI-powered framework for testing virtual agents. (1 week ago)
 - [Engenheira-Coelho/Curriculo](https://github.com/Engenheira-Coelho/Curriculo) -  (1 week ago)
 
 #### ❤️ Recent Followers
