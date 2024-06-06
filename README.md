@@ -37,6 +37,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 #### ❤️ Recent Followers
 
 
+- [LegendaryNaix](https://github.com/LegendaryNaix) - Super Coding Star
+
 - [CherylHenkels](https://github.com/CherylHenkels) - Cheryl Henkels
 
 - [aldrshan](https://github.com/aldrshan) - Shane Aldridge
@@ -44,8 +46,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 - [TiagoValdrich](https://github.com/TiagoValdrich) - Tiago José Valdrich
 
 - [Dess193](https://github.com/Dess193) - 
-
-- [vinicius-gandini](https://github.com/vinicius-gandini) - Vinicius Gandini
 
 
 #### ❤️ Recent Sponsors
