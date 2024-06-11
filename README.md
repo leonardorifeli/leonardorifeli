@@ -28,7 +28,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 #### ⭐ Recent Stars
 
 
-- [crealytics/spark-excel](https://github.com/crealytics/spark-excel) - A Spark plugin for reading and writing Excel files (2 weeks ago)
+- [crealytics/spark-excel](https://github.com/crealytics/spark-excel) - A Spark plugin for reading and writing Excel files (3 weeks ago)
 - [HarmoDeveloper/airflow](https://github.com/HarmoDeveloper/airflow) - All airflow jobs (dags) (3 weeks ago)
 - [leonardorifeli/morfeu](https://github.com/leonardorifeli/morfeu) - The morfeu is a financial management system. (3 weeks ago)
 - [awslabs/agent-evaluation](https://github.com/awslabs/agent-evaluation) - A generative AI-powered framework for testing virtual agents. (3 weeks ago)
