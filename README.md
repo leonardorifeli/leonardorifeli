@@ -37,6 +37,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 #### ❤️ Recent Followers
 
 
+- [imaarov](https://github.com/imaarov) - Iman
+
 - [MightyTechNinja](https://github.com/MightyTechNinja) - Mighty Tech Ninja
 
 - [alirezajavadigit](https://github.com/alirezajavadigit) - alireza javadi
@@ -44,8 +46,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 - [LegendaryNaix](https://github.com/LegendaryNaix) - Super Coding Star
 
 - [CherylHenkels](https://github.com/CherylHenkels) - Cheryl Henkels
-
-- [aldrshan](https://github.com/aldrshan) - Shane Aldridge
 
 
 #### ❤️ Recent Sponsors
