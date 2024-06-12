@@ -28,7 +28,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 #### ⭐ Recent Stars
 
 
-- [TeoMeWhy/teomerefs](https://github.com/TeoMeWhy/teomerefs) - Guia de referências técnicas para carreira em dados (today)
+- [TeoMeWhy/teomerefs](https://github.com/TeoMeWhy/teomerefs) - Guia de referências técnicas para carreira em dados (1 day ago)
 - [crealytics/spark-excel](https://github.com/crealytics/spark-excel) - A Spark plugin for reading and writing Excel files (3 weeks ago)
 - [HarmoDeveloper/airflow](https://github.com/HarmoDeveloper/airflow) - All airflow jobs (dags) (3 weeks ago)
 - [leonardorifeli/morfeu](https://github.com/leonardorifeli/morfeu) - The morfeu is a financial management system. (3 weeks ago)
@@ -37,6 +37,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 #### ❤️ Recent Followers
 
 
+- [MightyTechNinja](https://github.com/MightyTechNinja) - Mighty Tech Ninja
+
 - [alirezajavadigit](https://github.com/alirezajavadigit) - alireza javadi
 
 - [LegendaryNaix](https://github.com/LegendaryNaix) - Super Coding Star
@@ -44,8 +46,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 - [CherylHenkels](https://github.com/CherylHenkels) - Cheryl Henkels
 
 - [aldrshan](https://github.com/aldrshan) - Shane Aldridge
-
-- [TiagoValdrich](https://github.com/TiagoValdrich) - Tiago José Valdrich
 
 
 #### ❤️ Recent Sponsors
