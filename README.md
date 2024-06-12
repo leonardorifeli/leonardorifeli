@@ -41,7 +41,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 
 - [imaarov](https://github.com/imaarov) - Iman
 
-- [MightyTechNinja](https://github.com/MightyTechNinja) - Mighty Tech Ninja
+- [MightyTechNinja](https://github.com/MightyTechNinja) - MightyTechNinja
 
 - [alirezajavadigit](https://github.com/alirezajavadigit) - alireza javadi
 
