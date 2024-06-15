@@ -37,15 +37,15 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 #### ❤️ Recent Followers
 
 
+- [laluxx](https://github.com/laluxx) - 
+
+- [x3ric](https://github.com/x3ric) - 
+
 - [Matheus-Lenzi](https://github.com/Matheus-Lenzi) - Matheus Lenzi dos Santos
 
 - [CavinMatrics](https://github.com/CavinMatrics) - Healer
 
 - [imaarov](https://github.com/imaarov) - Iman
-
-- [MightyTechNinja](https://github.com/MightyTechNinja) - MightyTechNinja
-
-- [alirezajavadigit](https://github.com/alirezajavadigit) - alireza javadi
 
 
 #### ❤️ Recent Sponsors
