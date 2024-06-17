@@ -28,11 +28,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 #### ⭐ Recent Stars
 
 
-- [aws-samples/amazon-bedrock-serverless-prompt-chaining](https://github.com/aws-samples/amazon-bedrock-serverless-prompt-chaining) -  (3 days ago)
-- [TeoMeWhy/teomerefs](https://github.com/TeoMeWhy/teomerefs) - Guia de referências técnicas para carreira em dados (5 days ago)
+- [aws-samples/amazon-bedrock-serverless-prompt-chaining](https://github.com/aws-samples/amazon-bedrock-serverless-prompt-chaining) -  (4 days ago)
+- [TeoMeWhy/teomerefs](https://github.com/TeoMeWhy/teomerefs) - Guia de referências técnicas para carreira em dados (6 days ago)
 - [crealytics/spark-excel](https://github.com/crealytics/spark-excel) - A Spark plugin for reading and writing Excel files (3 weeks ago)
-- [HarmoDeveloper/airflow](https://github.com/HarmoDeveloper/airflow) - All airflow jobs (dags) (4 weeks ago)
-- [leonardorifeli/morfeu](https://github.com/leonardorifeli/morfeu) - The morfeu is a financial management system. (4 weeks ago)
+- [HarmoDeveloper/airflow](https://github.com/HarmoDeveloper/airflow) - All airflow jobs (dags) (1 month ago)
+- [leonardorifeli/morfeu](https://github.com/leonardorifeli/morfeu) - The morfeu is a financial management system. (1 month ago)
 
 #### ❤️ Recent Followers
 
@@ -51,9 +51,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 #### ❤️ Recent Sponsors
 
 
-- [henrialbano](https://github.com/Heinric) - henrialbano
-- [Vinicius Gandini](https://github.com/vinicius-gandini) - Vinicius Gandini
-- [Ataíde](https://github.com/wellataide) - Ataíde
 
 Many thanks everyone! 🙏
 
