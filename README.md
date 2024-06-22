@@ -45,7 +45,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 
 - [CavinMatrics](https://github.com/CavinMatrics) - Healer
 
-- [imaarov](https://github.com/imaarov) - Iman
+- [MightyTechNinja](https://github.com/MightyTechNinja) - MightyTechNinja
 
 
 #### ❤️ Recent Sponsors
