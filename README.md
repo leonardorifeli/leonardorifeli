@@ -37,6 +37,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 #### ❤️ Recent Followers
 
 
+- [Vikranth3140](https://github.com/Vikranth3140) - Vikranth Udandarao
+
 - [laluxx](https://github.com/laluxx) - 
 
 - [x3ric](https://github.com/x3ric) - 
@@ -44,8 +46,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 - [Matheus-Lenzi](https://github.com/Matheus-Lenzi) - Matheus Lenzi dos Santos
 
 - [CavinMatrics](https://github.com/CavinMatrics) - Healer
-
-- [MightyTechNinja](https://github.com/MightyTechNinja) - MightyTechNinja
 
 
 #### ❤️ Recent Sponsors
