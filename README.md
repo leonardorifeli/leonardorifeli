@@ -37,7 +37,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 #### ❤️ Recent Followers
 
 
-- [Vikranth3140](https://github.com/Vikranth3140) - Vikranth Udandarao
+- [masterindigitalmarketing](https://github.com/masterindigitalmarketing) - Gianna Eleanor
 
 - [laluxx](https://github.com/laluxx) - 
 
