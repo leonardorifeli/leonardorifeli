@@ -15,11 +15,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 - 🇧🇷 Antônio Carlos - SC
 
 #### 👨‍💻 Repositories I created recently
+- **[leonardorifeli/idsfisio.com.br](https://github.com/leonardorifeli/idsfisio.com.br)**
 - **[leonardorifeli/personal_blog](https://github.com/leonardorifeli/personal_blog)**
 - **[leonardorifeli/bigdata-processor](https://github.com/leonardorifeli/bigdata-processor)**
 - **[leonardorifeli/noughts-and-crosses-java](https://github.com/leonardorifeli/noughts-and-crosses-java)** - Noughts and Crosses Algorithm in Java
 - **[leonardorifeli/rosenblatt](https://github.com/leonardorifeli/rosenblatt)** - Python rosenblatt custom algoritms
-- **[leonardorifeli/ball-colors-processor](https://github.com/leonardorifeli/ball-colors-processor)**
 
 #### 🔨 My recent Pull Requests
 
@@ -37,8 +37,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 #### ❤️ Recent Followers
 
 
-- [masterindigitalmarketing](https://github.com/masterindigitalmarketing) - Gianna Eleanor
-
 - [laluxx](https://github.com/laluxx) - 
 
 - [x3ric](https://github.com/x3ric) - 
@@ -46,6 +44,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 - [Matheus-Lenzi](https://github.com/Matheus-Lenzi) - Matheus Lenzi dos Santos
 
 - [CavinMatrics](https://github.com/CavinMatrics) - Healer
+
+- [MightyTechNinja](https://github.com/MightyTechNinja) - MightyTechNinja
 
 
 #### ❤️ Recent Sponsors
@@ -56,6 +56,7 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [leonardorifeli/idsfisio.com.br](https://github.com/leonardorifeli/idsfisio.com.br)
 - [Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-leonardorifeli](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-leonardorifeli)
 - [leonardorifeli/morfeu](https://github.com/leonardorifeli/morfeu)
 - [digitalinnovationone/dio-lab-open-source](https://github.com/digitalinnovationone/dio-lab-open-source)
