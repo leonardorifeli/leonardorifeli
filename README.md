@@ -37,6 +37,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 #### ❤️ Recent Followers
 
 
+- [IvanENERGY](https://github.com/IvanENERGY) - IvanChanStudio
+
 - [laluxx](https://github.com/laluxx) - 
 
 - [Matheus-Lenzi](https://github.com/Matheus-Lenzi) - Matheus Lenzi dos Santos
@@ -44,8 +46,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 - [CavinMatrics](https://github.com/CavinMatrics) - Healer
 
 - [MightyTechNinja](https://github.com/MightyTechNinja) - MightyTechNinja
-
-- [LegendaryNaix](https://github.com/LegendaryNaix) - Super Coding Star
 
 
 #### ❤️ Recent Sponsors
