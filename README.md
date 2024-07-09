@@ -39,13 +39,13 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 
 - [danilohbp](https://github.com/danilohbp) - DaniloHBP
 
-- [IvanENERGY](https://github.com/IvanENERGY) - IvanChanStudio
-
 - [Matheus-Lenzi](https://github.com/Matheus-Lenzi) - Matheus Lenzi dos Santos
 
 - [CavinMatrics](https://github.com/CavinMatrics) - Healer
 
 - [MightyTechNinja](https://github.com/MightyTechNinja) - MightyTechNinja
+
+- [LegendaryNaix](https://github.com/LegendaryNaix) - Super Coding Star
 
 
 #### ❤️ Recent Sponsors
