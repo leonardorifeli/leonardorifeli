@@ -28,11 +28,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 #### ⭐ Recent Stars
 
 
+- [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver (today)
 - [KAYOKG/BibliotecaDev](https://github.com/KAYOKG/BibliotecaDev) - 📚 Biblioteca de livros essenciais da área da programação. (Confira o meu novo projeto `SendScriptWhatsapp`) (3 weeks ago)
 - [aws-samples/amazon-bedrock-serverless-prompt-chaining](https://github.com/aws-samples/amazon-bedrock-serverless-prompt-chaining) -  (1 month ago)
 - [TeoMeWhy/teomerefs](https://github.com/TeoMeWhy/teomerefs) - Guia de referências técnicas para carreira em dados (1 month ago)
 - [crealytics/spark-excel](https://github.com/crealytics/spark-excel) - A Spark plugin for reading and writing Excel files (2 months ago)
-- [HarmoDeveloper/airflow](https://github.com/HarmoDeveloper/airflow) - All airflow jobs (dags) (2 months ago)
 
 #### ❤️ Recent Followers
 
