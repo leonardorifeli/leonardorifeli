@@ -37,6 +37,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 #### ❤️ Recent Followers
 
 
+- [anilthummar](https://github.com/anilthummar) - Anil Thummar
+
 - [alxkm](https://github.com/alxkm) - Alex Klymenko
 
 - [danilohbp](https://github.com/danilohbp) - DaniloHBP
@@ -44,8 +46,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 - [Matheus-Lenzi](https://github.com/Matheus-Lenzi) - Matheus Lenzi dos Santos
 
 - [CavinMatrics](https://github.com/CavinMatrics) - Healer
-
-- [MightyTechNinja](https://github.com/MightyTechNinja) - MightyTechNinja
 
 
 #### ❤️ Recent Sponsors
