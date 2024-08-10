@@ -37,6 +37,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 #### ❤️ Recent Followers
 
 
+- [standardgalactic](https://github.com/standardgalactic) - Cogito Ergo Sum
+
 - [Charles-Chrismann](https://github.com/Charles-Chrismann) - Charles Chrismann
 
 - [anilthummar](https://github.com/anilthummar) - Anil Thummar
@@ -44,8 +46,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 - [alxkm](https://github.com/alxkm) - Alex Klymenko
 
 - [danilohbp](https://github.com/danilohbp) - DaniloHBP
-
-- [Matheus-Lenzi](https://github.com/Matheus-Lenzi) - Matheus Lenzi dos Santos
 
 
 #### ❤️ Recent Sponsors
