@@ -28,7 +28,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 #### ⭐ Recent Stars
 
 
-- [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver (2 weeks ago)
+- [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver (3 weeks ago)
 - [KAYOKG/BibliotecaDev](https://github.com/KAYOKG/BibliotecaDev) - 📚 Biblioteca de livros essenciais da área da programação. (Confira o meu novo projeto `SendScriptWhatsapp`) (1 month ago)
 - [aws-samples/amazon-bedrock-serverless-prompt-chaining](https://github.com/aws-samples/amazon-bedrock-serverless-prompt-chaining) - Build complex, serverless, and highly scalable generative AI applications with prompt chaining. (2 months ago)
 - [TeoMeWhy/teomerefs](https://github.com/TeoMeWhy/teomerefs) - Guia de referências técnicas para carreira em dados (2 months ago)
@@ -37,6 +37,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 #### ❤️ Recent Followers
 
 
+- [kazhuravlev](https://github.com/kazhuravlev) - Kirill Zhuravlev
+
 - [standardgalactic](https://github.com/standardgalactic) - Cogito Ergo Sum
 
 - [Charles-Chrismann](https://github.com/Charles-Chrismann) - Charles Chrismann
@@ -44,8 +46,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 - [anilthummar](https://github.com/anilthummar) - Anil Thummar
 
 - [alxkm](https://github.com/alxkm) - Alex Klymenko
-
-- [danilohbp](https://github.com/danilohbp) - DaniloHBP
 
 
 #### ❤️ Recent Sponsors
