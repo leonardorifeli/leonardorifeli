@@ -37,6 +37,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 #### ❤️ Recent Followers
 
 
+- [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage) - Pavlo Bondarenko
+
 - [kazhuravlev](https://github.com/kazhuravlev) - Kirill Zhuravlev
 
 - [standardgalactic](https://github.com/standardgalactic) - Cogito Ergo Sum
@@ -44,8 +46,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 - [Charles-Chrismann](https://github.com/Charles-Chrismann) - Charles Chrismann
 
 - [anilthummar](https://github.com/anilthummar) - Anil Thummar
-
-- [alxkm](https://github.com/alxkm) - Alex Klymenko
 
 
 #### ❤️ Recent Sponsors
