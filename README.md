@@ -37,6 +37,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 #### ❤️ Recent Followers
 
 
+- [Ijiola](https://github.com/Ijiola) - Ijiolá Motta
+
 - [Connor9994](https://github.com/Connor9994) - Connor
 
 - [Tomiwa-Ot](https://github.com/Tomiwa-Ot) - Olorunfemi-Ojo Tomiwa
@@ -44,8 +46,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 - [JohnMwendwa](https://github.com/JohnMwendwa) - John Mwendwa
 
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage) - Pavlo Bondarenko
-
-- [standardgalactic](https://github.com/standardgalactic) - Cogito Ergo Sum
 
 
 #### ❤️ Recent Sponsors
