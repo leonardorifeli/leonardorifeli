@@ -43,9 +43,9 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 
 - [Connor9994](https://github.com/Connor9994) - Connor
 
-- [Tomiwa-Ot](https://github.com/Tomiwa-Ot) - Olorunfemi-Ojo Tomiwa
-
 - [JohnMwendwa](https://github.com/JohnMwendwa) - John Mwendwa
+
+- [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage) - Pavlo Bondarenko
 
 
 #### ❤️ Recent Sponsors
