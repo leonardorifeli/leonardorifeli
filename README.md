@@ -37,13 +37,13 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 #### ❤️ Recent Followers
 
 
+- [blocage](https://github.com/blocage) - David
+
 - [viniciusgarciam](https://github.com/viniciusgarciam) - 
 
 - [Ijiola](https://github.com/Ijiola) - Ijiolá Motta
 
 - [Connor9994](https://github.com/Connor9994) - Connor
-
-- [JohnMwendwa](https://github.com/JohnMwendwa) - John Mwendwa
 
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage) - Pavlo Bondarenko
 
