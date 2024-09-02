@@ -37,8 +37,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 #### ❤️ Recent Followers
 
 
-- [blocage](https://github.com/blocage) - David
-
 - [viniciusgarciam](https://github.com/viniciusgarciam) - 
 
 - [Ijiola](https://github.com/Ijiola) - Ijiolá Motta
@@ -46,6 +44,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 - [Connor9994](https://github.com/Connor9994) - Connor
 
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage) - Pavlo Bondarenko
+
+- [standardgalactic](https://github.com/standardgalactic) - Cogito Ergo Sum
 
 
 #### ❤️ Recent Sponsors
