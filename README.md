@@ -37,6 +37,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 #### ❤️ Recent Followers
 
 
+- [Jott4](https://github.com/Jott4) - João Victor Cunha
+
 - [pgshaunl](https://github.com/pgshaunl) - Shaun Li
 
 - [viniciusgarciam](https://github.com/viniciusgarciam) - 
@@ -44,8 +46,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 - [Ijiola](https://github.com/Ijiola) - Ijiolá Motta
 
 - [Connor9994](https://github.com/Connor9994) - Connor
-
-- [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage) - Pavlo Bondarenko
 
 
 #### ❤️ Recent Sponsors
