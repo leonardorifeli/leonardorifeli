@@ -28,7 +28,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scien
 #### ⭐ Recent Stars
 
 
-- [typper-io/calendar-ai](https://github.com/typper-io/calendar-ai) - Calendar AI is a smart calendar that uses AI to help you manage your calendar. It&#39;s like magic, and it&#39;s free forever. (2 days ago)
+- [typper-io/calendar-ai](https://github.com/typper-io/calendar-ai) - Calendar AI is a smart calendar that uses AI to help you manage your calendar. It&#39;s like magic, and it&#39;s free forever. (3 days ago)
 - [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver (1 month ago)
 - [KAYOKG/BibliotecaDev](https://github.com/KAYOKG/BibliotecaDev) - 📚 Biblioteca de livros essenciais da área da programação. (Confira o meu novo projeto `SendScriptWhatsapp`) (2 months ago)
 - [aws-samples/amazon-bedrock-serverless-prompt-chaining](https://github.com/aws-samples/amazon-bedrock-serverless-prompt-chaining) - Build complex, serverless, and highly scalable generative AI applications with prompt chaining. (2 months ago)
