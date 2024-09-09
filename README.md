@@ -8,7 +8,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - :office_worker: Co-founder & CTO at **@HarmoDeveloper**
 - 📚 Mathematician and Data Scientist
-- 💙 Main tech stacks: Golang and Python
+- 💙 Main tech stacks: Golang, Python and Javascript
 - :octocat: Writer at [rifeli.dev](https://rifeli.dev)
 - 🇧🇷 Antônio Carlos - SC
 
@@ -26,11 +26,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
+- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (today)
+- [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼 (today)
 - [typper-io/calendar-ai](https://github.com/typper-io/calendar-ai) - Calendar AI is a smart calendar that uses AI to help you manage your calendar. It&#39;s like magic, and it&#39;s free forever. (5 days ago)
 - [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver (1 month ago)
 - [KAYOKG/BibliotecaDev](https://github.com/KAYOKG/BibliotecaDev) - 📚 Biblioteca de livros essenciais da área da programação. (Confira o meu novo projeto `SendScriptWhatsapp`) (2 months ago)
-- [aws-samples/amazon-bedrock-serverless-prompt-chaining](https://github.com/aws-samples/amazon-bedrock-serverless-prompt-chaining) - Build complex, serverless, and highly scalable generative AI applications with prompt chaining. (2 months ago)
-- [TeoMeWhy/teomerefs](https://github.com/TeoMeWhy/teomerefs) - Guia de referências técnicas para carreira em dados (3 months ago)
 
 #### ❤️ Recent Followers
 
