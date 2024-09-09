@@ -8,7 +8,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - :office_worker: Co-founder & CTO at **@HarmoDeveloper**
 - 📚 Mathematician and Data Scientist
-- 💙 Main tech stacks: Golang and Python
+- 💙 Main tech stacks: Golang, Python and Javascript
 - :octocat: Writer at [rifeli.dev](https://rifeli.dev)
 - 🇧🇷 Antônio Carlos - SC
 
