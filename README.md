@@ -2,11 +2,9 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-red?style=flat-square&logo=Github&logoColor=white&link=https://github.com/leonardorifeli)](https://github.com/leonardorifeli)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-red?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardorifeli/)](https://www.linkedin.com/in/leonardorifeli/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-red?style=flat-square&labelColor=red&logo=twitter&logoColor=white&link=https://twitter.com/leonardorifeli)](https://twitter.com/leonardorifeli)
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-red?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/leonardorifeli)](https://www.kaggle.com/leonardorifeli)
 [![Github Badge](https://komarev.com/ghpvc/?username=leonardorifeli&label=Profile%20views&color=red&style=flat)](https://github.com/leonardorifeli)
 
-I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Mathematician and Data Scientist.
+I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - :office_worker: Co-founder & CTO at **@HarmoDeveloper**
 - 📚 Mathematician and Data Scientist
@@ -68,4 +66,4 @@ Many thanks everyone! 🙏
 - [Princípios SOLID: SRP e sopa de letrinhas](https://rifeli.dev/blog/2017-03-25-principios-solid-srp-e-sopa-de-letrinhas/) (7 years ago)
 - [Falando sobre a estrutura do meu blog](https://rifeli.dev/blog/2016-11-11-falando-sobre-a-estrutura-do-meu-blog/) (7 years ago)
 
-Created based on [Becker's](https://github.com/caarlos0) readme.
+I created this readme based on [Becker's](https://github.com/caarlos0) readme.
