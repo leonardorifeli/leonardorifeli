@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [eust-w](https://github.com/eust-w) - longtao
+
 - [Jott4](https://github.com/Jott4) - João Victor Cunha
 
 - [pgshaunl](https://github.com/pgshaunl) - Shaun Li
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [viniciusgarciam](https://github.com/viniciusgarciam) - 
 
 - [Ijiola](https://github.com/Ijiola) - Ijiolá Motta
-
-- [Connor9994](https://github.com/Connor9994) - Connor
 
 
 #### ❤️ Recent Sponsors
