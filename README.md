@@ -26,11 +26,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [udhos/update-golang](https://github.com/udhos/update-golang) - update-golang is a script to easily fetch and install new Golang releases with minimum system intrusion (1 day ago)
-- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (2 days ago)
-- [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼 (2 days ago)
+- [the-amazing-ledger/the-amazing-ledger](https://github.com/the-amazing-ledger/the-amazing-ledger) -  (1 day ago)
+- [udhos/update-golang](https://github.com/udhos/update-golang) - update-golang is a script to easily fetch and install new Golang releases with minimum system intrusion (2 days ago)
+- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (3 days ago)
+- [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼 (3 days ago)
 - [typper-io/calendar-ai](https://github.com/typper-io/calendar-ai) - Calendar AI is a smart calendar that uses AI to help you manage your calendar. It&#39;s like magic, and it&#39;s free forever. (1 week ago)
-- [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver (1 month ago)
 
 #### ❤️ Recent Followers
 
