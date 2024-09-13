@@ -26,11 +26,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [cilium/ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel. (today)
-- [the-amazing-ledger/the-amazing-ledger](https://github.com/the-amazing-ledger/the-amazing-ledger) -  (1 day ago)
-- [udhos/update-golang](https://github.com/udhos/update-golang) - update-golang is a script to easily fetch and install new Golang releases with minimum system intrusion (2 days ago)
-- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (3 days ago)
-- [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼 (3 days ago)
+- [cilium/ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel. (1 day ago)
+- [the-amazing-ledger/the-amazing-ledger](https://github.com/the-amazing-ledger/the-amazing-ledger) -  (2 days ago)
+- [udhos/update-golang](https://github.com/udhos/update-golang) - update-golang is a script to easily fetch and install new Golang releases with minimum system intrusion (3 days ago)
+- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (4 days ago)
+- [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼 (4 days ago)
 
 #### ❤️ Recent Followers
 
