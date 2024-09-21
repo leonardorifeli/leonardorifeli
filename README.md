@@ -37,13 +37,13 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [princefr](https://github.com/princefr) - Princefr
 
-- [Elbagoury](https://github.com/Elbagoury) - Elbagoury
-
 - [eust-w](https://github.com/eust-w) - longtao
 
 - [Jott4](https://github.com/Jott4) - João Victor Cunha
 
 - [pgshaunl](https://github.com/pgshaunl) - Shaun Li
+
+- [viniciusgarciam](https://github.com/viniciusgarciam) - 
 
 
 #### ❤️ Recent Sponsors
