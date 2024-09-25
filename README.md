@@ -30,7 +30,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [udhos/update-golang](https://github.com/udhos/update-golang) - update-golang is a script to easily fetch and install new Golang releases with minimum system intrusion (2 weeks ago)
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (2 weeks ago)
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼 (2 weeks ago)
-- [typper-io/calendar-ai](https://github.com/typper-io/calendar-ai) - Calendar AI is a smart calendar that uses AI to help you manage your calendar. It&#39;s like magic, and it&#39;s free forever. (2 weeks ago)
+- [typper-io/calendar-ai](https://github.com/typper-io/calendar-ai) - Calendar AI is a smart calendar that uses AI to help you manage your calendar. It&#39;s like magic, and it&#39;s free forever. (3 weeks ago)
 
 #### ❤️ Recent Followers
 
