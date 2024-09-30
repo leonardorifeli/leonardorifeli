@@ -26,11 +26,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [ariga/atlas](https://github.com/ariga/atlas) - Manage your database schema as code (4 days ago)
+- [ariga/atlas](https://github.com/ariga/atlas) - Manage your database schema as code (5 days ago)
 - [cilium/ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel. (2 weeks ago)
 - [udhos/update-golang](https://github.com/udhos/update-golang) - update-golang is a script to easily fetch and install new Golang releases with minimum system intrusion (2 weeks ago)
-- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (2 weeks ago)
-- [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼 (2 weeks ago)
+- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (3 weeks ago)
+- [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼 (3 weeks ago)
 
 #### ❤️ Recent Followers
 
@@ -64,6 +64,6 @@ Many thanks everyone! 🙏
 - [Princípios SOLID: LSP e sopa de letrinhas](https://rifeli.dev/blog/2017-12-30-principios-solid-lsp-e-sopa-de-letrinhas/) (6 years ago)
 - [Princípios SOLID: OCP e sopa de letrinhas](https://rifeli.dev/blog/2017-12-06-principios-solid-ocp-e-sopa-de-letrinhas/) (6 years ago)
 - [Princípios SOLID: SRP e sopa de letrinhas](https://rifeli.dev/blog/2017-03-25-principios-solid-srp-e-sopa-de-letrinhas/) (7 years ago)
-- [Falando sobre a estrutura do meu blog](https://rifeli.dev/blog/2016-11-11-falando-sobre-a-estrutura-do-meu-blog/) (7 years ago)
+- [Falando sobre a estrutura do meu blog](https://rifeli.dev/blog/2016-11-11-falando-sobre-a-estrutura-do-meu-blog/) (8 years ago)
 
 I created this readme based on [Becker's](https://github.com/caarlos0) readme.
