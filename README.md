@@ -26,10 +26,10 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [HarmoDeveloper/go-packages](https://github.com/HarmoDeveloper/go-packages) -  (5 days ago)
-- [bayraktugrul/modview](https://github.com/bayraktugrul/modview) - Effortlessly visualize mod graph with all external dependencies for your Go projects (5 days ago)
-- [uber-go/multierr](https://github.com/uber-go/multierr) - Combine one or more Go errors together (6 days ago)
-- [ariga/atlas](https://github.com/ariga/atlas) - Manage your database schema as code (1 week ago)
+- [HarmoDeveloper/go-packages](https://github.com/HarmoDeveloper/go-packages) -  (6 days ago)
+- [bayraktugrul/modview](https://github.com/bayraktugrul/modview) - Effortlessly visualize mod graph with all external dependencies for your Go projects (6 days ago)
+- [uber-go/multierr](https://github.com/uber-go/multierr) - Combine one or more Go errors together (1 week ago)
+- [ariga/atlas](https://github.com/ariga/atlas) - Manage your database schema as code (2 weeks ago)
 - [cilium/ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel. (3 weeks ago)
 
 #### ❤️ Recent Followers
