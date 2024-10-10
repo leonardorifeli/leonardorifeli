@@ -26,24 +26,24 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [HarmoDeveloper/go-packages](https://github.com/HarmoDeveloper/go-packages) -  (6 days ago)
-- [bayraktugrul/modview](https://github.com/bayraktugrul/modview) - Effortlessly visualize mod graph with all external dependencies for your Go projects (6 days ago)
+- [HarmoDeveloper/go-packages](https://github.com/HarmoDeveloper/go-packages) -  (1 week ago)
+- [bayraktugrul/modview](https://github.com/bayraktugrul/modview) - Effortlessly visualize mod graph with all external dependencies for your Go projects (1 week ago)
 - [uber-go/multierr](https://github.com/uber-go/multierr) - Combine one or more Go errors together (1 week ago)
 - [ariga/atlas](https://github.com/ariga/atlas) - Manage your database schema as code (2 weeks ago)
-- [cilium/ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel. (3 weeks ago)
+- [cilium/ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel. (4 weeks ago)
 
 #### ❤️ Recent Followers
 
+
+- [mustafacagri](https://github.com/mustafacagri) - Mustafa Çağrı Güven
+
+- [perebaj](https://github.com/perebaj) - Jonathan 
 
 - [princefr](https://github.com/princefr) - Princefr
 
 - [eust-w](https://github.com/eust-w) - longtao
 
 - [Jott4](https://github.com/Jott4) - João Victor Cunha
-
-- [pgshaunl](https://github.com/pgshaunl) - Shaun Li
-
-- [viniciusgarciam](https://github.com/viniciusgarciam) - 
 
 
 #### ❤️ Recent Sponsors
