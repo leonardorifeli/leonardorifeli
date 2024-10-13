@@ -26,8 +26,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go. (2 days ago)
-- [jedib0t/go-pretty](https://github.com/jedib0t/go-pretty) - Table-writer and more in golang! (2 days ago)
+- [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go. (3 days ago)
+- [jedib0t/go-pretty](https://github.com/jedib0t/go-pretty) - Table-writer and more in golang! (3 days ago)
 - [HarmoDeveloper/go-packages](https://github.com/HarmoDeveloper/go-packages) -  (1 week ago)
 - [bayraktugrul/modview](https://github.com/bayraktugrul/modview) - Effortlessly visualize mod graph with all external dependencies for your Go projects (1 week ago)
 - [uber-go/multierr](https://github.com/uber-go/multierr) - Combine one or more Go errors together (1 week ago)
