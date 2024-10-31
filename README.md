@@ -28,9 +28,9 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [andrearaponi/dito](https://github.com/andrearaponi/dito) - an advanced reverse proxy server written in Go  (2 weeks ago)
 - [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100&#43; gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more. (2 weeks ago)
-- [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go. (2 weeks ago)
-- [jedib0t/go-pretty](https://github.com/jedib0t/go-pretty) - Table-writer and more in golang! (2 weeks ago)
-- [HarmoDeveloper/go-packages](https://github.com/HarmoDeveloper/go-packages) -  (3 weeks ago)
+- [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go. (3 weeks ago)
+- [jedib0t/go-pretty](https://github.com/jedib0t/go-pretty) - Table-writer and more in golang! (3 weeks ago)
+- [HarmoDeveloper/go-packages](https://github.com/HarmoDeveloper/go-packages) -  (4 weeks ago)
 
 #### ❤️ Recent Followers
 
