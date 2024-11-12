@@ -26,14 +26,16 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [HarmoDeveloper/backoffice-ms](https://github.com/HarmoDeveloper/backoffice-ms) -  (3 days ago)
-- [HarmoDeveloper/public-api](https://github.com/HarmoDeveloper/public-api) -  (6 days ago)
+- [HarmoDeveloper/processors](https://github.com/HarmoDeveloper/processors) - All lambda to data processor (1 day ago)
+- [HarmoDeveloper/backoffice-ms](https://github.com/HarmoDeveloper/backoffice-ms) -  (4 days ago)
+- [HarmoDeveloper/public-api](https://github.com/HarmoDeveloper/public-api) -  (1 week ago)
 - [keshavbhatt/whatsie](https://github.com/keshavbhatt/whatsie) - Feature rich WhatsApp Client for Desktop Linux  (1 week ago)
 - [andrearaponi/dito](https://github.com/andrearaponi/dito) - an advanced reverse proxy server written in Go  (4 weeks ago)
-- [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100&#43; gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more. (4 weeks ago)
 
 #### ❤️ Recent Followers
 
+
+- [bytexenon](https://github.com/bytexenon) - bytexenon
 
 - [idimetrix](https://github.com/idimetrix) - Dmitry Selikhov
 
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [Risyandi](https://github.com/Risyandi) - Risyandi
 
 - [mustafacagri](https://github.com/mustafacagri) - Mustafa Çağrı Güven
-
-- [perebaj](https://github.com/perebaj) - Jonathan 
 
 
 #### ❤️ Recent Sponsors
