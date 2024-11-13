@@ -26,11 +26,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [HarmoDeveloper/processors](https://github.com/HarmoDeveloper/processors) - All lambda to data processor (1 day ago)
-- [HarmoDeveloper/backoffice-ms](https://github.com/HarmoDeveloper/backoffice-ms) -  (4 days ago)
+- [HarmoDeveloper/processors](https://github.com/HarmoDeveloper/processors) - All lambda to data processor (2 days ago)
+- [HarmoDeveloper/backoffice-ms](https://github.com/HarmoDeveloper/backoffice-ms) -  (5 days ago)
 - [HarmoDeveloper/public-api](https://github.com/HarmoDeveloper/public-api) -  (1 week ago)
 - [keshavbhatt/whatsie](https://github.com/keshavbhatt/whatsie) - Feature rich WhatsApp Client for Desktop Linux  (1 week ago)
-- [andrearaponi/dito](https://github.com/andrearaponi/dito) - an advanced reverse proxy server written in Go  (4 weeks ago)
+- [andrearaponi/dito](https://github.com/andrearaponi/dito) - an advanced reverse proxy server written in Go  (1 month ago)
 
 #### ❤️ Recent Followers
 
