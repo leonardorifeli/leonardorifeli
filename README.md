@@ -26,7 +26,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (4 days ago)
+- [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (5 days ago)
 - [HarmoDeveloper/processors](https://github.com/HarmoDeveloper/processors) - All lambda to data processor (1 week ago)
 - [HarmoDeveloper/backoffice-ms](https://github.com/HarmoDeveloper/backoffice-ms) -  (2 weeks ago)
 - [HarmoDeveloper/public-api](https://github.com/HarmoDeveloper/public-api) -  (2 weeks ago)
@@ -61,7 +61,7 @@ Many thanks everyone! 🙏
 
 #### 📄 Latest blog posts
 - [Como utilizamos Serverless na Harmo](https://rifeli.dev/blog/2020-10-08-como-utilizamos-serverless-na-harmo/) (4 years ago)
-- [Princípios SOLID: LSP e sopa de letrinhas](https://rifeli.dev/blog/2017-12-30-principios-solid-lsp-e-sopa-de-letrinhas/) (6 years ago)
+- [Princípios SOLID: LSP e sopa de letrinhas](https://rifeli.dev/blog/2017-12-30-principios-solid-lsp-e-sopa-de-letrinhas/) (7 years ago)
 - [Princípios SOLID: OCP e sopa de letrinhas](https://rifeli.dev/blog/2017-12-06-principios-solid-ocp-e-sopa-de-letrinhas/) (7 years ago)
 - [Princípios SOLID: SRP e sopa de letrinhas](https://rifeli.dev/blog/2017-03-25-principios-solid-srp-e-sopa-de-letrinhas/) (7 years ago)
 - [Falando sobre a estrutura do meu blog](https://rifeli.dev/blog/2016-11-11-falando-sobre-a-estrutura-do-meu-blog/) (8 years ago)
