@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [DragonLee321](https://github.com/DragonLee321) - Golden Dragon
+
 - [idimetrix](https://github.com/idimetrix) - Dmitry Selikhov
 
 - [jelspace](https://github.com/jelspace) - 21world
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [Risyandi](https://github.com/Risyandi) - Risyandi
 
 - [mustafacagri](https://github.com/mustafacagri) - Mustafa Çağrı Güven
-
-- [perebaj](https://github.com/perebaj) - Jonathan 
 
 
 #### ❤️ Recent Sponsors
