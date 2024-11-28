@@ -30,7 +30,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [HarmoDeveloper/processors](https://github.com/HarmoDeveloper/processors) - All lambda to data processor (2 weeks ago)
 - [HarmoDeveloper/backoffice-ms](https://github.com/HarmoDeveloper/backoffice-ms) -  (2 weeks ago)
 - [HarmoDeveloper/public-api](https://github.com/HarmoDeveloper/public-api) -  (3 weeks ago)
-- [keshavbhatt/whatsie](https://github.com/keshavbhatt/whatsie) - Feature rich WhatsApp Client for Desktop Linux  (3 weeks ago)
+- [keshavbhatt/whatsie](https://github.com/keshavbhatt/whatsie) - Feature rich WhatsApp Client for Desktop Linux  (4 weeks ago)
 
 #### ❤️ Recent Followers
 
