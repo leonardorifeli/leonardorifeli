@@ -26,8 +26,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (1 week ago)
-- [HarmoDeveloper/processors](https://github.com/HarmoDeveloper/processors) - All lambda to data processor (2 weeks ago)
+- [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (2 weeks ago)
+- [HarmoDeveloper/processors](https://github.com/HarmoDeveloper/processors) - All lambda to data processor (3 weeks ago)
 - [HarmoDeveloper/backoffice-ms](https://github.com/HarmoDeveloper/backoffice-ms) -  (3 weeks ago)
 - [HarmoDeveloper/public-api](https://github.com/HarmoDeveloper/public-api) -  (3 weeks ago)
 - [keshavbhatt/whatsie](https://github.com/keshavbhatt/whatsie) - Feature rich WhatsApp Client for Desktop Linux  (1 month ago)
