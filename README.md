@@ -26,7 +26,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [Matheusegito/Validador-de-whatsapp](https://github.com/Matheusegito/Validador-de-whatsapp) - Este código é um validador automatizado de números de WhatsApp que utiliza a biblioteca Selenium para automatizar interações com o WhatsApp Web e a biblioteca OpenPyXL para registrar os resultados em uma planilha Excel. O objetivo principal do script é validar se números de telefone possuem conta no WhatsApp.  (1 day ago)
+- [Matheusegito/Validador-de-whatsapp](https://github.com/Matheusegito/Validador-de-whatsapp) - Este código é um validador automatizado de números de WhatsApp que utiliza a biblioteca Selenium para automatizar interações com o WhatsApp Web e a biblioteca OpenPyXL para registrar os resultados em uma planilha Excel. O objetivo principal do script é validar se números de telefone possuem conta no WhatsApp.  (2 days ago)
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (2 weeks ago)
 - [HarmoDeveloper/processors](https://github.com/HarmoDeveloper/processors) - All lambda to data processor (3 weeks ago)
 - [HarmoDeveloper/backoffice-ms](https://github.com/HarmoDeveloper/backoffice-ms) -  (3 weeks ago)
@@ -35,7 +35,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
-- [DragonLee321](https://github.com/DragonLee321) - Golden Dragon
+- [GoldenDev321](https://github.com/GoldenDev321) - Golden Dragon
 
 - [idimetrix](https://github.com/idimetrix) - Dmitry Selikhov
 
