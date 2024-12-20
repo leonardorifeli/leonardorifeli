@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [XiaomingX](https://github.com/XiaomingX) - Y11
+
 - [mohammadbb](https://github.com/mohammadbb) - Dr. Sami Zahir
 
 - [GoldenDev321](https://github.com/GoldenDev321) - Golden Dragon
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [idimetrix](https://github.com/idimetrix) - Dmitry Selikhov
 
 - [jelspace](https://github.com/jelspace) - 21world
-
-- [Risyandi](https://github.com/Risyandi) - Risyandi
 
 
 #### ❤️ Recent Sponsors
