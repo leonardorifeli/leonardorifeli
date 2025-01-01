@@ -26,11 +26,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [HarmoDeveloper/harmo-front](https://github.com/HarmoDeveloper/harmo-front) - Plataforma Harmo (today)
-- [tsenart/kth](https://github.com/tsenart/kth) - Fast selection algorithms for Go (today)
-- [DataDog/orchestrion](https://github.com/DataDog/orchestrion) - Automatic compile-time instrumentation of Go code (today)
+- [HarmoDeveloper/survey-private-api](https://github.com/HarmoDeveloper/survey-private-api) - Contains all private API&#39;s under Survey Module architecture (1 day ago)
+- [HarmoDeveloper/harmo-front](https://github.com/HarmoDeveloper/harmo-front) - Plataforma Harmo (1 day ago)
+- [tsenart/kth](https://github.com/tsenart/kth) - Fast selection algorithms for Go (1 day ago)
+- [DataDog/orchestrion](https://github.com/DataDog/orchestrion) - Automatic compile-time instrumentation of Go code (1 day ago)
 - [google/generative-ai-go](https://github.com/google/generative-ai-go) - Go SDK for Google Generative AI (3 weeks ago)
-- [Matheusegito/Validador-de-whatsapp](https://github.com/Matheusegito/Validador-de-whatsapp) - Este código é um validador automatizado de números de WhatsApp que utiliza a biblioteca Selenium para automatizar interações com o WhatsApp Web e a biblioteca OpenPyXL para registrar os resultados em uma planilha Excel. O objetivo principal do script é validar se números de telefone possuem conta no WhatsApp.  (4 weeks ago)
 
 #### ❤️ Recent Followers
 
