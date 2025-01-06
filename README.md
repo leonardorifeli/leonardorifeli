@@ -26,14 +26,16 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [HarmoDeveloper/survey-private-api](https://github.com/HarmoDeveloper/survey-private-api) - Contains all private API&#39;s under Survey Module architecture (5 days ago)
-- [HarmoDeveloper/harmo-front](https://github.com/HarmoDeveloper/harmo-front) - Plataforma Harmo (5 days ago)
-- [tsenart/kth](https://github.com/tsenart/kth) - Fast selection algorithms for Go (5 days ago)
-- [DataDog/orchestrion](https://github.com/DataDog/orchestrion) - Automatic compile-time instrumentation of Go code (5 days ago)
+- [HarmoDeveloper/survey-private-api](https://github.com/HarmoDeveloper/survey-private-api) - Contains all private API&#39;s under Survey Module architecture (6 days ago)
+- [HarmoDeveloper/harmo-front](https://github.com/HarmoDeveloper/harmo-front) - Plataforma Harmo (6 days ago)
+- [tsenart/kth](https://github.com/tsenart/kth) - Fast selection algorithms for Go (6 days ago)
+- [DataDog/orchestrion](https://github.com/DataDog/orchestrion) - Automatic compile-time instrumentation of Go code (6 days ago)
 - [google/generative-ai-go](https://github.com/google/generative-ai-go) - Go SDK for Google Generative AI (3 weeks ago)
 
 #### ❤️ Recent Followers
 
+
+- [befoulers](https://github.com/befoulers) - 
 
 - [arash-hacker](https://github.com/arash-hacker) - 
 
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [mohammadbb](https://github.com/mohammadbb) - Dr. Sami Zahir
 
 - [GoldenDev321](https://github.com/GoldenDev321) - Golden Dragon
-
-- [idimetrix](https://github.com/idimetrix) - Dmitry Selikhov
 
 
 #### ❤️ Recent Sponsors
