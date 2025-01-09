@@ -30,7 +30,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [HarmoDeveloper/harmo-front](https://github.com/HarmoDeveloper/harmo-front) - Plataforma Harmo (1 week ago)
 - [tsenart/kth](https://github.com/tsenart/kth) - Fast selection algorithms for Go (1 week ago)
 - [DataDog/orchestrion](https://github.com/DataDog/orchestrion) - Automatic compile-time instrumentation of Go code (1 week ago)
-- [google/generative-ai-go](https://github.com/google/generative-ai-go) - Go SDK for Google Generative AI (4 weeks ago)
+- [google/generative-ai-go](https://github.com/google/generative-ai-go) - Go SDK for Google Generative AI (1 month ago)
 
 #### ❤️ Recent Followers
 
