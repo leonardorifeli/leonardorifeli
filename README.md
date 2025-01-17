@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [meliksahyorulmazlar](https://github.com/meliksahyorulmazlar) - Meliksah Yorulmazlar
+
 - [arash-hacker](https://github.com/arash-hacker) - 
 
 - [mooosakhan](https://github.com/mooosakhan) - Moosa 
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [mohammadbb](https://github.com/mohammadbb) - Dr. Sami Zahir
 
 - [GoldenDev321](https://github.com/GoldenDev321) - Golden Dragon
-
-- [idimetrix](https://github.com/idimetrix) - Dmitry Selikhov
 
 
 #### ❤️ Recent Sponsors
