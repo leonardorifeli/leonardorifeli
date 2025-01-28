@@ -26,10 +26,10 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [HarmoDeveloper/survey-private-api](https://github.com/HarmoDeveloper/survey-private-api) - Contains all private API&#39;s under Survey Module architecture (3 weeks ago)
-- [HarmoDeveloper/harmo-front](https://github.com/HarmoDeveloper/harmo-front) - Plataforma Harmo (3 weeks ago)
-- [tsenart/kth](https://github.com/tsenart/kth) - Fast selection algorithms for Go (3 weeks ago)
-- [DataDog/orchestrion](https://github.com/DataDog/orchestrion) - Automatic compile-time instrumentation of Go code (3 weeks ago)
+- [HarmoDeveloper/survey-private-api](https://github.com/HarmoDeveloper/survey-private-api) - Contains all private API&#39;s under Survey Module architecture (4 weeks ago)
+- [HarmoDeveloper/harmo-front](https://github.com/HarmoDeveloper/harmo-front) - Plataforma Harmo (4 weeks ago)
+- [tsenart/kth](https://github.com/tsenart/kth) - Fast selection algorithms for Go (4 weeks ago)
+- [DataDog/orchestrion](https://github.com/DataDog/orchestrion) - Automatic compile-time instrumentation of Go code (4 weeks ago)
 - [google/generative-ai-go](https://github.com/google/generative-ai-go) - Go SDK for Google Generative AI (1 month ago)
 
 #### ❤️ Recent Followers
