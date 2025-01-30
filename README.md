@@ -26,11 +26,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
+- [markmoxon/aviator-source-code-bbc-micro](https://github.com/markmoxon/aviator-source-code-bbc-micro) - Fully documented and annotated source code for Aviator on the BBC Micro (today)
 - [HarmoDeveloper/survey-private-api](https://github.com/HarmoDeveloper/survey-private-api) - Contains all private API&#39;s under Survey Module architecture (1 month ago)
 - [HarmoDeveloper/harmo-front](https://github.com/HarmoDeveloper/harmo-front) - Plataforma Harmo (1 month ago)
 - [tsenart/kth](https://github.com/tsenart/kth) - Fast selection algorithms for Go (1 month ago)
 - [DataDog/orchestrion](https://github.com/DataDog/orchestrion) - Automatic compile-time instrumentation of Go code (1 month ago)
-- [google/generative-ai-go](https://github.com/google/generative-ai-go) - Go SDK for Google Generative AI (1 month ago)
 
 #### ❤️ Recent Followers
 
