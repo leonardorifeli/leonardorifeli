@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [BunyaminYavuz](https://github.com/BunyaminYavuz) - BunyaminYavuz
+
 - [LinuxJS](https://github.com/LinuxJS) - Meow
 
 - [whitenight-eco](https://github.com/whitenight-eco) - White Night
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [XiaomingX](https://github.com/XiaomingX) - Y11
 
 - [arash-hacker](https://github.com/arash-hacker) - 
-
-- [mooosakhan](https://github.com/mooosakhan) - Moosa 
 
 
 #### ❤️ Recent Sponsors
