@@ -39,11 +39,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [whitenight-eco](https://github.com/whitenight-eco) - White Night
 
-- [XiaomingX](https://github.com/XiaomingX) - Y11
-
 - [arash-hacker](https://github.com/arash-hacker) - 
 
 - [mooosakhan](https://github.com/mooosakhan) - Moosa 
+
+- [mohammadbb](https://github.com/mohammadbb) - Dr. Sami Zahir
 
 
 #### ❤️ Recent Sponsors
