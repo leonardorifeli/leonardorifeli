@@ -57,7 +57,6 @@ Many thanks everyone! 🙏
 - [leonardorifeli/idsfisio.com.br](https://github.com/leonardorifeli/idsfisio.com.br)
 - [Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-leonardorifeli](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-leonardorifeli)
 - [leonardorifeli/morfeu](https://github.com/leonardorifeli/morfeu)
-- [digitalinnovationone/dio-lab-open-source](https://github.com/digitalinnovationone/dio-lab-open-source)
 
 #### 📄 Latest blog posts
 - [Como utilizamos Serverless na Harmo](https://rifeli.dev/blog/2020-10-08-como-utilizamos-serverless-na-harmo/) (4 years ago)
