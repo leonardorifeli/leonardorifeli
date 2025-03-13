@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [AI4Networking](https://github.com/AI4Networking) - EdgeAI Mag
+
 - [Suzan1994](https://github.com/Suzan1994) - SuZaN :)
 
 - [LinuxJS](https://github.com/LinuxJS) - Meow
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [whitenight-eco](https://github.com/whitenight-eco) - White Night
 
 - [arash-hacker](https://github.com/arash-hacker) - 
-
-- [mooosakhan](https://github.com/mooosakhan) - Moosa 
 
 
 #### ❤️ Recent Sponsors
