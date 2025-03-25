@@ -22,13 +22,13 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### 🔨 My recent Pull Requests
 
 
-- [Add Leonardo Rifeli](https://github.com/wesbos/awesome-uses/pull/1942) on [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) (5 days ago)
+- [Add Leonardo Rifeli](https://github.com/wesbos/awesome-uses/pull/1942) on [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) (6 days ago)
 
 #### ⭐ Recent Stars
 
 
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles) - ❄️ my configurations for home-manager, nixOS, and nix-darwin (5 days ago)
-- [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs. (5 days ago)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles) - ❄️ my configurations for home-manager, nixOS, and nix-darwin (6 days ago)
+- [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs. (6 days ago)
 - [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy) - Get All Github achievements (2 weeks ago)
 - [markmoxon/aviator-source-code-bbc-micro](https://github.com/markmoxon/aviator-source-code-bbc-micro) - Fully documented and annotated source code for Aviator on the BBC Micro (1 month ago)
 - [HarmoDeveloper/survey-private-api](https://github.com/HarmoDeveloper/survey-private-api) - Contains all private API&#39;s under Survey Module architecture (2 months ago)
