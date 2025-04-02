@@ -13,11 +13,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - 🇧🇷 Antônio Carlos - SC
 
 #### 👨‍💻 Repositories I created recently
+- **[leonardorifeli/local-llm-server](https://github.com/leonardorifeli/local-llm-server)**
 - **[leonardorifeli/idsfisio.com.br](https://github.com/leonardorifeli/idsfisio.com.br)**
 - **[leonardorifeli/personal_blog](https://github.com/leonardorifeli/personal_blog)**
 - **[leonardorifeli/bigdata-processor](https://github.com/leonardorifeli/bigdata-processor)**
 - **[leonardorifeli/noughts-and-crosses-java](https://github.com/leonardorifeli/noughts-and-crosses-java)** - Noughts and Crosses Algorithm in Java
-- **[leonardorifeli/rosenblatt](https://github.com/leonardorifeli/rosenblatt)** - Python rosenblatt custom algoritms
 
 #### 🔨 My recent Pull Requests
 
@@ -27,11 +27,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
+- [leonardorifeli/local-llm-server](https://github.com/leonardorifeli/local-llm-server) -  (today)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles) - ❄️ my configurations for home-manager, nixOS, and nix-darwin (2 weeks ago)
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs. (2 weeks ago)
 - [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy) - Get All Github achievements (4 weeks ago)
 - [markmoxon/aviator-source-code-bbc-micro](https://github.com/markmoxon/aviator-source-code-bbc-micro) - Fully documented and annotated source code for Aviator on the BBC Micro (2 months ago)
-- [HarmoDeveloper/survey-private-api](https://github.com/HarmoDeveloper/survey-private-api) - Contains all private API&#39;s under Survey Module architecture (3 months ago)
 
 #### ❤️ Recent Followers
 
@@ -55,6 +55,7 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [leonardorifeli/local-llm-server](https://github.com/leonardorifeli/local-llm-server)
 - [leonardorifeli/idsfisio.com.br](https://github.com/leonardorifeli/idsfisio.com.br)
 - [Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-leonardorifeli](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-leonardorifeli)
 - [leonardorifeli/morfeu](https://github.com/leonardorifeli/morfeu)
