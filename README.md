@@ -36,6 +36,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [d3v1sh](https://github.com/d3v1sh) - Dave
+
 - [0vm](https://github.com/0vm) - Ak
 
 - [trinhminhtriet](https://github.com/trinhminhtriet) - Triet Trinh
@@ -43,8 +45,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [LinuxJS](https://github.com/LinuxJS) - Meow
 
 - [whitenight-eco](https://github.com/whitenight-eco) - White Night
-
-- [arash-hacker](https://github.com/arash-hacker) - 
 
 
 #### ❤️ Recent Sponsors
