@@ -27,14 +27,16 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [leonardorifeli/local-llm-server](https://github.com/leonardorifeli/local-llm-server) -  (1 day ago)
+- [leonardorifeli/local-llm-server](https://github.com/leonardorifeli/local-llm-server) -  (2 days ago)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles) - ❄️ my configurations for home-manager, nixOS, and nix-darwin (2 weeks ago)
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs. (2 weeks ago)
-- [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy) - Get All Github achievements (4 weeks ago)
+- [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy) - Get All Github achievements (1 month ago)
 - [markmoxon/aviator-source-code-bbc-micro](https://github.com/markmoxon/aviator-source-code-bbc-micro) - Fully documented and annotated source code for Aviator on the BBC Micro (2 months ago)
 
 #### ❤️ Recent Followers
 
+
+- [djvelimir](https://github.com/djvelimir) - Velimir Đurković
 
 - [d3v1sh](https://github.com/d3v1sh) - Dave
 
@@ -43,8 +45,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [trinhminhtriet](https://github.com/trinhminhtriet) - Triet Trinh
 
 - [LinuxJS](https://github.com/LinuxJS) - Meow
-
-- [whitenight-eco](https://github.com/whitenight-eco) - White Night
 
 
 #### ❤️ Recent Sponsors
