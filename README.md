@@ -36,6 +36,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [ilyesw](https://github.com/ilyesw) - 𝑰𝒍𝒚𝒆𝒔 ᴾᴿᴼ乡
+
 - [djvelimir](https://github.com/djvelimir) - Velimir Đurković
 
 - [d3v1sh](https://github.com/d3v1sh) - Dave
@@ -43,8 +45,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [0vm](https://github.com/0vm) - Ak
 
 - [trinhminhtriet](https://github.com/trinhminhtriet) - Triet Trinh
-
-- [LinuxJS](https://github.com/LinuxJS) - Meow
 
 
 #### ❤️ Recent Sponsors
