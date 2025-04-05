@@ -25,13 +25,18 @@ jobs:
         with:
           template: "templates/README.gtpl"
           writeTo: "README.md"
+
+      - name: Set random string
+        id: random
+        run: echo "value=$(date +%s | sha256sum | base64 | head -c 8)" >> $GITHUB_OUTPUT
+
       - name: Commit README
         uses: stefanzweifel/git-auto-commit-action@v4
         env:
           GITHUB_TOKEN: ${{ github.token }}
         with:
-          commit_message: 'docs: Update generated README'
+          commit_message: "docs: Update generated README ${{ steps.random.outputs.value }}"
           branch: master
           commit_user_name: leonardorifeli
           commit_user_email: leonardorifeli@gmail.com
-          commit_author: readme-scribe 🤖 <leonardorifeli@gmail.com>
+          commit_author: Leonardo Rifeli <leonardorifeli@gmail.com>
