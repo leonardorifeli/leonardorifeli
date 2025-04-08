@@ -15,9 +15,9 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### 👨‍💻 Repositories I created recently
 - **[leonardorifeli/lmde-omakube-install](https://github.com/leonardorifeli/lmde-omakube-install)** - Similuar Omakube lib for LMDE
 - **[leonardorifeli/local-llm-server](https://github.com/leonardorifeli/local-llm-server)** - LLM local server using Mistral model
-- **[leonardorifeli/idsfisio.com.br](https://github.com/leonardorifeli/idsfisio.com.br)**
+- **[leonardorifeli/idsfisio.com.br](https://github.com/leonardorifeli/idsfisio.com.br)** - Statis files of idsfisio.com.br website
 - **[leonardorifeli/personal_blog](https://github.com/leonardorifeli/personal_blog)**
-- **[leonardorifeli/bigdata-processor](https://github.com/leonardorifeli/bigdata-processor)**
+- **[leonardorifeli/bigdata-processor](https://github.com/leonardorifeli/bigdata-processor)** - Personal project of Hadoop Processor
 
 #### 🔨 My recent Pull Requests
 
@@ -27,11 +27,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
+- [leonardorifeli/bigdata-processor](https://github.com/leonardorifeli/bigdata-processor) - Personal project of Hadoop Processor (today)
+- [leonardorifeli/personal_blog](https://github.com/leonardorifeli/personal_blog) -  (today)
+- [leonardorifeli/lmde-omakube-install](https://github.com/leonardorifeli/lmde-omakube-install) - Similuar Omakube lib for LMDE (today)
 - [leonardorifeli/local-llm-server](https://github.com/leonardorifeli/local-llm-server) - LLM local server using Mistral model (6 days ago)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles) - ❄️ my configurations for home-manager, nixOS, and nix-darwin (2 weeks ago)
-- [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs. (2 weeks ago)
-- [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy) - Get All Github achievements (1 month ago)
-- [markmoxon/aviator-source-code-bbc-micro](https://github.com/markmoxon/aviator-source-code-bbc-micro) - Fully documented and annotated source code for Aviator on the BBC Micro (2 months ago)
 
 #### ❤️ Recent Followers
 
