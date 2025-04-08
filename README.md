@@ -13,11 +13,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - 🇧🇷 Antônio Carlos - SC
 
 #### 👨‍💻 Repositories I created recently
+- **[leonardorifeli/lmde-omakube-install](https://github.com/leonardorifeli/lmde-omakube-install)** - Similuar Omakube lib for LMDE
 - **[leonardorifeli/local-llm-server](https://github.com/leonardorifeli/local-llm-server)**
 - **[leonardorifeli/idsfisio.com.br](https://github.com/leonardorifeli/idsfisio.com.br)**
 - **[leonardorifeli/personal_blog](https://github.com/leonardorifeli/personal_blog)**
 - **[leonardorifeli/bigdata-processor](https://github.com/leonardorifeli/bigdata-processor)**
-- **[leonardorifeli/noughts-and-crosses-java](https://github.com/leonardorifeli/noughts-and-crosses-java)** - Noughts and Crosses Algorithm in Java
 
 #### 🔨 My recent Pull Requests
 
@@ -55,6 +55,7 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [leonardorifeli/lmde-omakube-install](https://github.com/leonardorifeli/lmde-omakube-install)
 - [leonardorifeli/local-llm-server](https://github.com/leonardorifeli/local-llm-server)
 - [leonardorifeli/idsfisio.com.br](https://github.com/leonardorifeli/idsfisio.com.br)
 - [Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-leonardorifeli](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-leonardorifeli)
