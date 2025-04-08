@@ -16,8 +16,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - **[leonardorifeli/lmde-omakube-install](https://github.com/leonardorifeli/lmde-omakube-install)** - Similuar Omakube lib for LMDE
 - **[leonardorifeli/local-llm-server](https://github.com/leonardorifeli/local-llm-server)** - LLM local server using Mistral model
 - **[leonardorifeli/idsfisio.com.br](https://github.com/leonardorifeli/idsfisio.com.br)** - Statis files of idsfisio.com.br website
-- **[leonardorifeli/personal_blog](https://github.com/leonardorifeli/personal_blog)**
 - **[leonardorifeli/bigdata-processor](https://github.com/leonardorifeli/bigdata-processor)** - Personal project of Hadoop Processor
+- **[leonardorifeli/noughts-and-crosses-java](https://github.com/leonardorifeli/noughts-and-crosses-java)** - Noughts and Crosses Algorithm in Java
 
 #### 🔨 My recent Pull Requests
 
@@ -28,10 +28,10 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 
 - [leonardorifeli/bigdata-processor](https://github.com/leonardorifeli/bigdata-processor) - Personal project of Hadoop Processor (today)
-- [leonardorifeli/personal_blog](https://github.com/leonardorifeli/personal_blog) -  (today)
 - [leonardorifeli/lmde-omakube-install](https://github.com/leonardorifeli/lmde-omakube-install) - Similuar Omakube lib for LMDE (today)
 - [leonardorifeli/local-llm-server](https://github.com/leonardorifeli/local-llm-server) - LLM local server using Mistral model (6 days ago)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles) - ❄️ my configurations for home-manager, nixOS, and nix-darwin (2 weeks ago)
+- [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs. (2 weeks ago)
 
 #### ❤️ Recent Followers
 
