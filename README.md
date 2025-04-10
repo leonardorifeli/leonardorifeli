@@ -27,8 +27,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [leonardorifeli/bigdata-processor](https://github.com/leonardorifeli/bigdata-processor) - Personal project of Hadoop Processor (1 day ago)
-- [leonardorifeli/lmde-omakube-install](https://github.com/leonardorifeli/lmde-omakube-install) - Similuar Omakube lib for LMDE (1 day ago)
+- [leonardorifeli/bigdata-processor](https://github.com/leonardorifeli/bigdata-processor) - Personal project of Hadoop Processor (2 days ago)
+- [leonardorifeli/lmde-omakube-install](https://github.com/leonardorifeli/lmde-omakube-install) - Similuar Omakube lib for LMDE (2 days ago)
 - [leonardorifeli/local-llm-server](https://github.com/leonardorifeli/local-llm-server) - LLM local server using Mistral model (1 week ago)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles) - ❄️ my configurations for home-manager, nixOS, and nix-darwin (3 weeks ago)
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs. (3 weeks ago)
