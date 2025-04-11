@@ -27,11 +27,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit (today)
-- [aws-samples/langchain-agents](https://github.com/aws-samples/langchain-agents) -  (today)
-- [viniciusgarciam/GitHub](https://github.com/viniciusgarciam/GitHub) -  (today)
-- [viniciusgarciam/Golang](https://github.com/viniciusgarciam/Golang) -  (today)
-- [leonardorifeli/bigdata-processor](https://github.com/leonardorifeli/bigdata-processor) - Personal project of Hadoop Processor (2 days ago)
+- [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit (1 day ago)
+- [aws-samples/langchain-agents](https://github.com/aws-samples/langchain-agents) -  (1 day ago)
+- [viniciusgarciam/GitHub](https://github.com/viniciusgarciam/GitHub) -  (1 day ago)
+- [viniciusgarciam/Golang](https://github.com/viniciusgarciam/Golang) -  (1 day ago)
+- [leonardorifeli/bigdata-processor](https://github.com/leonardorifeli/bigdata-processor) - Personal project of Hadoop Processor (3 days ago)
 
 #### ❤️ Recent Followers
 
