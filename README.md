@@ -36,13 +36,13 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [Ayokanmi-Adejola](https://github.com/Ayokanmi-Adejola) - AYOKANMI ADEJOLA
+
 - [nholuongut](https://github.com/nholuongut) - Nho Luong
 
 - [anon-d](https://github.com/anon-d) - 
 
 - [DIMFLIX](https://github.com/DIMFLIX) - DIMFLIX
-
-- [Ayokanmi-Adejola](https://github.com/Ayokanmi-Adejola) - AYOKANMI ADEJOLA
 
 - [helallao](https://github.com/helallao) - Ali Yaşar
 
