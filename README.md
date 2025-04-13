@@ -36,6 +36,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [nholuongut](https://github.com/nholuongut) - Nho Luong
+
 - [anon-d](https://github.com/anon-d) - 
 
 - [DIMFLIX](https://github.com/DIMFLIX) - DIMFLIX
@@ -43,8 +45,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [Ayokanmi-Adejola](https://github.com/Ayokanmi-Adejola) - AYOKANMI ADEJOLA
 
 - [helallao](https://github.com/helallao) - Ali Yaşar
-
-- [LeoScripts](https://github.com/LeoScripts) - Leandro Cavalcante
 
 
 #### ❤️ Recent Sponsors
