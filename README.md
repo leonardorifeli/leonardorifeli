@@ -27,14 +27,16 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit (3 days ago)
-- [aws-samples/langchain-agents](https://github.com/aws-samples/langchain-agents) -  (3 days ago)
-- [leonardorifeli/bigdata-processor](https://github.com/leonardorifeli/bigdata-processor) - Personal project of Hadoop Processor (5 days ago)
-- [leonardorifeli/lmde-omakube-install](https://github.com/leonardorifeli/lmde-omakube-install) - Similuar Omakube lib for LMDE (5 days ago)
+- [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit (4 days ago)
+- [aws-samples/langchain-agents](https://github.com/aws-samples/langchain-agents) -  (4 days ago)
+- [leonardorifeli/bigdata-processor](https://github.com/leonardorifeli/bigdata-processor) - Personal project of Hadoop Processor (6 days ago)
+- [leonardorifeli/lmde-omakube-install](https://github.com/leonardorifeli/lmde-omakube-install) - Similuar Omakube lib for LMDE (6 days ago)
 - [leonardorifeli/local-llm-server](https://github.com/leonardorifeli/local-llm-server) - LLM local server using Mistral model (1 week ago)
 
 #### ❤️ Recent Followers
 
+
+- [ersync](https://github.com/ersync) - Emad Rahimi
 
 - [Ayokanmi-Adejola](https://github.com/Ayokanmi-Adejola) - AYOKANMI ADEJOLA
 
@@ -43,8 +45,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [anon-d](https://github.com/anon-d) - 
 
 - [DIMFLIX](https://github.com/DIMFLIX) - DIMFLIX
-
-- [helallao](https://github.com/helallao) - Ali Yaşar
 
 
 #### ❤️ Recent Sponsors
