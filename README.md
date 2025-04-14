@@ -37,6 +37,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [murapadev](https://github.com/murapadev) - Pablo RM
+
 - [ersync](https://github.com/ersync) - Emad Rahimi
 
 - [Ayokanmi-Adejola](https://github.com/Ayokanmi-Adejola) - AYOKANMI ADEJOLA
@@ -44,8 +46,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [nholuongut](https://github.com/nholuongut) - Nho Luong
 
 - [anon-d](https://github.com/anon-d) - 
-
-- [DIMFLIX](https://github.com/DIMFLIX) - DIMFLIX
 
 
 #### ❤️ Recent Sponsors
