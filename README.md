@@ -56,6 +56,7 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [remy/mit-license](https://github.com/remy/mit-license)
 - [leonardorifeli/lmde-omakube-install](https://github.com/leonardorifeli/lmde-omakube-install)
 - [leonardorifeli/local-llm-server](https://github.com/leonardorifeli/local-llm-server)
 - [leonardorifeli/idsfisio.com.br](https://github.com/leonardorifeli/idsfisio.com.br)
