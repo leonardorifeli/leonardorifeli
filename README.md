@@ -22,17 +22,17 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### 🔨 My recent Pull Requests
 
 
-- [Update my config file - leonardorifeli.json](https://github.com/remy/mit-license/pull/1749) on [remy/mit-license](https://github.com/remy/mit-license) (today)
+- [Update my config file - leonardorifeli.json](https://github.com/remy/mit-license/pull/1749) on [remy/mit-license](https://github.com/remy/mit-license) (1 day ago)
 - [Add Leonardo Rifeli](https://github.com/wesbos/awesome-uses/pull/1942) on [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
 
-- [golangbr/golangbr.org](https://github.com/golangbr/golangbr.org) - Golang Brasil site (today)
-- [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit (4 days ago)
-- [aws-samples/langchain-agents](https://github.com/aws-samples/langchain-agents) -  (4 days ago)
-- [leonardorifeli/bigdata-processor](https://github.com/leonardorifeli/bigdata-processor) - Personal project of Hadoop Processor (6 days ago)
-- [leonardorifeli/lmde-omakube-install](https://github.com/leonardorifeli/lmde-omakube-install) - Similuar Omakube lib for LMDE (6 days ago)
+- [golangbr/golangbr.org](https://github.com/golangbr/golangbr.org) - Golang Brasil site (1 day ago)
+- [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit (5 days ago)
+- [aws-samples/langchain-agents](https://github.com/aws-samples/langchain-agents) -  (5 days ago)
+- [leonardorifeli/bigdata-processor](https://github.com/leonardorifeli/bigdata-processor) - Personal project of Hadoop Processor (1 week ago)
+- [leonardorifeli/lmde-omakube-install](https://github.com/leonardorifeli/lmde-omakube-install) - Similuar Omakube lib for LMDE (1 week ago)
 
 #### ❤️ Recent Followers
 
