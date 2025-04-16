@@ -28,14 +28,16 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
+- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website (today)
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (today)
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system. (1 day ago)
 - [golangbr/golangbr.org](https://github.com/golangbr/golangbr.org) - Golang Brasil site (2 days ago)
 - [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit (6 days ago)
-- [aws-samples/langchain-agents](https://github.com/aws-samples/langchain-agents) -  (6 days ago)
 
 #### ❤️ Recent Followers
 
+
+- [David-Braz](https://github.com/David-Braz) - David Braz
 
 - [martinondiwa](https://github.com/martinondiwa) - Martin Ondiwa
 
@@ -44,8 +46,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [mcdrm](https://github.com/mcdrm) - mcdrm
 
 - [murapadev](https://github.com/murapadev) - Pablo RM
-
-- [ersync](https://github.com/ersync) - Emad Rahimi
 
 
 #### ❤️ Recent Sponsors
