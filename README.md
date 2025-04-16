@@ -28,11 +28,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (today)
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system. (1 day ago)
 - [golangbr/golangbr.org](https://github.com/golangbr/golangbr.org) - Golang Brasil site (2 days ago)
 - [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit (6 days ago)
 - [aws-samples/langchain-agents](https://github.com/aws-samples/langchain-agents) -  (6 days ago)
-- [leonardorifeli/bigdata-processor](https://github.com/leonardorifeli/bigdata-processor) - Personal project of Hadoop Processor (1 week ago)
 
 #### ❤️ Recent Followers
 
