@@ -37,15 +37,15 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [martinondiwa](https://github.com/martinondiwa) - Martin Ondiwa
+
+- [0vm](https://github.com/0vm) - Ak
+
 - [mcdrm](https://github.com/mcdrm) - mcdrm
 
 - [murapadev](https://github.com/murapadev) - Pablo RM
 
 - [ersync](https://github.com/ersync) - Emad Rahimi
-
-- [Ayokanmi-Adejola](https://github.com/Ayokanmi-Adejola) - AYOKANMI ADEJOLA
-
-- [nholuongut](https://github.com/nholuongut) - Nho Luong
 
 
 #### ❤️ Recent Sponsors
