@@ -22,20 +22,22 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### 🔨 My recent Pull Requests
 
 
-- [Update my config file - leonardorifeli.json](https://github.com/remy/mit-license/pull/1749) on [remy/mit-license](https://github.com/remy/mit-license) (1 day ago)
-- [Add Leonardo Rifeli](https://github.com/wesbos/awesome-uses/pull/1942) on [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) (3 weeks ago)
+- [Update my config file - leonardorifeli.json](https://github.com/remy/mit-license/pull/1749) on [remy/mit-license](https://github.com/remy/mit-license) (2 days ago)
+- [Add Leonardo Rifeli](https://github.com/wesbos/awesome-uses/pull/1942) on [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
 
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system. (today)
-- [golangbr/golangbr.org](https://github.com/golangbr/golangbr.org) - Golang Brasil site (1 day ago)
-- [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit (5 days ago)
-- [aws-samples/langchain-agents](https://github.com/aws-samples/langchain-agents) -  (5 days ago)
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system. (1 day ago)
+- [golangbr/golangbr.org](https://github.com/golangbr/golangbr.org) - Golang Brasil site (2 days ago)
+- [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit (6 days ago)
+- [aws-samples/langchain-agents](https://github.com/aws-samples/langchain-agents) -  (6 days ago)
 - [leonardorifeli/bigdata-processor](https://github.com/leonardorifeli/bigdata-processor) - Personal project of Hadoop Processor (1 week ago)
 
 #### ❤️ Recent Followers
 
+
+- [mcdrm](https://github.com/mcdrm) - mcdrm
 
 - [murapadev](https://github.com/murapadev) - Pablo RM
 
@@ -44,8 +46,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [Ayokanmi-Adejola](https://github.com/Ayokanmi-Adejola) - AYOKANMI ADEJOLA
 
 - [nholuongut](https://github.com/nholuongut) - Nho Luong
-
-- [anon-d](https://github.com/anon-d) - 
 
 
 #### ❤️ Recent Sponsors
