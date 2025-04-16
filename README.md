@@ -37,15 +37,15 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [Luiz-BG](https://github.com/Luiz-BG) - Luiz Eduardo Brito Gomes
+
+- [cornel-cp](https://github.com/cornel-cp) - Cornel
+
+- [Danielbsilva](https://github.com/Danielbsilva) - Daniel Barbosa
+
 - [David-Braz](https://github.com/David-Braz) - David Braz
 
 - [martinondiwa](https://github.com/martinondiwa) - Martin Ondiwa
-
-- [0vm](https://github.com/0vm) - Ak
-
-- [mcdrm](https://github.com/mcdrm) - mcdrm
-
-- [murapadev](https://github.com/murapadev) - Pablo RM
 
 
 #### ❤️ Recent Sponsors
@@ -56,9 +56,9 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [leonardorifeli/local-llm-server](https://github.com/leonardorifeli/local-llm-server)
 - [remy/mit-license](https://github.com/remy/mit-license)
 - [leonardorifeli/lmde-omakube-install](https://github.com/leonardorifeli/lmde-omakube-install)
-- [leonardorifeli/local-llm-server](https://github.com/leonardorifeli/local-llm-server)
 - [leonardorifeli/idsfisio.com.br](https://github.com/leonardorifeli/idsfisio.com.br)
 - [Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-leonardorifeli](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-leonardorifeli)
 - [leonardorifeli/morfeu](https://github.com/leonardorifeli/morfeu)
