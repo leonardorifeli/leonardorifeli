@@ -37,6 +37,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [andredisa](https://github.com/andredisa) - Andrea Disanti
+
 - [Luiz-BG](https://github.com/Luiz-BG) - Luiz Eduardo Brito Gomes
 
 - [cornel-cp](https://github.com/cornel-cp) - Cornel
@@ -44,8 +46,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [Danielbsilva](https://github.com/Danielbsilva) - Daniel Barbosa
 
 - [David-Braz](https://github.com/David-Braz) - David Braz
-
-- [martinondiwa](https://github.com/martinondiwa) - Martin Ondiwa
 
 
 #### ❤️ Recent Sponsors
