@@ -41,11 +41,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [DIMFLIX](https://github.com/DIMFLIX) - DIMFLIX
 
-- [andredisa](https://github.com/andredisa) - Andrea Disanti
-
 - [Luiz-BG](https://github.com/Luiz-BG) - Luiz Eduardo Brito Gomes
 
 - [cornel-cp](https://github.com/cornel-cp) - Cornel
+
+- [Danielbsilva](https://github.com/Danielbsilva) - Daniel Barbosa
 
 
 #### ❤️ Recent Sponsors
