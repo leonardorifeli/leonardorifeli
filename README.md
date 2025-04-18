@@ -22,20 +22,22 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### 🔨 My recent Pull Requests
 
 
-- [Update my config file - leonardorifeli.json](https://github.com/remy/mit-license/pull/1749) on [remy/mit-license](https://github.com/remy/mit-license) (3 days ago)
-- [Add Leonardo Rifeli](https://github.com/wesbos/awesome-uses/pull/1942) on [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) (4 weeks ago)
+- [Update my config file - leonardorifeli.json](https://github.com/remy/mit-license/pull/1749) on [remy/mit-license](https://github.com/remy/mit-license) (4 days ago)
+- [Add Leonardo Rifeli](https://github.com/wesbos/awesome-uses/pull/1942) on [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) (1 month ago)
 
 #### ⭐ Recent Stars
 
 
-- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website (1 day ago)
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (1 day ago)
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system. (2 days ago)
-- [golangbr/golangbr.org](https://github.com/golangbr/golangbr.org) - Golang Brasil site (3 days ago)
+- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website (2 days ago)
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (2 days ago)
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system. (3 days ago)
+- [golangbr/golangbr.org](https://github.com/golangbr/golangbr.org) - Golang Brasil site (4 days ago)
 - [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit (1 week ago)
 
 #### ❤️ Recent Followers
 
+
+- [alex-semenyuk](https://github.com/alex-semenyuk) - alexey semenyuk
 
 - [DIMFLIX](https://github.com/DIMFLIX) - DIMFLIX
 
@@ -44,8 +46,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [Luiz-BG](https://github.com/Luiz-BG) - Luiz Eduardo Brito Gomes
 
 - [cornel-cp](https://github.com/cornel-cp) - Cornel
-
-- [Danielbsilva](https://github.com/Danielbsilva) - Daniel Barbosa
 
 
 #### ❤️ Recent Sponsors
