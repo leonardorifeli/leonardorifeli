@@ -28,11 +28,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
+- [ajenti/ajenti](https://github.com/ajenti/ajenti) - Ajenti Core and stock plugins (today)
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website (4 days ago)
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (4 days ago)
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system. (5 days ago)
 - [golangbr/golangbr.org](https://github.com/golangbr/golangbr.org) - Golang Brasil site (6 days ago)
-- [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit (1 week ago)
 
 #### ❤️ Recent Followers
 
