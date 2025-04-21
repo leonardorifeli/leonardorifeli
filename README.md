@@ -37,6 +37,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [DIMFLIX](https://github.com/DIMFLIX) - DIMFLIX
+
 - [alex-semenyuk](https://github.com/alex-semenyuk) - alexey semenyuk
 
 - [Luiz-BG](https://github.com/Luiz-BG) - Luiz Eduardo Brito Gomes
@@ -44,8 +46,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [cornel-cp](https://github.com/cornel-cp) - Cornel
 
 - [Danielbsilva](https://github.com/Danielbsilva) - Daniel Barbosa
-
-- [David-Braz](https://github.com/David-Braz) - David Braz
 
 
 #### ❤️ Recent Sponsors
