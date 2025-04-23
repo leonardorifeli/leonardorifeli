@@ -23,7 +23,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 
 - [Update my config file - leonardorifeli.json](https://github.com/remy/mit-license/pull/1749) on [remy/mit-license](https://github.com/remy/mit-license) (1 week ago)
-- [Add Leonardo Rifeli](https://github.com/wesbos/awesome-uses/pull/1942) on [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) (1 month ago)
 
 #### ⭐ Recent Stars
 
