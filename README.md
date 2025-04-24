@@ -22,7 +22,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### 🔨 My recent Pull Requests
 
 
-- [Update my config file - leonardorifeli.json](https://github.com/remy/mit-license/pull/1749) on [remy/mit-license](https://github.com/remy/mit-license) (1 week ago)
 
 #### ⭐ Recent Stars
 
@@ -36,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [UPVEX](https://github.com/UPVEX) - nima mollayi
+
 - [DIMFLIX](https://github.com/DIMFLIX) - DIMFLIX
 
 - [alex-semenyuk](https://github.com/alex-semenyuk) - alexey semenyuk
@@ -43,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [Luiz-BG](https://github.com/Luiz-BG) - Luiz Eduardo Brito Gomes
 
 - [cornel-cp](https://github.com/cornel-cp) - Cornel
-
-- [Danielbsilva](https://github.com/Danielbsilva) - Daniel Barbosa
 
 
 #### ❤️ Recent Sponsors
