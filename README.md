@@ -39,11 +39,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [gambling-addict](https://github.com/gambling-addict) - Ryker / Forcas
 
-- [UPVEX](https://github.com/UPVEX) - nima mollayi
-
 - [DIMFLIX](https://github.com/DIMFLIX) - DIMFLIX
 
 - [alex-semenyuk](https://github.com/alex-semenyuk) - alexey semenyuk
+
+- [Luiz-BG](https://github.com/Luiz-BG) - Luiz Eduardo Brito Gomes
 
 
 #### ❤️ Recent Sponsors
