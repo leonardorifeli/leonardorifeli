@@ -30,7 +30,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website (2 weeks ago)
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (2 weeks ago)
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system. (2 weeks ago)
-- [golangbr/golangbr.org](https://github.com/golangbr/golangbr.org) - Golang Brasil site (2 weeks ago)
+- [golangbr/golangbr.org](https://github.com/golangbr/golangbr.org) - Golang Brasil site (3 weeks ago)
 
 #### ❤️ Recent Followers
 
