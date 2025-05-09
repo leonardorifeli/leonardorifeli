@@ -26,16 +26,14 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
+- [biancarosa/go-essentials](https://github.com/biancarosa/go-essentials) -  (today)
 - [djmgit/go_runtime_grafana](https://github.com/djmgit/go_runtime_grafana) - Grafana dashboard for visualising GOLang runtime metrices using Prometheus for DC based GOLang services (3 days ago)
 - [aaukhatov/grafana-dashboards](https://github.com/aaukhatov/grafana-dashboards) - Collection of Grafana Dashboards (3 days ago)
 - [duxthemux/gophercon-latam-2025](https://github.com/duxthemux/gophercon-latam-2025) -  (4 days ago)
 - [ajenti/ajenti](https://github.com/ajenti/ajenti) - Ajenti Core and stock plugins (2 weeks ago)
-- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website (3 weeks ago)
 
 #### ❤️ Recent Followers
 
-
-- [BEPb](https://github.com/BEPb) - Andrej Marinchenko
 
 - [mohammadhasanii](https://github.com/mohammadhasanii) - Mohammad
 
@@ -44,6 +42,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [gambling-addict](https://github.com/gambling-addict) - Ryker / Forcas
 
 - [DIMFLIX](https://github.com/DIMFLIX) - DIMFLIX
+
+- [Luiz-BG](https://github.com/Luiz-BG) - Luiz Eduardo Brito Gomes
 
 
 #### ❤️ Recent Sponsors
