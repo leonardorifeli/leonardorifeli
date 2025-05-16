@@ -26,11 +26,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
+- [HarmoDeveloper/specs](https://github.com/HarmoDeveloper/specs) - Documentação técnica central da plataforma: arquitetura, infraestrutura, decisões de engenharia, RTO/RPO, segurança e conformidade. (today)
 - [biancarosa/go-essentials](https://github.com/biancarosa/go-essentials) -  (1 week ago)
 - [djmgit/go_runtime_grafana](https://github.com/djmgit/go_runtime_grafana) - Grafana dashboard for visualising GOLang runtime metrices using Prometheus for DC based GOLang services (1 week ago)
 - [aaukhatov/grafana-dashboards](https://github.com/aaukhatov/grafana-dashboards) - Collection of Grafana Dashboards (1 week ago)
 - [duxthemux/gophercon-latam-2025](https://github.com/duxthemux/gophercon-latam-2025) -  (1 week ago)
-- [ajenti/ajenti](https://github.com/ajenti/ajenti) - Ajenti Core and stock plugins (3 weeks ago)
 
 #### ❤️ Recent Followers
 
