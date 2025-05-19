@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [Rabdool](https://github.com/Rabdool) - Abdurrahman
+
 - [mohammadhasanii](https://github.com/mohammadhasanii) - Mohammad
 
 - [vikram-singh9](https://github.com/vikram-singh9) - Vikram S
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [gambling-addict](https://github.com/gambling-addict) - Ryker / Forcas
 
 - [DIMFLIX](https://github.com/DIMFLIX) - DIMFLIX
-
-- [Luiz-BG](https://github.com/Luiz-BG) - Luiz Eduardo Brito Gomes
 
 
 #### ❤️ Recent Sponsors
