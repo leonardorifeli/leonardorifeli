@@ -26,11 +26,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
+- [astatonn/ids-joomla-eb](https://github.com/astatonn/ids-joomla-eb) - Implementação da nova identidade visual do governo para os sites do Exército Brasileiro. Template baseado na versão do marceloalencar. (today)
 - [xmrig/xmrig-workers](https://github.com/xmrig/xmrig-workers) -  (today)
 - [leonardorifeli/xmrig-dashboard-app](https://github.com/leonardorifeli/xmrig-dashboard-app) - A monero (xmrig) dashboard application (backend using Golang) (today)
 - [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark (1 day ago)
 - [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) - Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not rely on any paid OpenAI API, making it accessible to anyone.  (1 day ago)
-- [HarmoDeveloper/specs](https://github.com/HarmoDeveloper/specs) - Documentação técnica central da plataforma: arquitetura, infraestrutura, decisões de engenharia, RTO/RPO, segurança e conformidade. (3 days ago)
 
 #### ❤️ Recent Followers
 
