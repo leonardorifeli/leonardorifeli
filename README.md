@@ -13,11 +13,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - 🇧🇷 Antônio Carlos - SC
 
 #### 👨‍💻 Repositories I created recently
+- **[leonardorifeli/xmrig-dashboard-app](https://github.com/leonardorifeli/xmrig-dashboard-app)** - A monero (xmrig) dashboard application (backend using Golang)
 - **[leonardorifeli/lmde-omakube-install](https://github.com/leonardorifeli/lmde-omakube-install)** - Similuar Omakube lib for LMDE
 - **[leonardorifeli/local-llm-server](https://github.com/leonardorifeli/local-llm-server)** - LLM local server using Mistral model
 - **[leonardorifeli/idsfisio.com.br](https://github.com/leonardorifeli/idsfisio.com.br)** - Statis files of idsfisio.com.br website
 - **[leonardorifeli/bigdata-processor](https://github.com/leonardorifeli/bigdata-processor)** - Personal project of Hadoop Processor
-- **[leonardorifeli/noughts-and-crosses-java](https://github.com/leonardorifeli/noughts-and-crosses-java)** - Noughts and Crosses Algorithm in Java
 
 #### 🔨 My recent Pull Requests
 
@@ -26,11 +26,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [HarmoDeveloper/specs](https://github.com/HarmoDeveloper/specs) - Documentação técnica central da plataforma: arquitetura, infraestrutura, decisões de engenharia, RTO/RPO, segurança e conformidade. (2 days ago)
+- [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark (1 day ago)
+- [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) - Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not rely on any paid OpenAI API, making it accessible to anyone.  (1 day ago)
+- [HarmoDeveloper/specs](https://github.com/HarmoDeveloper/specs) - Documentação técnica central da plataforma: arquitetura, infraestrutura, decisões de engenharia, RTO/RPO, segurança e conformidade. (3 days ago)
 - [biancarosa/go-essentials](https://github.com/biancarosa/go-essentials) -  (1 week ago)
 - [djmgit/go_runtime_grafana](https://github.com/djmgit/go_runtime_grafana) - Grafana dashboard for visualising GOLang runtime metrices using Prometheus for DC based GOLang services (1 week ago)
-- [aaukhatov/grafana-dashboards](https://github.com/aaukhatov/grafana-dashboards) - Collection of Grafana Dashboards (1 week ago)
-- [duxthemux/gophercon-latam-2025](https://github.com/duxthemux/gophercon-latam-2025) -  (1 week ago)
 
 #### ❤️ Recent Followers
 
@@ -54,6 +54,7 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [leonardorifeli/xmrig-dashboard-app](https://github.com/leonardorifeli/xmrig-dashboard-app)
 - [leonardorifeli/local-llm-server](https://github.com/leonardorifeli/local-llm-server)
 - [remy/mit-license](https://github.com/remy/mit-license)
 - [leonardorifeli/lmde-omakube-install](https://github.com/leonardorifeli/lmde-omakube-install)
