@@ -26,11 +26,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
+- [xmrig/xmrig-workers](https://github.com/xmrig/xmrig-workers) -  (today)
+- [leonardorifeli/xmrig-dashboard-app](https://github.com/leonardorifeli/xmrig-dashboard-app) - A monero (xmrig) dashboard application (backend using Golang) (today)
 - [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark (1 day ago)
 - [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) - Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not rely on any paid OpenAI API, making it accessible to anyone.  (1 day ago)
 - [HarmoDeveloper/specs](https://github.com/HarmoDeveloper/specs) - Documentação técnica central da plataforma: arquitetura, infraestrutura, decisões de engenharia, RTO/RPO, segurança e conformidade. (3 days ago)
-- [biancarosa/go-essentials](https://github.com/biancarosa/go-essentials) -  (1 week ago)
-- [djmgit/go_runtime_grafana](https://github.com/djmgit/go_runtime_grafana) - Grafana dashboard for visualising GOLang runtime metrices using Prometheus for DC based GOLang services (1 week ago)
 
 #### ❤️ Recent Followers
 
@@ -59,8 +59,6 @@ Many thanks everyone! 🙏
 - [remy/mit-license](https://github.com/remy/mit-license)
 - [leonardorifeli/lmde-omakube-install](https://github.com/leonardorifeli/lmde-omakube-install)
 - [leonardorifeli/idsfisio.com.br](https://github.com/leonardorifeli/idsfisio.com.br)
-- [Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-leonardorifeli](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-leonardorifeli)
-- [leonardorifeli/morfeu](https://github.com/leonardorifeli/morfeu)
 
 #### 📄 Latest blog posts
 - [How we use Serverless at Harmo](https://rifeli.dev/blog/2020-10-08-how-we-use-serverless-at-harmo/) (4 years ago)
