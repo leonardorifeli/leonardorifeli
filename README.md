@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [nelbetancur](https://github.com/nelbetancur) - Nel M. Betancur
+
 - [rahmantamim11](https://github.com/rahmantamim11) - Rahman Tamim
 
 - [cfrBernard](https://github.com/cfrBernard) - C. Bernard
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [Rabdool](https://github.com/Rabdool) - Abdurrahman
 
 - [mohammadhasanii](https://github.com/mohammadhasanii) - Mohammad
-
-- [vikram-singh9](https://github.com/vikram-singh9) - Vikram S
 
 
 #### ❤️ Recent Sponsors
