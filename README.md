@@ -26,14 +26,16 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [astatonn/ids-joomla-eb](https://github.com/astatonn/ids-joomla-eb) - Implementação da nova identidade visual do governo para os sites do Exército Brasileiro. Template baseado na versão do marceloalencar. (today)
-- [xmrig/xmrig-workers](https://github.com/xmrig/xmrig-workers) -  (today)
-- [leonardorifeli/xmrig-dashboard-app](https://github.com/leonardorifeli/xmrig-dashboard-app) - A monero (xmrig) dashboard application (backend using Golang) (today)
-- [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark (1 day ago)
-- [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) - Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not rely on any paid OpenAI API, making it accessible to anyone.  (1 day ago)
+- [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner (1 day ago)
+- [astatonn/ids-joomla-eb](https://github.com/astatonn/ids-joomla-eb) - Implementação da nova identidade visual do governo para os sites do Exército Brasileiro. Template baseado na versão do marceloalencar. (1 day ago)
+- [xmrig/xmrig-workers](https://github.com/xmrig/xmrig-workers) -  (1 day ago)
+- [leonardorifeli/xmrig-dashboard-app](https://github.com/leonardorifeli/xmrig-dashboard-app) - A monero (xmrig) dashboard application (backend using Golang) (1 day ago)
+- [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark (2 days ago)
 
 #### ❤️ Recent Followers
 
+
+- [cfrBernard](https://github.com/cfrBernard) - C. Bernard
 
 - [Rabdool](https://github.com/Rabdool) - Abdurrahman
 
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [vikram-singh9](https://github.com/vikram-singh9) - Vikram S
 
 - [gambling-addict](https://github.com/gambling-addict) - Ryker / Forcas
-
-- [DIMFLIX](https://github.com/DIMFLIX) - DIMFLIX
 
 
 #### ❤️ Recent Sponsors
