@@ -35,7 +35,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
-- [rafimd422](https://github.com/rafimd422) - MD Mushfiqur Rahman
+- [ikramagix](https://github.com/ikramagix) - Ikrame Saadi
 
 - [nelbetancur](https://github.com/nelbetancur) - Nel M. Betancur
 
