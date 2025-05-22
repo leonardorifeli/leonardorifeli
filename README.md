@@ -26,14 +26,16 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner (2 days ago)
-- [astatonn/ids-joomla-eb](https://github.com/astatonn/ids-joomla-eb) - Implementação da nova identidade visual do governo para os sites do Exército Brasileiro. Template baseado na versão do marceloalencar. (2 days ago)
-- [xmrig/xmrig-workers](https://github.com/xmrig/xmrig-workers) -  (2 days ago)
-- [leonardorifeli/xmrig-dashboard-app](https://github.com/leonardorifeli/xmrig-dashboard-app) - A monero (xmrig) dashboard application (backend using Golang) (2 days ago)
-- [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark (3 days ago)
+- [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner (3 days ago)
+- [astatonn/ids-joomla-eb](https://github.com/astatonn/ids-joomla-eb) - Implementação da nova identidade visual do governo para os sites do Exército Brasileiro. Template baseado na versão do marceloalencar. (3 days ago)
+- [xmrig/xmrig-workers](https://github.com/xmrig/xmrig-workers) -  (3 days ago)
+- [leonardorifeli/xmrig-dashboard-app](https://github.com/leonardorifeli/xmrig-dashboard-app) - A monero (xmrig) dashboard application (backend using Golang) (3 days ago)
+- [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark (4 days ago)
 
 #### ❤️ Recent Followers
 
+
+- [156afl](https://github.com/156afl) - Nel M. Betancur
 
 - [ikramagix](https://github.com/ikramagix) - Ikrame Saadi
 
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [rahmantamim11](https://github.com/rahmantamim11) - Rahman Tamim
 
 - [cfrBernard](https://github.com/cfrBernard) - C. Bernard
-
-- [Rabdool](https://github.com/Rabdool) - Abdurrahman
 
 
 #### ❤️ Recent Sponsors
