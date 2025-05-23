@@ -28,11 +28,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [u8views/go-u8views](https://github.com/u8views/go-u8views) - GitHub profile views tracker: displaying monthly view statistics (today)
-- [readytotouch/readytotouch](https://github.com/readytotouch/readytotouch) - A platform for simplifying job search (today)
-- [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner (3 days ago)
-- [astatonn/ids-joomla-eb](https://github.com/astatonn/ids-joomla-eb) - Implementação da nova identidade visual do governo para os sites do Exército Brasileiro. Template baseado na versão do marceloalencar. (3 days ago)
-- [xmrig/xmrig-workers](https://github.com/xmrig/xmrig-workers) -  (3 days ago)
+- [u8views/go-u8views](https://github.com/u8views/go-u8views) - GitHub profile views tracker: displaying monthly view statistics (1 day ago)
+- [readytotouch/readytotouch](https://github.com/readytotouch/readytotouch) - A platform for simplifying job search (1 day ago)
+- [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner (4 days ago)
+- [astatonn/ids-joomla-eb](https://github.com/astatonn/ids-joomla-eb) - Implementação da nova identidade visual do governo para os sites do Exército Brasileiro. Template baseado na versão do marceloalencar. (4 days ago)
+- [xmrig/xmrig-workers](https://github.com/xmrig/xmrig-workers) -  (4 days ago)
 
 #### ❤️ Recent Followers
 
