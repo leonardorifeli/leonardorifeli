@@ -37,7 +37,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
-- [rennf93](https://github.com/rennf93) - Renzo F
+- [ankitpatil7](https://github.com/ankitpatil7) - 
 
 - [YaroslavPodorvanov](https://github.com/YaroslavPodorvanov) - Yaroslav Podorvanov 
 
