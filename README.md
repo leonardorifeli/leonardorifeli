@@ -28,11 +28,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
+- [agno-agi/agent-api](https://github.com/agno-agi/agent-api) - A minimal, open-source setup for serving Agents using FastAPI and Postgres. Built for speed, clarity, and dev happiness. (today)
 - [u8views/go-u8views](https://github.com/u8views/go-u8views) - GitHub profile views tracker: displaying monthly view statistics (1 day ago)
 - [readytotouch/readytotouch](https://github.com/readytotouch/readytotouch) - A platform for simplifying job search (1 day ago)
 - [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner (4 days ago)
 - [astatonn/ids-joomla-eb](https://github.com/astatonn/ids-joomla-eb) - Implementação da nova identidade visual do governo para os sites do Exército Brasileiro. Template baseado na versão do marceloalencar. (4 days ago)
-- [xmrig/xmrig-workers](https://github.com/xmrig/xmrig-workers) -  (4 days ago)
 
 #### ❤️ Recent Followers
 
