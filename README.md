@@ -28,24 +28,24 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
+- [firechainmainnet/FireChain-Backend](https://github.com/firechainmainnet/FireChain-Backend) - 🔥 FireChain Backend – CLI Driven • Real-time RTDB • BullMQ Workers (today)
+- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator. (today)
 - [sammcj/gollama](https://github.com/sammcj/gollama) - Go manage your Ollama models (1 day ago)
 - [nlpodyssey/spago](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go (1 day ago)
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go (1 day ago)
-- [agno-agi/agent-api](https://github.com/agno-agi/agent-api) - A minimal, open-source setup for serving Agents using FastAPI and Postgres. Built for speed, clarity, and dev happiness. (1 day ago)
-- [u8views/go-u8views](https://github.com/u8views/go-u8views) - GitHub profile views tracker: displaying monthly view statistics (2 days ago)
 
 #### ❤️ Recent Followers
 
+
+- [rennf93](https://github.com/rennf93) - Renzo F
+
+- [firechainmainnet](https://github.com/firechainmainnet) - Guilherme Lima
 
 - [ankitpatil7](https://github.com/ankitpatil7) - 
 
 - [YaroslavPodorvanov](https://github.com/YaroslavPodorvanov) - Yaroslav Podorvanov 
 
 - [156afl](https://github.com/156afl) - Nel M. Betancur
-
-- [ikramagix](https://github.com/ikramagix) - Ikrame Saadi
-
-- [nelbetancur](https://github.com/nelbetancur) - Nel M. Betancur
 
 
 #### ❤️ Recent Sponsors
