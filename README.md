@@ -28,14 +28,16 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [agno-agi/agent-api](https://github.com/agno-agi/agent-api) - A minimal, open-source setup for serving Agents using FastAPI and Postgres. Built for speed, clarity, and dev happiness. (today)
-- [u8views/go-u8views](https://github.com/u8views/go-u8views) - GitHub profile views tracker: displaying monthly view statistics (1 day ago)
-- [readytotouch/readytotouch](https://github.com/readytotouch/readytotouch) - A platform for simplifying job search (1 day ago)
-- [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner (4 days ago)
-- [astatonn/ids-joomla-eb](https://github.com/astatonn/ids-joomla-eb) - Implementação da nova identidade visual do governo para os sites do Exército Brasileiro. Template baseado na versão do marceloalencar. (4 days ago)
+- [sammcj/gollama](https://github.com/sammcj/gollama) - Go manage your Ollama models (1 day ago)
+- [nlpodyssey/spago](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go (1 day ago)
+- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go (1 day ago)
+- [agno-agi/agent-api](https://github.com/agno-agi/agent-api) - A minimal, open-source setup for serving Agents using FastAPI and Postgres. Built for speed, clarity, and dev happiness. (1 day ago)
+- [u8views/go-u8views](https://github.com/u8views/go-u8views) - GitHub profile views tracker: displaying monthly view statistics (2 days ago)
 
 #### ❤️ Recent Followers
 
+
+- [rennf93](https://github.com/rennf93) - Renzo F
 
 - [ankitpatil7](https://github.com/ankitpatil7) - 
 
@@ -44,8 +46,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [156afl](https://github.com/156afl) - Nel M. Betancur
 
 - [ikramagix](https://github.com/ikramagix) - Ikrame Saadi
-
-- [nelbetancur](https://github.com/nelbetancur) - Nel M. Betancur
 
 
 #### ❤️ Recent Sponsors
