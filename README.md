@@ -39,13 +39,13 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [firechainmainnet](https://github.com/firechainmainnet) - Guilherme Lima
 
-- [ankitpatil7](https://github.com/ankitpatil7) - 
-
 - [YaroslavPodorvanov](https://github.com/YaroslavPodorvanov) - Yaroslav Podorvanov 
 
 - [156afl](https://github.com/156afl) - Nel M. Betancur
 
 - [ikramagix](https://github.com/ikramagix) - Ikrame Saadi
+
+- [nelbetancur](https://github.com/nelbetancur) - Nel M. Betancur
 
 
 #### ❤️ Recent Sponsors
