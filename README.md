@@ -37,15 +37,15 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
-- [gr33kurious](https://github.com/gr33kurious) - Nikolaï Korolkov
-
-- [rennf93](https://github.com/rennf93) - Renzo F
-
 - [firechainmainnet](https://github.com/firechainmainnet) - Guilherme Lima
 
 - [ankitpatil7](https://github.com/ankitpatil7) - 
 
 - [YaroslavPodorvanov](https://github.com/YaroslavPodorvanov) - Yaroslav Podorvanov 
+
+- [156afl](https://github.com/156afl) - Nel M. Betancur
+
+- [ikramagix](https://github.com/ikramagix) - Ikrame Saadi
 
 
 #### ❤️ Recent Sponsors
