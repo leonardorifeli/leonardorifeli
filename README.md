@@ -28,24 +28,24 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [firechainmainnet/FireChain-Backend](https://github.com/firechainmainnet/FireChain-Backend) - 🔥 FireChain Backend – CLI Driven • Real-time RTDB • BullMQ Workers (1 day ago)
-- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator. (1 day ago)
-- [sammcj/gollama](https://github.com/sammcj/gollama) - Go manage your Ollama models (2 days ago)
-- [nlpodyssey/spago](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go (2 days ago)
-- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go (2 days ago)
+- [firechainmainnet/FireChain-Backend](https://github.com/firechainmainnet/FireChain-Backend) - 🔥 FireChain Backend – CLI Driven • Real-time RTDB • BullMQ Workers (2 days ago)
+- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator. (2 days ago)
+- [sammcj/gollama](https://github.com/sammcj/gollama) - Go manage your Ollama models (3 days ago)
+- [nlpodyssey/spago](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go (3 days ago)
+- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go (3 days ago)
 
 #### ❤️ Recent Followers
 
 
+- [rennf93](https://github.com/rennf93) - Renzo F
+
+- [yyle88](https://github.com/yyle88) - yangyile-yyle88
+
+- [jaramosperez](https://github.com/jaramosperez) - Javier Ramos
+
 - [firechainmainnet](https://github.com/firechainmainnet) - Guilherme Lima
 
 - [YaroslavPodorvanov](https://github.com/YaroslavPodorvanov) - Yaroslav Podorvanov 
-
-- [156afl](https://github.com/156afl) - Nel M. Betancur
-
-- [ikramagix](https://github.com/ikramagix) - Ikrame Saadi
-
-- [nelbetancur](https://github.com/nelbetancur) - Nel M. Betancur
 
 
 #### ❤️ Recent Sponsors
