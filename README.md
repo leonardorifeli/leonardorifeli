@@ -37,8 +37,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
-- [rennf93](https://github.com/rennf93) - Renzo F
-
 - [yyle88](https://github.com/yyle88) - yangyile-yyle88
 
 - [jaramosperez](https://github.com/jaramosperez) - Javier Ramos
@@ -46,6 +44,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [firechainmainnet](https://github.com/firechainmainnet) - Guilherme Lima
 
 - [YaroslavPodorvanov](https://github.com/YaroslavPodorvanov) - Yaroslav Podorvanov 
+
+- [156afl](https://github.com/156afl) - Nel M. Betancur
 
 
 #### ❤️ Recent Sponsors
