@@ -37,15 +37,15 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [mukeshlilawat1](https://github.com/mukeshlilawat1) - Mukesh Lilawat
+
+- [filedonkey](https://github.com/filedonkey) - FileDonkey
+
 - [yyle88](https://github.com/yyle88) - yangyile-yyle88
 
 - [jaramosperez](https://github.com/jaramosperez) - Javier Ramos
 
 - [firechainmainnet](https://github.com/firechainmainnet) - Guilherme Lima
-
-- [YaroslavPodorvanov](https://github.com/YaroslavPodorvanov) - Yaroslav Podorvanov 
-
-- [156afl](https://github.com/156afl) - Nel M. Betancur
 
 
 #### ❤️ Recent Sponsors
