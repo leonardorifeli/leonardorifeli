@@ -28,11 +28,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [partykit/example-reactions](https://github.com/partykit/example-reactions) - Reactions as a Service (today)
-- [firechainmainnet/FireChain-Backend](https://github.com/firechainmainnet/FireChain-Backend) - 🔥 FireChain Backend – CLI Driven • Real-time RTDB • BullMQ Workers (2 days ago)
-- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator. (2 days ago)
-- [sammcj/gollama](https://github.com/sammcj/gollama) - Go manage your Ollama models (3 days ago)
-- [nlpodyssey/spago](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go (3 days ago)
+- [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go. (1 day ago)
+- [partykit/example-reactions](https://github.com/partykit/example-reactions) - Reactions as a Service (1 day ago)
+- [firechainmainnet/FireChain-Backend](https://github.com/firechainmainnet/FireChain-Backend) - 🔥 FireChain Backend – CLI Driven • Real-time RTDB • BullMQ Workers (3 days ago)
+- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator. (3 days ago)
+- [sammcj/gollama](https://github.com/sammcj/gollama) - Go manage your Ollama models (4 days ago)
 
 #### ❤️ Recent Followers
 
