@@ -28,11 +28,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [rubenmarcus/malicious-repositories](https://github.com/rubenmarcus/malicious-repositories) - collected from LinkedIn scammers (1 day ago)
-- [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go. (2 days ago)
-- [partykit/example-reactions](https://github.com/partykit/example-reactions) - Reactions as a Service (2 days ago)
-- [firechainmainnet/FireChain-Backend](https://github.com/firechainmainnet/FireChain-Backend) - 🔥 FireChain Backend – CLI Driven • Real-time RTDB • BullMQ Workers (4 days ago)
-- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator. (4 days ago)
+- [rubenmarcus/malicious-repositories](https://github.com/rubenmarcus/malicious-repositories) - collected from LinkedIn scammers (2 days ago)
+- [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go. (3 days ago)
+- [partykit/example-reactions](https://github.com/partykit/example-reactions) - Reactions as a Service (3 days ago)
+- [firechainmainnet/FireChain-Backend](https://github.com/firechainmainnet/FireChain-Backend) - 🔥 FireChain Backend – CLI Driven • Real-time RTDB • BullMQ Workers (5 days ago)
+- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator. (5 days ago)
 
 #### ❤️ Recent Followers
 
