@@ -28,11 +28,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications (today)
 - [rtadewald/Agents-Prompts](https://github.com/rtadewald/Agents-Prompts) -  (1 day ago)
 - [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS) - AnduinOS is a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows. (1 day ago)
 - [rubenmarcus/malicious-repositories](https://github.com/rubenmarcus/malicious-repositories) - collected from LinkedIn scammers (3 days ago)
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go. (4 days ago)
-- [partykit/example-reactions](https://github.com/partykit/example-reactions) - Reactions as a Service (4 days ago)
 
 #### ❤️ Recent Followers
 
