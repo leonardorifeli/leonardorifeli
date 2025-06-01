@@ -28,14 +28,16 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications (1 day ago)
-- [rtadewald/Agents-Prompts](https://github.com/rtadewald/Agents-Prompts) -  (2 days ago)
-- [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS) - AnduinOS is a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows. (2 days ago)
-- [rubenmarcus/malicious-repositories](https://github.com/rubenmarcus/malicious-repositories) - collected from LinkedIn scammers (4 days ago)
-- [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go. (5 days ago)
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications (2 days ago)
+- [rtadewald/Agents-Prompts](https://github.com/rtadewald/Agents-Prompts) -  (3 days ago)
+- [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS) - AnduinOS is a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows. (3 days ago)
+- [rubenmarcus/malicious-repositories](https://github.com/rubenmarcus/malicious-repositories) - collected from LinkedIn scammers (5 days ago)
+- [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go. (6 days ago)
 
 #### ❤️ Recent Followers
 
+
+- [gr33kurious](https://github.com/gr33kurious) - Nikolaï Korolkov
 
 - [THEHARSHALCHAUDHARI](https://github.com/THEHARSHALCHAUDHARI) - Harshal Chaudhari
 
@@ -44,8 +46,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [mukeshlilawat1](https://github.com/mukeshlilawat1) - Mukesh Lilawat
 
 - [filedonkey](https://github.com/filedonkey) - FileDonkey
-
-- [yyle88](https://github.com/yyle88) - yangyile-yyle88
 
 
 #### ❤️ Recent Sponsors
