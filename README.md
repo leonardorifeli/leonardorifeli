@@ -37,8 +37,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
-- [rennf93](https://github.com/rennf93) - Renzo F
-
 - [THEHARSHALCHAUDHARI](https://github.com/THEHARSHALCHAUDHARI) - Harshal Chaudhari
 
 - [Luanlmeida](https://github.com/Luanlmeida) - Luan
@@ -46,6 +44,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [mukeshlilawat1](https://github.com/mukeshlilawat1) - Mukesh Lilawat
 
 - [filedonkey](https://github.com/filedonkey) - FileDonkey
+
+- [yyle88](https://github.com/yyle88) - yangyile-yyle88
 
 
 #### ❤️ Recent Sponsors
