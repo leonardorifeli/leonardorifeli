@@ -28,16 +28,14 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications (3 days ago)
-- [rtadewald/Agents-Prompts](https://github.com/rtadewald/Agents-Prompts) -  (4 days ago)
-- [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS) - AnduinOS is a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows. (4 days ago)
-- [rubenmarcus/malicious-repositories](https://github.com/rubenmarcus/malicious-repositories) - collected from LinkedIn scammers (6 days ago)
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications (4 days ago)
+- [rtadewald/Agents-Prompts](https://github.com/rtadewald/Agents-Prompts) -  (5 days ago)
+- [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS) - AnduinOS is a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows. (5 days ago)
+- [rubenmarcus/malicious-repositories](https://github.com/rubenmarcus/malicious-repositories) - collected from LinkedIn scammers (1 week ago)
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go. (1 week ago)
 
 #### ❤️ Recent Followers
 
-
-- [guilhermegomesss](https://github.com/guilhermegomesss) - Guilherme Augusto Gomes
 
 - [rennf93](https://github.com/rennf93) - Renzo F
 
@@ -46,6 +44,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [THEHARSHALCHAUDHARI](https://github.com/THEHARSHALCHAUDHARI) - Harshal Chaudhari
 
 - [Luanlmeida](https://github.com/Luanlmeida) - Luan
+
+- [mukeshlilawat1](https://github.com/mukeshlilawat1) - Mukesh Lilawat
 
 
 #### ❤️ Recent Sponsors
