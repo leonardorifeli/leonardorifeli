@@ -39,13 +39,13 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [marichu-kt](https://github.com/marichu-kt) - @marichu_kt
 
-- [rennf93](https://github.com/rennf93) - Renzo F
-
 - [jimmmisss](https://github.com/jimmmisss) - Wesley Pereira
 
 - [Laqrabti](https://github.com/Laqrabti) - Laqrabti Hassan
 
 - [THEHARSHALCHAUDHARI](https://github.com/THEHARSHALCHAUDHARI) - Harshal Chaudhari
+
+- [Luanlmeida](https://github.com/Luanlmeida) - Luan
 
 
 #### ❤️ Recent Sponsors
