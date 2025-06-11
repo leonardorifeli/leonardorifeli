@@ -4,8 +4,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-red?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardorifeli/)](https://www.linkedin.com/in/leonardorifeli/)
 [![Github Badge](https://komarev.com/ghpvc/?username=leonardorifeli&label=Profile%20views&color=red&style=flat)](https://github.com/leonardorifeli)
 
-[![Leonardo Rifeli profile views](https://u8views.com/api/v1/github/profiles/6767689/views/day-week-month-total-count.svg)](https://u8views.com/github/leonardorifeli)
-
 I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - :office_worker: Co-founder & CTO at **@HarmoDeveloper**
