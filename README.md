@@ -39,13 +39,13 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [rosem-coder](https://github.com/rosem-coder) - 
 
-- [rennf93](https://github.com/rennf93) - Renzo F
-
 - [codewithdhruba01](https://github.com/codewithdhruba01) - Dhrubaraj Pati
 
 - [k4itrunssh](https://github.com/k4itrunssh) - k4itrun
 
 - [Motaman-M](https://github.com/Motaman-M) - Motaman
+
+- [marichu-kt](https://github.com/marichu-kt) - @marichu_kt
 
 
 #### ❤️ Recent Sponsors
