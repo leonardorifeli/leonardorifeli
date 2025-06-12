@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [tubakhxn](https://github.com/tubakhxn) - Tuba Khan
+
 - [chirsdav](https://github.com/chirsdav) - Mev bot developer
 
 - [rosem-coder](https://github.com/rosem-coder) - 
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [codewithdhruba01](https://github.com/codewithdhruba01) - Dhrubaraj Pati
 
 - [k4itrxn](https://github.com/k4itrxn) - 
-
-- [Motaman-M](https://github.com/Motaman-M) - Motaman
 
 
 #### ❤️ Recent Sponsors
