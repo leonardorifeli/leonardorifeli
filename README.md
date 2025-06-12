@@ -41,7 +41,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [codewithdhruba01](https://github.com/codewithdhruba01) - Dhrubaraj Pati
 
-- [k4itrunssh](https://github.com/k4itrunssh) - k4itrun
+- [k4itrxn](https://github.com/k4itrxn) - 
 
 - [Motaman-M](https://github.com/Motaman-M) - Motaman
 
