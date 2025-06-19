@@ -29,11 +29,13 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [plexe-ai/plexe](https://github.com/plexe-ai/plexe) - ✨ Build a machine learning model from a prompt (2 weeks ago)
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake) (2 weeks ago)
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications (2 weeks ago)
-- [rtadewald/Agents-Prompts](https://github.com/rtadewald/Agents-Prompts) -  (2 weeks ago)
-- [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS) - AnduinOS is a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows. (2 weeks ago)
+- [rtadewald/Agents-Prompts](https://github.com/rtadewald/Agents-Prompts) -  (3 weeks ago)
+- [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS) - AnduinOS is a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows. (3 weeks ago)
 
 #### ❤️ Recent Followers
 
+
+- [devddine](https://github.com/devddine) - ! ๛༢
 
 - [rhuanpk](https://github.com/rhuanpk) - Rhuan Patriky
 
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [chirsdav](https://github.com/chirsdav) - Mev bot developer
 
 - [rosem-coder](https://github.com/rosem-coder) - 
-
-- [codewithdhruba01](https://github.com/codewithdhruba01) - Dhrubaraj Pati
 
 
 #### ❤️ Recent Sponsors
