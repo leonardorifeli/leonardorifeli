@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [helallao](https://github.com/helallao) - Ali Yaşar
+
 - [seckinyasar](https://github.com/seckinyasar) - Seckin Yasar
 
 - [faeiiz](https://github.com/faeiiz) - FaizMans
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [BEPb](https://github.com/BEPb) - Andrej Marinchenko
 
 - [rhuanpk](https://github.com/rhuanpk) - Rhuan Patriky
-
-- [tubakhxn](https://github.com/tubakhxn) - Tuba Khan
 
 
 #### ❤️ Recent Sponsors
