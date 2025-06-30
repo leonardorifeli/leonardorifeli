@@ -41,9 +41,9 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [faeiiz](https://github.com/faeiiz) - FaizMans
 
-- [BEPb](https://github.com/BEPb) - Andrej Marinchenko
-
 - [rhuanpk](https://github.com/rhuanpk) - Rhuan Patriky
+
+- [tubakhxn](https://github.com/tubakhxn) - Tuba Khan
 
 
 #### ❤️ Recent Sponsors
