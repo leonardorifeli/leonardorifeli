@@ -26,24 +26,24 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [SylphAI-Inc/AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The library to build &amp; auto-optimize LLM applications. (today)
-- [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O&#39;Reilly Book - &#34;Hands-On Large Language Models&#34; (today)
-- [openai/openai-cs-agents-demo](https://github.com/openai/openai-cs-agents-demo) - Demo of a customer service use case implemented with the OpenAI Agents SDK (today)
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (4 days ago)
+- [SylphAI-Inc/AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The library to build &amp; auto-optimize LLM applications. (1 day ago)
+- [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O&#39;Reilly Book - &#34;Hands-On Large Language Models&#34; (1 day ago)
+- [openai/openai-cs-agents-demo](https://github.com/openai/openai-cs-agents-demo) - Demo of a customer service use case implemented with the OpenAI Agents SDK (1 day ago)
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (5 days ago)
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation. (1 week ago)
 
 #### ❤️ Recent Followers
 
 
+- [BitMorphX](https://github.com/BitMorphX) - BitMorphX
+
+- [Luizfelippe00966](https://github.com/Luizfelippe00966) - Luiz 
+
+- [Wesker222](https://github.com/Wesker222) - Wesker
+
+- [Lyne6666](https://github.com/Lyne6666) - Lyne
+
 - [helallao](https://github.com/helallao) - Ali Yaşar
-
-- [seckinyasar](https://github.com/seckinyasar) - Seckin Yasar
-
-- [faeiiz](https://github.com/faeiiz) - FaizMans
-
-- [rhuanpk](https://github.com/rhuanpk) - Rhuan Patriky
-
-- [tubakhxn](https://github.com/tubakhxn) - Tuba Khan
 
 
 #### ❤️ Recent Sponsors
