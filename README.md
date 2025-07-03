@@ -26,10 +26,10 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [SylphAI-Inc/AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The library to build &amp; auto-optimize LLM applications. (1 day ago)
-- [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O&#39;Reilly Book - &#34;Hands-On Large Language Models&#34; (1 day ago)
-- [openai/openai-cs-agents-demo](https://github.com/openai/openai-cs-agents-demo) - Demo of a customer service use case implemented with the OpenAI Agents SDK (1 day ago)
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (5 days ago)
+- [SylphAI-Inc/AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The library to build &amp; auto-optimize LLM applications. (2 days ago)
+- [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O&#39;Reilly Book - &#34;Hands-On Large Language Models&#34; (2 days ago)
+- [openai/openai-cs-agents-demo](https://github.com/openai/openai-cs-agents-demo) - Demo of a customer service use case implemented with the OpenAI Agents SDK (2 days ago)
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (6 days ago)
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation. (1 week ago)
 
 #### ❤️ Recent Followers
