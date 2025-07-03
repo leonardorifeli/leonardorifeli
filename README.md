@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [PedroHrolf](https://github.com/PedroHrolf) - Pedro Rollo
+
 - [BitMorphX](https://github.com/BitMorphX) - BitMorphX
 
 - [Wesker222](https://github.com/Wesker222) - Wesker
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [Lyne6666](https://github.com/Lyne6666) - Lyne
 
 - [helallao](https://github.com/helallao) - Ali Yaşar
-
-- [seckinyasar](https://github.com/seckinyasar) - Seckin Yasar
 
 
 #### ❤️ Recent Sponsors
