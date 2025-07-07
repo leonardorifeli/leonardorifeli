@@ -26,11 +26,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (today)
 - [aws-samples/amazon-bedrock-agents-healthcare-lifesciences](https://github.com/aws-samples/amazon-bedrock-agents-healthcare-lifesciences) -  (4 days ago)
 - [SylphAI-Inc/AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The library to build &amp; auto-optimize LLM applications. (6 days ago)
 - [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O&#39;Reilly Book - &#34;Hands-On Large Language Models&#34; (6 days ago)
 - [openai/openai-cs-agents-demo](https://github.com/openai/openai-cs-agents-demo) - Demo of a customer service use case implemented with the OpenAI Agents SDK (6 days ago)
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (1 week ago)
 
 #### ❤️ Recent Followers
 
