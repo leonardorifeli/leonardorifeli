@@ -37,13 +37,13 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [oluiscabral](https://github.com/oluiscabral) - Luis Cabral
 
-- [milksense](https://github.com/milksense) - 
-
 - [PedroHrolf](https://github.com/PedroHrolf) - Pedro Rollo
 
 - [BitMorphX](https://github.com/BitMorphX) - BitMorphX
 
 - [Lyne6666](https://github.com/Lyne6666) - Lyne
+
+- [helallao](https://github.com/helallao) - Ali Yaşar
 
 
 #### ❤️ Recent Sponsors
