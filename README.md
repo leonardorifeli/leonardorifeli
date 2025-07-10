@@ -26,14 +26,16 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
+- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases. (today)
 - [langchain-ai/react-agent](https://github.com/langchain-ai/react-agent) - LangGraph template for a simple ReAct agent (2 days ago)
 - [HarmoDeveloper/jarvis-platform](https://github.com/HarmoDeveloper/jarvis-platform) - All repos of jarvis-platform (BigAI) (2 days ago)
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (3 days ago)
 - [aws-samples/amazon-bedrock-agents-healthcare-lifesciences](https://github.com/aws-samples/amazon-bedrock-agents-healthcare-lifesciences) -  (1 week ago)
-- [SylphAI-Inc/AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The library to build &amp; auto-optimize LLM applications. (1 week ago)
 
 #### ❤️ Recent Followers
 
+
+- [visualGravitySense](https://github.com/visualGravitySense) - Dmitri Gornakov
 
 - [oluiscabral](https://github.com/oluiscabral) - Luis Cabral
 
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [BitMorphX](https://github.com/BitMorphX) - BitMorphX
 
 - [Lyne6666](https://github.com/Lyne6666) - Lyne
-
-- [helallao](https://github.com/helallao) - Ali Yaşar
 
 
 #### ❤️ Recent Sponsors
