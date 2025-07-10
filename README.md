@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [irenerodriguezrod](https://github.com/irenerodriguezrod) - Irene RODRIGUEZ RODRIGUEZ
+
 - [visualGravitySense](https://github.com/visualGravitySense) - Dmitri Gornakov
 
 - [oluiscabral](https://github.com/oluiscabral) - Luis Cabral
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [PedroHrolf](https://github.com/PedroHrolf) - Pedro Rollo
 
 - [BitMorphX](https://github.com/BitMorphX) - BitMorphX
-
-- [Lyne6666](https://github.com/Lyne6666) - Lyne
 
 
 #### ❤️ Recent Sponsors
