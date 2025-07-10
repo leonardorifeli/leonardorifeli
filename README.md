@@ -26,10 +26,10 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [langchain-ai/react-agent](https://github.com/langchain-ai/react-agent) - LangGraph template for a simple ReAct agent (1 day ago)
-- [HarmoDeveloper/jarvis-platform](https://github.com/HarmoDeveloper/jarvis-platform) - All repos of jarvis-platform (BigAI) (1 day ago)
-- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (2 days ago)
-- [aws-samples/amazon-bedrock-agents-healthcare-lifesciences](https://github.com/aws-samples/amazon-bedrock-agents-healthcare-lifesciences) -  (6 days ago)
+- [langchain-ai/react-agent](https://github.com/langchain-ai/react-agent) - LangGraph template for a simple ReAct agent (2 days ago)
+- [HarmoDeveloper/jarvis-platform](https://github.com/HarmoDeveloper/jarvis-platform) - All repos of jarvis-platform (BigAI) (2 days ago)
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (3 days ago)
+- [aws-samples/amazon-bedrock-agents-healthcare-lifesciences](https://github.com/aws-samples/amazon-bedrock-agents-healthcare-lifesciences) -  (1 week ago)
 - [SylphAI-Inc/AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The library to build &amp; auto-optimize LLM applications. (1 week ago)
 
 #### ❤️ Recent Followers
