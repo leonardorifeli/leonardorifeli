@@ -60,10 +60,10 @@ Many thanks everyone! 🙏
 - [leonardorifeli/lmde-omakube-install](https://github.com/leonardorifeli/lmde-omakube-install)
 
 #### 📄 Latest blog posts
+- [Como utilizar Cronjobs no AWS RDS Aurora Cluster](https://rifeli.dev/blog/2024-12-10-como-usar-cronjob-no-rds-aurora-postgres/) (2 weeks ago)
 - [How we use Serverless at Harmo](https://rifeli.dev/blog/2020-10-08-how-we-use-serverless-at-harmo/) (4 years ago)
 - [Princípios SOLID: LSP e sopa de letrinhas](https://rifeli.dev/blog/2017-12-30-principios-solid-lsp-e-sopa-de-letrinhas/) (7 years ago)
 - [Princípios SOLID: OCP e sopa de letrinhas](https://rifeli.dev/blog/2017-12-06-principios-solid-ocp-e-sopa-de-letrinhas/) (7 years ago)
 - [Princípios SOLID: SRP e sopa de letrinhas](https://rifeli.dev/blog/2017-03-25-principios-solid-srp-e-sopa-de-letrinhas/) (8 years ago)
-- [Falando sobre a estrutura do meu blog](https://rifeli.dev/blog/2016-11-11-falando-sobre-a-estrutura-do-meu-blog/) (8 years ago)
 
 I created this readme based on [Becker's](https://github.com/caarlos0) readme.
