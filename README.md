@@ -26,11 +26,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel) (today)
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel) (1 day ago)
 - [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases. (1 week ago)
 - [langchain-ai/react-agent](https://github.com/langchain-ai/react-agent) - LangGraph template for a simple ReAct agent (1 week ago)
 - [HarmoDeveloper/jarvis-platform](https://github.com/HarmoDeveloper/jarvis-platform) - All repos of jarvis-platform (BigAI) (1 week ago)
-- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (1 week ago)
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (2 weeks ago)
 
 #### ❤️ Recent Followers
 
