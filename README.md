@@ -13,11 +13,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - 🇧🇷 Antônio Carlos - SC
 
 #### 👨‍💻 Repositories I created recently
+- **[leonardorifeli/jurema.vet](https://github.com/leonardorifeli/jurema.vet)** - Jurema Website
 - **[leonardorifeli/xmrig-dashboard-app](https://github.com/leonardorifeli/xmrig-dashboard-app)** - A monero (xmrig) dashboard application (backend using Golang)
 - **[leonardorifeli/lmde-omakube-install](https://github.com/leonardorifeli/lmde-omakube-install)** - Similuar Omakube lib for LMDE
 - **[leonardorifeli/local-llm-server](https://github.com/leonardorifeli/local-llm-server)** - LLM local server using Mistral model
 - **[leonardorifeli/idsfisio.com.br](https://github.com/leonardorifeli/idsfisio.com.br)** - Statis files of idsfisio.com.br website
-- **[leonardorifeli/bigdata-processor](https://github.com/leonardorifeli/bigdata-processor)** - Personal project of Hadoop Processor
 
 #### 🔨 My recent Pull Requests
 
@@ -54,6 +54,7 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [leonardorifeli/jurema.vet](https://github.com/leonardorifeli/jurema.vet)
 - [leonardorifeli/xmrig-dashboard-app](https://github.com/leonardorifeli/xmrig-dashboard-app)
 - [leonardorifeli/local-llm-server](https://github.com/leonardorifeli/local-llm-server)
 - [remy/mit-license](https://github.com/remy/mit-license)
