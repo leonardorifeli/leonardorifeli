@@ -54,8 +54,8 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
-- [leonardorifeli/jurema.vet](https://github.com/leonardorifeli/jurema.vet)
 - [leonardorifeli/consultoria.rifeli.dev](https://github.com/leonardorifeli/consultoria.rifeli.dev)
+- [leonardorifeli/jurema.vet](https://github.com/leonardorifeli/jurema.vet)
 - [leonardorifeli/xmrig-dashboard-app](https://github.com/leonardorifeli/xmrig-dashboard-app)
 - [leonardorifeli/local-llm-server](https://github.com/leonardorifeli/local-llm-server)
 - [remy/mit-license](https://github.com/remy/mit-license)
