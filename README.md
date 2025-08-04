@@ -14,10 +14,10 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 #### 👨‍💻 Repositories I created recently
 - **[leonardorifeli/jurema.vet](https://github.com/leonardorifeli/jurema.vet)** - Jurema Website
+- **[leonardorifeli/consultoria.rifeli.dev](https://github.com/leonardorifeli/consultoria.rifeli.dev)** - My professional data
 - **[leonardorifeli/xmrig-dashboard-app](https://github.com/leonardorifeli/xmrig-dashboard-app)** - A monero (xmrig) dashboard application (backend using Golang)
 - **[leonardorifeli/lmde-omakube-install](https://github.com/leonardorifeli/lmde-omakube-install)** - Similuar Omakube lib for LMDE
 - **[leonardorifeli/local-llm-server](https://github.com/leonardorifeli/local-llm-server)** - LLM local server using Mistral model
-- **[leonardorifeli/idsfisio.com.br](https://github.com/leonardorifeli/idsfisio.com.br)** - Statis files of idsfisio.com.br website
 
 #### 🔨 My recent Pull Requests
 
@@ -26,7 +26,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [mozilla-ai/any-llm](https://github.com/mozilla-ai/any-llm) - Communicate with an LLM provider using a single interface (6 days ago)
+- [mozilla-ai/any-llm](https://github.com/mozilla-ai/any-llm) - Communicate with an LLM provider using a single interface (1 week ago)
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel) (2 weeks ago)
 - [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases. (3 weeks ago)
 - [langchain-ai/react-agent](https://github.com/langchain-ai/react-agent) - LangGraph template for a simple ReAct agent (3 weeks ago)
@@ -55,6 +55,7 @@ Many thanks everyone! 🙏
 #### ⛏️ What I've been working on
 
 - [leonardorifeli/jurema.vet](https://github.com/leonardorifeli/jurema.vet)
+- [leonardorifeli/consultoria.rifeli.dev](https://github.com/leonardorifeli/consultoria.rifeli.dev)
 - [leonardorifeli/xmrig-dashboard-app](https://github.com/leonardorifeli/xmrig-dashboard-app)
 - [leonardorifeli/local-llm-server](https://github.com/leonardorifeli/local-llm-server)
 - [remy/mit-license](https://github.com/remy/mit-license)
