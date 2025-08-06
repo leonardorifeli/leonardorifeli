@@ -37,13 +37,13 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [YagoBorba](https://github.com/YagoBorba) - Yago Azevedo Borba
 
-- [devddine](https://github.com/devddine) - ! ๛༢
-
 - [murilobonow1612](https://github.com/murilobonow1612) - Murilo Neves Bonow
 
 - [irenerodriguezrod](https://github.com/irenerodriguezrod) - Irene RODRIGUEZ RODRIGUEZ
 
 - [visualGravitySense](https://github.com/visualGravitySense) - Dmitri Gornakov
+
+- [oluiscabral](https://github.com/oluiscabral) - Luis Cabral
 
 
 #### ❤️ Recent Sponsors
