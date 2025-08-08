@@ -51,8 +51,15 @@ Many thanks everyone! 🙏
 
 #### 📄 Latest blog posts
 
-{{- range rss "https://rifeli.dev/blog/index.xml" 5 }}
+{{- range rss "https://rifeli.dev/blog/index.xml" 10 }}
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
 {{- end }}
+
+<h2 align="left">🎮 My Contributions</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonardorifeli/leonardorifeli/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonardorifeli/leonardorifeli/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/leonardorifeli/leonardorifeli/output/pacman-contribution-graph.svg">
+</picture>
 
 I created this readme based on [Becker's](https://github.com/caarlos0) readme.
