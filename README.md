@@ -67,5 +67,17 @@ Many thanks everyone! 🙏
 - [How we use Serverless at Harmo](https://rifeli.dev/blog/2020-10-08-how-we-use-serverless-at-harmo/) (4 years ago)
 - [Princípios SOLID: LSP e sopa de letrinhas](https://rifeli.dev/blog/2017-12-30-principios-solid-lsp-e-sopa-de-letrinhas/) (7 years ago)
 - [Princípios SOLID: OCP e sopa de letrinhas](https://rifeli.dev/blog/2017-12-06-principios-solid-ocp-e-sopa-de-letrinhas/) (7 years ago)
+- [Princípios SOLID: SRP e sopa de letrinhas](https://rifeli.dev/blog/2017-03-25-principios-solid-srp-e-sopa-de-letrinhas/) (8 years ago)
+- [Falando sobre a estrutura do meu blog](https://rifeli.dev/blog/2016-11-11-falando-sobre-a-estrutura-do-meu-blog/) (8 years ago)
+- [Docker: Vamos falar sobre virtualização?](https://rifeli.dev/blog/2016-11-05-docker-vamos-falar-sobre-virtualizacao/) (8 years ago)
+- [Herança ou composição? Qual utilizar?](https://rifeli.dev/blog/2016-08-19-heranca-ou-composicao-qual-utilizar/) (9 years ago)
+- [Web Socket no PHP](https://rifeli.dev/blog/2016-05-30-websocket-no-php/) (9 years ago)
+
+<h2 align="left">🎮 My Contributions</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonardorifeli/leonardorifeli/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonardorifeli/leonardorifeli/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/leonardorifeli/leonardorifeli/output/pacman-contribution-graph.svg">
+</picture>
 
 I created this readme based on [Becker's](https://github.com/caarlos0) readme.
