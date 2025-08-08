@@ -26,7 +26,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style! (2 days ago)
+- [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style! (3 days ago)
 - [mozilla-ai/any-llm](https://github.com/mozilla-ai/any-llm) - Communicate with an LLM provider using a single interface (1 week ago)
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel) (2 weeks ago)
 - [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases. (4 weeks ago)
@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [uhsr](https://github.com/uhsr) - UHSR
+
 - [YagoBorba](https://github.com/YagoBorba) - Yago Azevedo Borba
 
 - [murilobonow1612](https://github.com/murilobonow1612) - Murilo Neves Bonow
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [irenerodriguezrod](https://github.com/irenerodriguezrod) - Irene RODRIGUEZ RODRIGUEZ
 
 - [visualGravitySense](https://github.com/visualGravitySense) - Dmitri Gornakov
-
-- [oluiscabral](https://github.com/oluiscabral) - Luis Cabral
 
 
 #### ❤️ Recent Sponsors
