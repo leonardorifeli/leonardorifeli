@@ -26,10 +26,10 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style! (3 days ago)
+- [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style! (4 days ago)
 - [mozilla-ai/any-llm](https://github.com/mozilla-ai/any-llm) - Communicate with an LLM provider using a single interface (1 week ago)
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel) (2 weeks ago)
-- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases. (4 weeks ago)
+- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases. (1 month ago)
 - [langchain-ai/react-agent](https://github.com/langchain-ai/react-agent) - LangGraph template for a simple ReAct agent (1 month ago)
 
 #### ❤️ Recent Followers
@@ -62,7 +62,9 @@ Many thanks everyone! 🙏
 - [leonardorifeli/lmde-omakube-install](https://github.com/leonardorifeli/lmde-omakube-install)
 
 #### 📄 Latest blog posts
-- [Como gerimos nossos clusters Kubernetes na prática](https://rifeli.dev/blog/2025-07-10-como-gerimos-nossos-cluters-kubernets-na-pratica/) (4 weeks ago)
+- [Por que decidi oferecer consultoria técnica?](https://rifeli.dev/blog/2025-08-02-por-que-decidi-oferecer-consultoria-tecnica/) (1 week ago)
+- [Entrevista com Elton Minetto em Mais Que Senior](https://rifeli.dev/blog/2025-08-01-entrevista-mais-que-senior-com-elton-minetto/) (1 week ago)
+- [Como gerimos nossos clusters Kubernetes na prática](https://rifeli.dev/blog/2025-07-10-como-gerimos-nossos-cluters-kubernets-na-pratica/) (1 month ago)
 - [Agendando cronjobs nativos no RDS Aurora PostgreSQL com pg_cron](https://rifeli.dev/blog/2025-07-01-agendando-cronjobs-nativos-no-rds-aurora-postgresql-com-pgcron/) (1 month ago)
 - [How we use Serverless at Harmo](https://rifeli.dev/blog/2020-10-08-how-we-use-serverless-at-harmo/) (4 years ago)
 - [Princípios SOLID: LSP e sopa de letrinhas](https://rifeli.dev/blog/2017-12-30-principios-solid-lsp-e-sopa-de-letrinhas/) (7 years ago)
@@ -70,8 +72,6 @@ Many thanks everyone! 🙏
 - [Princípios SOLID: SRP e sopa de letrinhas](https://rifeli.dev/blog/2017-03-25-principios-solid-srp-e-sopa-de-letrinhas/) (8 years ago)
 - [Falando sobre a estrutura do meu blog](https://rifeli.dev/blog/2016-11-11-falando-sobre-a-estrutura-do-meu-blog/) (8 years ago)
 - [Docker: Vamos falar sobre virtualização?](https://rifeli.dev/blog/2016-11-05-docker-vamos-falar-sobre-virtualizacao/) (8 years ago)
-- [Herança ou composição? Qual utilizar?](https://rifeli.dev/blog/2016-08-19-heranca-ou-composicao-qual-utilizar/) (9 years ago)
-- [Web Socket no PHP](https://rifeli.dev/blog/2016-05-30-websocket-no-php/) (9 years ago)
 
 <h2 align="left">🎮 My Contributions</h2>
 <picture>
