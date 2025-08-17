@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [nikhilpatidar01](https://github.com/nikhilpatidar01) - NIKHIL PATIDAR
+
 - [narex-ai](https://github.com/narex-ai) - Narex Apollo
 
 - [Mohsen-malekifard](https://github.com/Mohsen-malekifard) - Mohsen Malekifard 
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [uhsr](https://github.com/uhsr) - UHSR
 
 - [YagoBorba](https://github.com/YagoBorba) - Yago Azevedo Borba
-
-- [murilobonow1612](https://github.com/murilobonow1612) - Murilo Neves Bonow
 
 
 #### ❤️ Recent Sponsors
