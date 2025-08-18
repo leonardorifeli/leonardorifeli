@@ -26,14 +26,16 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
+- [williamkoller/golang-custom-metrics](https://github.com/williamkoller/golang-custom-metrics) -  (today)
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. (2 days ago)
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style! (1 week ago)
 - [mozilla-ai/any-llm](https://github.com/mozilla-ai/any-llm) - Communicate with an LLM provider using a single interface (3 weeks ago)
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel) (4 weeks ago)
-- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases. (1 month ago)
 
 #### ❤️ Recent Followers
 
+
+- [K1rsN7](https://github.com/K1rsN7) - Kirill Sukhorukov
 
 - [nikhilpatidar01](https://github.com/nikhilpatidar01) - NIKHIL PATIDAR
 
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [Mohsen-malekifard](https://github.com/Mohsen-malekifard) - Mohsen Malekifard 
 
 - [uhsr](https://github.com/uhsr) - UHSR
-
-- [YagoBorba](https://github.com/YagoBorba) - Yago Azevedo Borba
 
 
 #### ❤️ Recent Sponsors
