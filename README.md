@@ -35,13 +35,13 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [amad3i](https://github.com/amad3i) - Amad3i
+
 - [buraksocial](https://github.com/buraksocial) - Burâk
 
 - [FelipeOAlbert](https://github.com/FelipeOAlbert) - Felipe Albert
 
 - [nikhilpatidar01](https://github.com/nikhilpatidar01) - NIKHIL PATIDAR
-
-- [narex-ai](https://github.com/narex-ai) - Narex Apollo
 
 - [Mohsen-malekifard](https://github.com/Mohsen-malekifard) - Mohsen Malekifard 
 
