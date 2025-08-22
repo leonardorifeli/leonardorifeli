@@ -26,11 +26,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [LucasPedruo/caca-fantasma-LINKEDIN](https://github.com/LucasPedruo/caca-fantasma-LINKEDIN) - Extensão para Chrome que automatiza a remoção de conexões no LinkedIn, ideal para limpar contatos inativos ou irrelevantes de forma rápida e prática. (today)
-- [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown (1 day ago)
-- [GabrielaMarculino/Roteiro-Mineiro-IA-AI-Powered-Travel-Route-Optimizer-for-Minas-Gerais-](https://github.com/GabrielaMarculino/Roteiro-Mineiro-IA-AI-Powered-Travel-Route-Optimizer-for-Minas-Gerais-) - This repository contains a Python implementation of the Simulated Annealing algorithm to find an efficient travel route connecting several popular destinations in the state of Minas Gerais, Brazil, with Belo Horizonte as the fixed starting point. The project includes a dynamic visualization of the algorithm&#39;s optimization process. (2 days ago)
-- [williamkoller/golang-custom-metrics](https://github.com/williamkoller/golang-custom-metrics) -  (3 days ago)
-- [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. (5 days ago)
+- [LucasPedruo/caca-fantasma-LINKEDIN](https://github.com/LucasPedruo/caca-fantasma-LINKEDIN) - Extensão para Chrome que automatiza a remoção de conexões no LinkedIn, ideal para limpar contatos inativos ou irrelevantes de forma rápida e prática. (1 day ago)
+- [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown (2 days ago)
+- [GabrielaMarculino/Roteiro-Mineiro-IA-AI-Powered-Travel-Route-Optimizer-for-Minas-Gerais-](https://github.com/GabrielaMarculino/Roteiro-Mineiro-IA-AI-Powered-Travel-Route-Optimizer-for-Minas-Gerais-) - This repository contains a Python implementation of the Simulated Annealing algorithm to find an efficient travel route connecting several popular destinations in the state of Minas Gerais, Brazil, with Belo Horizonte as the fixed starting point. The project includes a dynamic visualization of the algorithm&#39;s optimization process. (3 days ago)
+- [williamkoller/golang-custom-metrics](https://github.com/williamkoller/golang-custom-metrics) -  (4 days ago)
+- [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. (6 days ago)
 
 #### ❤️ Recent Followers
 
@@ -64,7 +64,7 @@ Many thanks everyone! 🙏
 #### 📄 Latest blog posts
 - [Do zero a Home Server: como e por que montei meu NAS em ZFS](https://rifeli.dev/blog/2025-08-10-do-zero-a-home-server-como-e-por-que-montei-meu-nas-em-zfs/) (1 week ago)
 - [Por que decidi oferecer consultoria técnica?](https://rifeli.dev/blog/2025-08-02-por-que-decidi-oferecer-consultoria-tecnica/) (2 weeks ago)
-- [Entrevista com Elton Minetto em Mais Que Senior](https://rifeli.dev/blog/2025-08-01-entrevista-mais-que-senior-com-elton-minetto/) (2 weeks ago)
+- [Entrevista com Elton Minetto em Mais Que Senior](https://rifeli.dev/blog/2025-08-01-entrevista-mais-que-senior-com-elton-minetto/) (3 weeks ago)
 - [Como gerimos nossos clusters Kubernetes na prática](https://rifeli.dev/blog/2025-07-10-como-gerimos-nossos-cluters-kubernets-na-pratica/) (1 month ago)
 - [Agendando cronjobs nativos no RDS Aurora PostgreSQL com pg_cron](https://rifeli.dev/blog/2025-07-01-agendando-cronjobs-nativos-no-rds-aurora-postgresql-com-pgcron/) (1 month ago)
 - [How we use Serverless at Harmo](https://rifeli.dev/blog/2020-10-08-how-we-use-serverless-at-harmo/) (4 years ago)
