@@ -35,8 +35,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
-- [gr33kurious](https://github.com/gr33kurious) - Nikolaï Korolkov
-
 - [amad3i](https://github.com/amad3i) - Amad3i
 
 - [buraksocial](https://github.com/buraksocial) - Burâk
@@ -44,6 +42,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [FelipeOAlbert](https://github.com/FelipeOAlbert) - Felipe Albert
 
 - [nikhilpatidar01](https://github.com/nikhilpatidar01) - NIKHIL PATIDAR
+
+- [Mohsen-malekifard](https://github.com/Mohsen-malekifard) - Mohsen Malekifard 
 
 
 #### ❤️ Recent Sponsors
