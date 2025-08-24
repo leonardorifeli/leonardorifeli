@@ -26,11 +26,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
+- [Galarzaa90/tibiawiki-sql](https://github.com/Galarzaa90/tibiawiki-sql) - Python script that generates a SQLite database from TibiaWiki articles (today)
 - [LucasPedruo/caca-fantasma-LINKEDIN](https://github.com/LucasPedruo/caca-fantasma-LINKEDIN) - Extensão para Chrome que automatiza a remoção de conexões no LinkedIn, ideal para limpar contatos inativos ou irrelevantes de forma rápida e prática. (3 days ago)
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown (4 days ago)
 - [GabrielaMarculino/Roteiro-Mineiro-IA-AI-Powered-Travel-Route-Optimizer-for-Minas-Gerais-](https://github.com/GabrielaMarculino/Roteiro-Mineiro-IA-AI-Powered-Travel-Route-Optimizer-for-Minas-Gerais-) - This repository contains a Python implementation of the Simulated Annealing algorithm to find an efficient travel route connecting several popular destinations in the state of Minas Gerais, Brazil, with Belo Horizonte as the fixed starting point. The project includes a dynamic visualization of the algorithm&#39;s optimization process. (5 days ago)
 - [williamkoller/golang-custom-metrics](https://github.com/williamkoller/golang-custom-metrics) -  (6 days ago)
-- [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. (1 week ago)
 
 #### ❤️ Recent Followers
 
