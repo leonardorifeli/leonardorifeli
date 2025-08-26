@@ -60,6 +60,7 @@ Many thanks everyone! 🙏
 - [leonardorifeli/local-llm-server](https://github.com/leonardorifeli/local-llm-server)
 - [remy/mit-license](https://github.com/remy/mit-license)
 - [leonardorifeli/lmde-omakube-install](https://github.com/leonardorifeli/lmde-omakube-install)
+- [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
 
 #### 📄 Latest blog posts
 - [Por que priorizar o fetch nativo? E como implementar timeout nas requisições](https://rifeli.dev/blog/2025-08-20-por-que-usar-o-fetch-no-nodejs/) (6 days ago)
