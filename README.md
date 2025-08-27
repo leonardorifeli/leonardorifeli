@@ -26,9 +26,9 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [Galarzaa90/tibiawiki-sql](https://github.com/Galarzaa90/tibiawiki-sql) - Python script that generates a SQLite database from TibiaWiki articles (2 days ago)
-- [LucasPedruo/caca-fantasma-LINKEDIN](https://github.com/LucasPedruo/caca-fantasma-LINKEDIN) - Extensão para Chrome que automatiza a remoção de conexões no LinkedIn, ideal para limpar contatos inativos ou irrelevantes de forma rápida e prática. (5 days ago)
-- [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown (6 days ago)
+- [Galarzaa90/tibiawiki-sql](https://github.com/Galarzaa90/tibiawiki-sql) - Python script that generates a SQLite database from TibiaWiki articles (3 days ago)
+- [LucasPedruo/caca-fantasma-LINKEDIN](https://github.com/LucasPedruo/caca-fantasma-LINKEDIN) - Extensão para Chrome que automatiza a remoção de conexões no LinkedIn, ideal para limpar contatos inativos ou irrelevantes de forma rápida e prática. (6 days ago)
+- [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown (1 week ago)
 - [GabrielaMarculino/Roteiro-Mineiro-IA-AI-Powered-Travel-Route-Optimizer-for-Minas-Gerais-](https://github.com/GabrielaMarculino/Roteiro-Mineiro-IA-AI-Powered-Travel-Route-Optimizer-for-Minas-Gerais-) - This repository contains a Python implementation of the Simulated Annealing algorithm to find an efficient travel route connecting several popular destinations in the state of Minas Gerais, Brazil, with Belo Horizonte as the fixed starting point. The project includes a dynamic visualization of the algorithm&#39;s optimization process. (1 week ago)
 - [williamkoller/golang-custom-metrics](https://github.com/williamkoller/golang-custom-metrics) -  (1 week ago)
 
@@ -63,7 +63,7 @@ Many thanks everyone! 🙏
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
 
 #### 📄 Latest blog posts
-- [Por que priorizar o fetch nativo? E como implementar timeout nas requisições](https://rifeli.dev/blog/2025-08-20-por-que-usar-o-fetch-no-nodejs/) (6 days ago)
+- [Por que priorizar o fetch nativo? E como implementar timeout nas requisições](https://rifeli.dev/blog/2025-08-20-por-que-usar-o-fetch-no-nodejs/) (1 week ago)
 - [Do zero a Home Server: como e por que montei meu NAS em ZFS](https://rifeli.dev/blog/2025-08-10-do-zero-a-home-server-como-e-por-que-montei-meu-nas-em-zfs/) (2 weeks ago)
 - [Por que decidi oferecer consultoria técnica?](https://rifeli.dev/blog/2025-08-02-por-que-decidi-oferecer-consultoria-tecnica/) (3 weeks ago)
 - [Entrevista com Elton Minetto em Mais Que Senior](https://rifeli.dev/blog/2025-08-01-entrevista-mais-que-senior-com-elton-minetto/) (3 weeks ago)
