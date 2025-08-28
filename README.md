@@ -26,11 +26,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
+- [Canner/WrenAI](https://github.com/Canner/WrenAI) - ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds. (today)
 - [Galarzaa90/tibiawiki-sql](https://github.com/Galarzaa90/tibiawiki-sql) - Python script that generates a SQLite database from TibiaWiki articles (4 days ago)
 - [LucasPedruo/caca-fantasma-LINKEDIN](https://github.com/LucasPedruo/caca-fantasma-LINKEDIN) - Extensão para Chrome que automatiza a remoção de conexões no LinkedIn, ideal para limpar contatos inativos ou irrelevantes de forma rápida e prática. (1 week ago)
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown (1 week ago)
 - [GabrielaMarculino/Roteiro-Mineiro-IA-AI-Powered-Travel-Route-Optimizer-for-Minas-Gerais-](https://github.com/GabrielaMarculino/Roteiro-Mineiro-IA-AI-Powered-Travel-Route-Optimizer-for-Minas-Gerais-) - This repository contains a Python implementation of the Simulated Annealing algorithm to find an efficient travel route connecting several popular destinations in the state of Minas Gerais, Brazil, with Belo Horizonte as the fixed starting point. The project includes a dynamic visualization of the algorithm&#39;s optimization process. (1 week ago)
-- [williamkoller/golang-custom-metrics](https://github.com/williamkoller/golang-custom-metrics) -  (1 week ago)
 
 #### ❤️ Recent Followers
 
