@@ -37,13 +37,13 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [XiaomingX](https://github.com/XiaomingX) - Y11
 
-- [amad3i](https://github.com/amad3i) - Amad3i
-
 - [buraksocial](https://github.com/buraksocial) - Burâk
 
 - [FelipeOAlbert](https://github.com/FelipeOAlbert) - Felipe Albert
 
 - [nikhilpatidar01](https://github.com/nikhilpatidar01) - NIKHIL PATIDAR
+
+- [Mohsen-malekifard](https://github.com/Mohsen-malekifard) - Mohsen Malekifard 
 
 
 #### ❤️ Recent Sponsors
