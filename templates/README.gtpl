@@ -11,6 +11,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - 💙 Main tech stacks: Golang, Python and Javascript
 - :octocat: Writer at [rifeli.dev](https://rifeli.dev)
 - 🇧🇷 Antônio Carlos - SC
+- 🔮 Tibia Gamer [Cypher Bash](https://www.tibia.com/community/?name=Cypher+Bash) & [Salvador Quinn](https://www.tibia.com/community/?name=Salvador+Quinn)
 
 #### 👨‍💻 Repositories I created recently
 
