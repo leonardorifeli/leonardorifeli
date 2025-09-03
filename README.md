@@ -11,6 +11,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - 💙 Main tech stacks: Golang, Python and Javascript
 - :octocat: Writer at [rifeli.dev](https://rifeli.dev)
 - 🇧🇷 Antônio Carlos - SC
+- 🔮 Tibia Gamer [Cypher Bash](https://www.tibia.com/community/?name=Cypher+Bash) & [Salvador Quinn](https://www.tibia.com/community/?name=Salvador+Quinn)
 
 #### 👨‍💻 Repositories I created recently
 - **[leonardorifeli/personal_blog](https://github.com/leonardorifeli/personal_blog)** - My blog comments
@@ -26,11 +27,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
+- [s2ward/tibia](https://github.com/s2ward/tibia) - A repository for all things Tibia, with advanced NPC transcript and library database management.   (today)
 - [Canner/WrenAI](https://github.com/Canner/WrenAI) - ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds. (6 days ago)
 - [Galarzaa90/tibiawiki-sql](https://github.com/Galarzaa90/tibiawiki-sql) - Python script that generates a SQLite database from TibiaWiki articles (1 week ago)
 - [LucasPedruo/caca-fantasma-LINKEDIN](https://github.com/LucasPedruo/caca-fantasma-LINKEDIN) - Extensão para Chrome que automatiza a remoção de conexões no LinkedIn, ideal para limpar contatos inativos ou irrelevantes de forma rápida e prática. (1 week ago)
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown (2 weeks ago)
-- [GabrielaMarculino/Roteiro-Mineiro-IA-AI-Powered-Travel-Route-Optimizer-for-Minas-Gerais-](https://github.com/GabrielaMarculino/Roteiro-Mineiro-IA-AI-Powered-Travel-Route-Optimizer-for-Minas-Gerais-) - This repository contains a Python implementation of the Simulated Annealing algorithm to find an efficient travel route connecting several popular destinations in the state of Minas Gerais, Brazil, with Belo Horizonte as the fixed starting point. The project includes a dynamic visualization of the algorithm&#39;s optimization process. (2 weeks ago)
 
 #### ❤️ Recent Followers
 
