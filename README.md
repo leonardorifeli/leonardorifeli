@@ -35,8 +35,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
-- [Arison99](https://github.com/Arison99) - Byonanebye Arison
-
 - [sphinxzerd](https://github.com/sphinxzerd) - 
 
 - [XiaomingX](https://github.com/XiaomingX) - Y11
@@ -44,6 +42,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [buraksocial](https://github.com/buraksocial) - Burâk
 
 - [FelipeOAlbert](https://github.com/FelipeOAlbert) - Felipe Albert
+
+- [nikhilpatidar01](https://github.com/nikhilpatidar01) - NIKHIL PATIDAR
 
 
 #### ❤️ Recent Sponsors
