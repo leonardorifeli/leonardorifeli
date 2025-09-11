@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [slavaGanzin](https://github.com/slavaGanzin) - Slava
+
 - [giladfuchs](https://github.com/giladfuchs) - 
 
 - [sphinxzerd](https://github.com/sphinxzerd) - 
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [XiaomingX](https://github.com/XiaomingX) - Y11
 
 - [buraksocial](https://github.com/buraksocial) - Burâk
-
-- [FelipeOAlbert](https://github.com/FelipeOAlbert) - Felipe Albert
 
 
 #### ❤️ Recent Sponsors
