@@ -26,8 +26,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app (2 days ago)
-- [prefeitura-rio/whatsapp-bot](https://github.com/prefeitura-rio/whatsapp-bot) - [Template] Implementação de um bot de WhatsApp usando Python para lidar com as mensagens. (3 days ago)
+- [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app (3 days ago)
+- [prefeitura-rio/whatsapp-bot](https://github.com/prefeitura-rio/whatsapp-bot) - [Template] Implementação de um bot de WhatsApp usando Python para lidar com as mensagens. (4 days ago)
 - [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more. (1 week ago)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (1 week ago)
 - [s2ward/tibia](https://github.com/s2ward/tibia) - A repository for all things Tibia, with advanced NPC transcript and library database management.   (1 week ago)
@@ -69,7 +69,7 @@ Many thanks everyone! 🙏
 - [Entrevista com Elton Minetto em Mais Que Senior](https://rifeli.dev/blog/2025-08-01-entrevista-mais-que-senior-com-elton-minetto/) (1 month ago)
 - [Como gerimos nossos clusters Kubernetes na prática](https://rifeli.dev/blog/2025-07-10-como-gerimos-nossos-cluters-kubernets-na-pratica/) (2 months ago)
 - [Agendando cronjobs nativos no RDS Aurora PostgreSQL com pg_cron](https://rifeli.dev/blog/2025-07-01-agendando-cronjobs-nativos-no-rds-aurora-postgresql-com-pgcron/) (2 months ago)
-- [How we use Serverless at Harmo](https://rifeli.dev/blog/2020-10-08-how-we-use-serverless-at-harmo/) (4 years ago)
+- [How we use Serverless at Harmo](https://rifeli.dev/blog/2020-10-08-how-we-use-serverless-at-harmo/) (5 years ago)
 - [Princípios SOLID: LSP e sopa de letrinhas](https://rifeli.dev/blog/2017-12-30-principios-solid-lsp-e-sopa-de-letrinhas/) (7 years ago)
 - [Princípios SOLID: OCP e sopa de letrinhas](https://rifeli.dev/blog/2017-12-06-principios-solid-ocp-e-sopa-de-letrinhas/) (7 years ago)
 - [Princípios SOLID: SRP e sopa de letrinhas](https://rifeli.dev/blog/2017-03-25-principios-solid-srp-e-sopa-de-letrinhas/) (8 years ago)
