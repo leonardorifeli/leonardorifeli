@@ -35,15 +35,15 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [amad3i](https://github.com/amad3i) - Amad3i
+
+- [dopaemon](https://github.com/dopaemon) - Trần Nguyễn Tuấn Anh
+
 - [levonk](https://github.com/levonk) - levonk
 
 - [motanelson](https://github.com/motanelson) - nelson jr mota
 
 - [slavaGanzin](https://github.com/slavaGanzin) - Slava
-
-- [giladfuchs](https://github.com/giladfuchs) - 
-
-- [sphinxzerd](https://github.com/sphinxzerd) - 
 
 
 #### ❤️ Recent Sponsors
