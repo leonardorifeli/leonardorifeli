@@ -26,11 +26,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
+- [hestiacp/hestiacp](https://github.com/hestiacp/hestiacp) - Hestia Control Panel | A lightweight and powerful control panel for the modern web. (today)
+- [aaPanel/aaPanel](https://github.com/aaPanel/aaPanel) - Simple but Powerful web-based Control Panel (today)
 - [opentibiabr/canary](https://github.com/opentibiabr/canary) - Canary Server 14.x for OpenTibia community.  (1 day ago)
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100&#43; LLMs &amp; VLMs (ACL 2024) (4 days ago)
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app (1 week ago)
-- [prefeitura-rio/whatsapp-bot](https://github.com/prefeitura-rio/whatsapp-bot) - [Template] Implementação de um bot de WhatsApp usando Python para lidar com as mensagens. (1 week ago)
-- [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more. (1 week ago)
 
 #### ❤️ Recent Followers
 
@@ -41,9 +41,9 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [dopaemon](https://github.com/dopaemon) - Trần Nguyễn Tuấn Anh
 
-- [levonk](https://github.com/levonk) - levonk
-
 - [motanelson](https://github.com/motanelson) - nelson jr mota
+
+- [slavaGanzin](https://github.com/slavaGanzin) - Slava
 
 
 #### ❤️ Recent Sponsors
