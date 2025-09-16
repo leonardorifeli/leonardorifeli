@@ -11,6 +11,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - 💙 Main tech stacks: Golang, Python and Javascript
 - :octocat: Writer at [rifeli.dev](https://rifeli.dev)
 - 🇧🇷 Antônio Carlos - SC
+- ⚔️ Owner of [https://muximba.dev/](Tibia Muximba OT Server)
 
 #### 👨‍💻 Repositories I created recently
 - **[leonardorifeli/personal_blog](https://github.com/leonardorifeli/personal_blog)** - My blog comments
@@ -54,6 +55,7 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [Muximba/.github](https://github.com/Muximba/.github)
 - [leonardorifeli/consultoria.rifeli.dev](https://github.com/leonardorifeli/consultoria.rifeli.dev)
 - [leonardorifeli/jurema.vet](https://github.com/leonardorifeli/jurema.vet)
 - [leonardorifeli/xmrig-dashboard-app](https://github.com/leonardorifeli/xmrig-dashboard-app)
@@ -73,12 +75,5 @@ Many thanks everyone! 🙏
 - [Princípios SOLID: LSP e sopa de letrinhas](https://rifeli.dev/blog/2017-12-30-principios-solid-lsp-e-sopa-de-letrinhas/) (7 years ago)
 - [Princípios SOLID: OCP e sopa de letrinhas](https://rifeli.dev/blog/2017-12-06-principios-solid-ocp-e-sopa-de-letrinhas/) (7 years ago)
 - [Princípios SOLID: SRP e sopa de letrinhas](https://rifeli.dev/blog/2017-03-25-principios-solid-srp-e-sopa-de-letrinhas/) (8 years ago)
-
-<h2 align="left">🎮 My Contributions</h2>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonardorifeli/leonardorifeli/refs/heads/master/dist/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonardorifeli/leonardorifeli/refs/heads/master/dist/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/leonardorifeli/leonardorifeli/refs/heads/master/dist/pacman-contribution-graph.svg">
-</picture>
 
 I created this readme based on [Becker's](https://github.com/caarlos0) readme.
