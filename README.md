@@ -36,11 +36,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [lrepo52](https://github.com/lrepo52) - 
+
 - [temptypo](https://github.com/temptypo) - typo
 
 - [amad3i](https://github.com/amad3i) - Amad3i
-
-- [dopaemon](https://github.com/dopaemon) - Trần Nguyễn Tuấn Anh
 
 - [motanelson](https://github.com/motanelson) - nelson jr mota
 
