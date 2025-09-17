@@ -27,11 +27,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
+- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100&#43; LLMs &amp; VLMs (ACL 2024) (today)
 - [Hitmasu/OpenCNPJ](https://github.com/Hitmasu/OpenCNPJ) - API pública de busca e consulta de CNPJs do Brasil (today)
 - [zimbadev/crystalserver](https://github.com/zimbadev/crystalserver) - Crystal Server is an OpenTibia Server for 15x protocol with Monk Update. (today)
 - [hestiacp/hestiacp](https://github.com/hestiacp/hestiacp) - Hestia Control Panel | A lightweight and powerful control panel for the modern web. (1 day ago)
 - [aaPanel/aaPanel](https://github.com/aaPanel/aaPanel) - Simple but Powerful web-based Control Panel (1 day ago)
-- [opentibiabr/canary](https://github.com/opentibiabr/canary) - Canary Server 14.x for OpenTibia community.  (2 days ago)
 
 #### ❤️ Recent Followers
 
