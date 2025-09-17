@@ -27,10 +27,10 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [hestiacp/hestiacp](https://github.com/hestiacp/hestiacp) - Hestia Control Panel | A lightweight and powerful control panel for the modern web. (today)
-- [aaPanel/aaPanel](https://github.com/aaPanel/aaPanel) - Simple but Powerful web-based Control Panel (today)
-- [opentibiabr/canary](https://github.com/opentibiabr/canary) - Canary Server 14.x for OpenTibia community.  (1 day ago)
-- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100&#43; LLMs &amp; VLMs (ACL 2024) (4 days ago)
+- [hestiacp/hestiacp](https://github.com/hestiacp/hestiacp) - Hestia Control Panel | A lightweight and powerful control panel for the modern web. (1 day ago)
+- [aaPanel/aaPanel](https://github.com/aaPanel/aaPanel) - Simple but Powerful web-based Control Panel (1 day ago)
+- [opentibiabr/canary](https://github.com/opentibiabr/canary) - Canary Server 14.x for OpenTibia community.  (2 days ago)
+- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100&#43; LLMs &amp; VLMs (ACL 2024) (5 days ago)
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app (1 week ago)
 
 #### ❤️ Recent Followers
@@ -65,7 +65,7 @@ Many thanks everyone! 🙏
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
 
 #### 📄 Latest blog posts
-- [Por que priorizar o fetch nativo? E como implementar timeout nas requisições](https://rifeli.dev/blog/2025-08-20-por-que-usar-o-fetch-no-nodejs/) (3 weeks ago)
+- [Por que priorizar o fetch nativo? E como implementar timeout nas requisições](https://rifeli.dev/blog/2025-08-20-por-que-usar-o-fetch-no-nodejs/) (4 weeks ago)
 - [Do zero a Home Server: como e por que montei meu NAS em ZFS](https://rifeli.dev/blog/2025-08-10-do-zero-a-home-server-como-e-por-que-montei-meu-nas-em-zfs/) (1 month ago)
 - [Por que decidi oferecer consultoria técnica?](https://rifeli.dev/blog/2025-08-02-por-que-decidi-oferecer-consultoria-tecnica/) (1 month ago)
 - [Entrevista com Elton Minetto em Mais Que Senior](https://rifeli.dev/blog/2025-08-01-entrevista-mais-que-senior-com-elton-minetto/) (1 month ago)
