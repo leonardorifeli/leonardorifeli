@@ -23,6 +23,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### 🔨 My recent Pull Requests
 
 
+- [Update email address in user JSON file](https://github.com/remy/mit-license/pull/1766) on [remy/mit-license](https://github.com/remy/mit-license) (today)
 
 #### ⭐ Recent Stars
 
