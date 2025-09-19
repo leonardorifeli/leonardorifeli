@@ -28,11 +28,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
+- [firebase/genkit](https://github.com/firebase/genkit) - Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google (today)
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100&#43; LLMs &amp; VLMs (ACL 2024) (2 days ago)
 - [Hitmasu/OpenCNPJ](https://github.com/Hitmasu/OpenCNPJ) - API pública de busca e consulta de CNPJs do Brasil (2 days ago)
 - [zimbadev/crystalserver](https://github.com/zimbadev/crystalserver) - Crystal Server is an OpenTibia Server for 15x protocol with Monk Update. (2 days ago)
 - [hestiacp/hestiacp](https://github.com/hestiacp/hestiacp) - Hestia Control Panel | A lightweight and powerful control panel for the modern web. (3 days ago)
-- [aaPanel/aaPanel](https://github.com/aaPanel/aaPanel) - Simple but Powerful web-based Control Panel (3 days ago)
 
 #### ❤️ Recent Followers
 
