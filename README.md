@@ -37,15 +37,15 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
-- [Arison99](https://github.com/Arison99) - Byonanebye Arison
-
-- [sx4im](https://github.com/sx4im) - Saim Shafique
-
 - [lrepo52](https://github.com/lrepo52) - 
 
 - [temptypo](https://github.com/temptypo) - typo
 
 - [motanelson](https://github.com/motanelson) - nelson jr mota
+
+- [slavaGanzin](https://github.com/slavaGanzin) - Slava
+
+- [giladfuchs](https://github.com/giladfuchs) - 
 
 
 #### ❤️ Recent Sponsors
