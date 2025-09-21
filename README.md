@@ -23,16 +23,16 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### 🔨 My recent Pull Requests
 
 
-- [Update email address in user JSON file](https://github.com/remy/mit-license/pull/1766) on [remy/mit-license](https://github.com/remy/mit-license) (2 days ago)
+- [Update email address in user JSON file](https://github.com/remy/mit-license/pull/1766) on [remy/mit-license](https://github.com/remy/mit-license) (3 days ago)
 
 #### ⭐ Recent Stars
 
 
-- [firebase/genkit](https://github.com/firebase/genkit) - Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google (1 day ago)
-- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100&#43; LLMs &amp; VLMs (ACL 2024) (3 days ago)
-- [Hitmasu/OpenCNPJ](https://github.com/Hitmasu/OpenCNPJ) - API pública de busca e consulta de CNPJs do Brasil (3 days ago)
-- [zimbadev/crystalserver](https://github.com/zimbadev/crystalserver) - Crystal Server is an OpenTibia Server for 15x protocol with Monk Update. (3 days ago)
-- [hestiacp/hestiacp](https://github.com/hestiacp/hestiacp) - Hestia Control Panel | A lightweight and powerful control panel for the modern web. (4 days ago)
+- [firebase/genkit](https://github.com/firebase/genkit) - Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google (2 days ago)
+- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100&#43; LLMs &amp; VLMs (ACL 2024) (4 days ago)
+- [Hitmasu/OpenCNPJ](https://github.com/Hitmasu/OpenCNPJ) - API pública de busca e consulta de CNPJs do Brasil (4 days ago)
+- [zimbadev/crystalserver](https://github.com/zimbadev/crystalserver) - Crystal Server is an OpenTibia Server for 15x protocol with Monk Update. (4 days ago)
+- [hestiacp/hestiacp](https://github.com/hestiacp/hestiacp) - Hestia Control Panel | A lightweight and powerful control panel for the modern web. (5 days ago)
 
 #### ❤️ Recent Followers
 
