@@ -36,6 +36,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [gaqx](https://github.com/gaqx) - 
+
 - [xamerarpg](https://github.com/xamerarpg) - 
 
 - [lrepo52](https://github.com/lrepo52) - 
@@ -43,8 +45,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [motanelson](https://github.com/motanelson) - nelson jr mota
 
 - [slavaGanzin](https://github.com/slavaGanzin) - Slava
-
-- [sphinxzerd](https://github.com/sphinxzerd) - 
 
 
 #### ❤️ Recent Sponsors
