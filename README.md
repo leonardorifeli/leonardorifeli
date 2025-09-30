@@ -27,8 +27,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [zimbadev/gameclient](https://github.com/zimbadev/gameclient) -  (6 days ago)
-- [OTCv8/otcv8-dev](https://github.com/OTCv8/otcv8-dev) - OTCv8 Development repository (source code) (6 days ago)
+- [zimbadev/gameclient](https://github.com/zimbadev/gameclient) -  (1 week ago)
+- [OTCv8/otcv8-dev](https://github.com/OTCv8/otcv8-dev) - OTCv8 Development repository (source code) (1 week ago)
 - [firebase/genkit](https://github.com/firebase/genkit) - Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google (1 week ago)
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100&#43; LLMs &amp; VLMs (ACL 2024) (1 week ago)
 - [Hitmasu/OpenCNPJ](https://github.com/Hitmasu/OpenCNPJ) - API pública de busca e consulta de CNPJs do Brasil (1 week ago)
@@ -68,7 +68,7 @@ Many thanks everyone! 🙏
 - [Por que priorizar o fetch nativo? E como implementar timeout nas requisições](https://rifeli.dev/blog/2025-08-20-por-que-usar-o-fetch-no-nodejs/) (1 month ago)
 - [Do zero a Home Server: como e por que montei meu NAS em ZFS](https://rifeli.dev/blog/2025-08-10-do-zero-a-home-server-como-e-por-que-montei-meu-nas-em-zfs/) (1 month ago)
 - [Por que decidi oferecer consultoria técnica?](https://rifeli.dev/blog/2025-08-02-por-que-decidi-oferecer-consultoria-tecnica/) (1 month ago)
-- [Entrevista com Elton Minetto em Mais Que Senior](https://rifeli.dev/blog/2025-08-01-entrevista-mais-que-senior-com-elton-minetto/) (1 month ago)
+- [Entrevista com Elton Minetto em Mais Que Senior](https://rifeli.dev/blog/2025-08-01-entrevista-mais-que-senior-com-elton-minetto/) (2 months ago)
 - [Como gerimos nossos clusters Kubernetes na prática](https://rifeli.dev/blog/2025-07-10-como-gerimos-nossos-cluters-kubernets-na-pratica/) (2 months ago)
 - [Agendando cronjobs nativos no RDS Aurora PostgreSQL com pg_cron](https://rifeli.dev/blog/2025-07-01-agendando-cronjobs-nativos-no-rds-aurora-postgresql-com-pgcron/) (3 months ago)
 - [How we use Serverless at Harmo](https://rifeli.dev/blog/2020-10-08-how-we-use-serverless-at-harmo/) (5 years ago)
