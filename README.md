@@ -36,6 +36,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [emilycodestar](https://github.com/emilycodestar) - Emily 💞
+
 - [ChinmayKaitade](https://github.com/ChinmayKaitade) - Chinmay Kaitade
 
 - [cold-cofffeee](https://github.com/cold-cofffeee) - Celestial Dissonance
@@ -43,8 +45,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [gaqx](https://github.com/gaqx) - 
 
 - [xamerarpg](https://github.com/xamerarpg) - 
-
-- [motanelson](https://github.com/motanelson) - nelson jr mota
 
 
 #### ❤️ Recent Sponsors
