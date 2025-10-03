@@ -15,10 +15,10 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 #### 👨‍💻 Repositories I created recently
 - **[leonardorifeli/personal_blog](https://github.com/leonardorifeli/personal_blog)** - My blog comments
-- **[leonardorifeli/jurema.vet](https://github.com/leonardorifeli/jurema.vet)** - Jurema Website
 - **[leonardorifeli/consultoria.rifeli.dev](https://github.com/leonardorifeli/consultoria.rifeli.dev)** - My professional data
 - **[leonardorifeli/xmrig-dashboard-app](https://github.com/leonardorifeli/xmrig-dashboard-app)** - A monero (xmrig) dashboard application (backend using Golang)
 - **[leonardorifeli/lmde-omakube-install](https://github.com/leonardorifeli/lmde-omakube-install)** - Similuar Omakube lib for LMDE
+- **[leonardorifeli/local-llm-server](https://github.com/leonardorifeli/local-llm-server)** - LLM local server using Mistral model
 
 #### 🔨 My recent Pull Requests
 
@@ -57,7 +57,6 @@ Many thanks everyone! 🙏
 
 - [Muximba/.github](https://github.com/Muximba/.github)
 - [leonardorifeli/consultoria.rifeli.dev](https://github.com/leonardorifeli/consultoria.rifeli.dev)
-- [leonardorifeli/jurema.vet](https://github.com/leonardorifeli/jurema.vet)
 - [leonardorifeli/xmrig-dashboard-app](https://github.com/leonardorifeli/xmrig-dashboard-app)
 - [leonardorifeli/local-llm-server](https://github.com/leonardorifeli/local-llm-server)
 - [remy/mit-license](https://github.com/remy/mit-license)
