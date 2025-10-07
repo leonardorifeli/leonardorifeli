@@ -38,7 +38,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [Murad098](https://github.com/Murad098) - Murad khan
 
-- [umogal](https://github.com/umogal) - Miguel 
+- [umogal](https://github.com/umogal) - Mogal
 
 - [frieren-mage](https://github.com/frieren-mage) - Frieren
 
