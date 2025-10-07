@@ -36,6 +36,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [ritesh-chauhan0x1](https://github.com/ritesh-chauhan0x1) - Ritesh Chauhan
+
 - [Murad098](https://github.com/Murad098) - Murad khan
 
 - [umogal](https://github.com/umogal) - Mogal
@@ -43,8 +45,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [frieren-mage](https://github.com/frieren-mage) - Frieren
 
 - [emilycodestar](https://github.com/emilycodestar) - Emily 💞
-
-- [ChinmayKaitade](https://github.com/ChinmayKaitade) - Chinmay Kaitade
 
 
 #### ❤️ Recent Sponsors
