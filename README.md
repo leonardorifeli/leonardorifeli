@@ -44,7 +44,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [umogal](https://github.com/umogal) - Mogal
 
-- [frieren-mage](https://github.com/frieren-mage) - Frieren
+- [emilycodestar](https://github.com/emilycodestar) - Emily 💞
 
 
 #### ❤️ Recent Sponsors
