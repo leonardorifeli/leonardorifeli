@@ -38,13 +38,13 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [hosseinhezami](https://github.com/hosseinhezami) - Hossein Hezami
 
-- [synCodx](https://github.com/synCodx) - John Wick
-
 - [KabeloM13](https://github.com/KabeloM13) - Kabelo M.
 
 - [Murad098](https://github.com/Murad098) - Murad khan
 
 - [umogal](https://github.com/umogal) - Mogal
+
+- [frieren-mage](https://github.com/frieren-mage) - Frieren
 
 
 #### ❤️ Recent Sponsors
