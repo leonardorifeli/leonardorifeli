@@ -36,6 +36,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [seckinyasar](https://github.com/seckinyasar) - Seckin Yasar
+
 - [helallao](https://github.com/helallao) - Ali Yaşar
 
 - [vimal0156](https://github.com/vimal0156) - VIMAL DHAMA
@@ -43,8 +45,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [ankitkumarbarik](https://github.com/ankitkumarbarik) - Ankit Barik
 
 - [hosseinhezami](https://github.com/hosseinhezami) - Hossein Hezami
-
-- [KabeloM13](https://github.com/KabeloM13) - Kabelo M.
 
 
 #### ❤️ Recent Sponsors
