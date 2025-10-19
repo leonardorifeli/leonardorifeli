@@ -29,7 +29,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [zimbadev/gameclient](https://github.com/zimbadev/gameclient) -  (3 weeks ago)
 - [OTCv8/otcv8-dev](https://github.com/OTCv8/otcv8-dev) - OTCv8 Development repository (source code) (3 weeks ago)
-- [firebase/genkit](https://github.com/firebase/genkit) - Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google (4 weeks ago)
+- [firebase/genkit](https://github.com/firebase/genkit) - Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google (1 month ago)
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100&#43; LLMs &amp; VLMs (ACL 2024) (1 month ago)
 - [Hitmasu/OpenCNPJ](https://github.com/Hitmasu/OpenCNPJ) - API pública de busca e consulta de CNPJs do Brasil (1 month ago)
 
@@ -64,7 +64,7 @@ Many thanks everyone! 🙏
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
 
 #### 📄 Latest blog posts
-- [Por que priorizar o fetch nativo? E como implementar timeout nas requisições](https://rifeli.dev/blog/2025-08-20-por-que-usar-o-fetch-no-nodejs/) (1 month ago)
+- [Por que priorizar o fetch nativo? E como implementar timeout nas requisições](https://rifeli.dev/blog/2025-08-20-por-que-usar-o-fetch-no-nodejs/) (2 months ago)
 - [Do zero a Home Server: como e por que montei meu NAS em ZFS](https://rifeli.dev/blog/2025-08-10-do-zero-a-home-server-como-e-por-que-montei-meu-nas-em-zfs/) (2 months ago)
 - [Por que decidi oferecer consultoria técnica?](https://rifeli.dev/blog/2025-08-02-por-que-decidi-oferecer-consultoria-tecnica/) (2 months ago)
 - [Entrevista com Elton Minetto em Mais Que Senior](https://rifeli.dev/blog/2025-08-01-entrevista-mais-que-senior-com-elton-minetto/) (2 months ago)
