@@ -27,7 +27,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [ublue-os/aurora](https://github.com/ublue-os/aurora) - The ultimate productivity workstation (today)
+- [ublue-os/aurora](https://github.com/ublue-os/aurora) - The ultimate productivity workstation (1 day ago)
 - [zimbadev/gameclient](https://github.com/zimbadev/gameclient) -  (1 month ago)
 - [OTCv8/otcv8-dev](https://github.com/OTCv8/otcv8-dev) - OTCv8 Development repository (source code) (1 month ago)
 - [firebase/genkit](https://github.com/firebase/genkit) - Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google (1 month ago)
@@ -36,6 +36,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [ritesh-chauhan0x1](https://github.com/ritesh-chauhan0x1) - Ritesh Chauhan
+
 - [trinhminhtriet](https://github.com/trinhminhtriet) - Triet Trinh
 
 - [paaak](https://github.com/paaak) - Paak
@@ -43,8 +45,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [seckinyasar](https://github.com/seckinyasar) - Seckin Yasar
 
 - [helallao](https://github.com/helallao) - Ali Yaşar
-
-- [vimal0156](https://github.com/vimal0156) - VIMAL DHAMA
 
 
 #### ❤️ Recent Sponsors
