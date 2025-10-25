@@ -27,7 +27,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [ublue-os/aurora](https://github.com/ublue-os/aurora) - The ultimate productivity workstation (1 day ago)
+- [ublue-os/aurora](https://github.com/ublue-os/aurora) - The ultimate productivity workstation (2 days ago)
 - [zimbadev/gameclient](https://github.com/zimbadev/gameclient) -  (1 month ago)
 - [OTCv8/otcv8-dev](https://github.com/OTCv8/otcv8-dev) - OTCv8 Development repository (source code) (1 month ago)
 - [firebase/genkit](https://github.com/firebase/genkit) - Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google (1 month ago)
@@ -36,8 +36,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
-- [ritesh-chauhan0x1](https://github.com/ritesh-chauhan0x1) - Ritesh Chauhan
-
 - [trinhminhtriet](https://github.com/trinhminhtriet) - Triet Trinh
 
 - [paaak](https://github.com/paaak) - Paak
@@ -45,6 +43,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [seckinyasar](https://github.com/seckinyasar) - Seckin Yasar
 
 - [helallao](https://github.com/helallao) - Ali Yaşar
+
+- [vimal0156](https://github.com/vimal0156) - VIMAL DHAMA
 
 
 #### ❤️ Recent Sponsors
@@ -72,7 +72,7 @@ Many thanks everyone! 🙏
 - [Agendando cronjobs nativos no RDS Aurora PostgreSQL com pg_cron](https://rifeli.dev/blog/2025-07-01-agendando-cronjobs-nativos-no-rds-aurora-postgresql-com-pgcron/) (3 months ago)
 - [How we use Serverless at Harmo](https://rifeli.dev/blog/2020-10-08-how-we-use-serverless-at-harmo/) (5 years ago)
 - [Princípios SOLID: LSP e sopa de letrinhas](https://rifeli.dev/blog/2017-12-30-principios-solid-lsp-e-sopa-de-letrinhas/) (7 years ago)
-- [Princípios SOLID: OCP e sopa de letrinhas](https://rifeli.dev/blog/2017-12-06-principios-solid-ocp-e-sopa-de-letrinhas/) (7 years ago)
+- [Princípios SOLID: OCP e sopa de letrinhas](https://rifeli.dev/blog/2017-12-06-principios-solid-ocp-e-sopa-de-letrinhas/) (8 years ago)
 - [Princípios SOLID: SRP e sopa de letrinhas](https://rifeli.dev/blog/2017-03-25-principios-solid-srp-e-sopa-de-letrinhas/) (8 years ago)
 
 I created this readme based on [Becker's](https://github.com/caarlos0) readme.
