@@ -11,7 +11,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - 💙 Main tech stacks: Golang, Python and Javascript
 - :octocat: Writer at [rifeli.dev](https://rifeli.dev)
 - 🇧🇷 Antônio Carlos - SC
-- ⚔️ Owner of [https://muximba.dev/](Tibia Muximba OT Server)
 
 #### 👨‍💻 Repositories I created recently
 
