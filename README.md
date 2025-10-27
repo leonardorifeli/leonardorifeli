@@ -11,7 +11,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - 💙 Main tech stacks: Golang, Python and Javascript
 - :octocat: Writer at [rifeli.dev](https://rifeli.dev)
 - 🇧🇷 Antônio Carlos - SC
-- ⚔️ Owner of [https://muximba.dev/](Tibia Muximba OT Server)
 
 #### 👨‍💻 Repositories I created recently
 - **[leonardorifeli/personal_blog](https://github.com/leonardorifeli/personal_blog)** - My blog comments
@@ -36,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [DevNinja08](https://github.com/DevNinja08) - Dev Ninja
+
 - [demaagro](https://github.com/demaagro) - Dema
 
 - [weitereigh](https://github.com/weitereigh) - Weit
@@ -43,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [seckinyasar](https://github.com/seckinyasar) - Seckin Yasar
 
 - [helallao](https://github.com/helallao) - Ali Yaşar
-
-- [vimal0156](https://github.com/vimal0156) - VIMAL DHAMA
 
 
 #### ❤️ Recent Sponsors
