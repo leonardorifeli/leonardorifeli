@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [LoxAtlis](https://github.com/LoxAtlis) - Lox
+
 - [DevNinja08](https://github.com/DevNinja08) - Dev Ninja
 
 - [demaagro](https://github.com/demaagro) - Dema
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [weitereigh](https://github.com/weitereigh) - Weit
 
 - [seckinyasar](https://github.com/seckinyasar) - Seckin Yasar
-
-- [helallao](https://github.com/helallao) - Ali Yaşar
 
 
 #### ❤️ Recent Sponsors
