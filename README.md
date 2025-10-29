@@ -26,7 +26,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [ublue-os/aurora](https://github.com/ublue-os/aurora) - The ultimate productivity workstation (5 days ago)
+- [ublue-os/aurora](https://github.com/ublue-os/aurora) - The ultimate productivity workstation (6 days ago)
 - [zimbadev/gameclient](https://github.com/zimbadev/gameclient) -  (1 month ago)
 - [OTCv8/otcv8-dev](https://github.com/OTCv8/otcv8-dev) - OTCv8 Development repository (source code) (1 month ago)
 - [firebase/genkit](https://github.com/firebase/genkit) - Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google (1 month ago)
@@ -35,15 +35,15 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [zhusonglai](https://github.com/zhusonglai) - Zhu
+
+- [pethmm](https://github.com/pethmm) - Pety
+
 - [JoseMariaAlarconArenas](https://github.com/JoseMariaAlarconArenas) - Jose
 
 - [ankitaaryal](https://github.com/ankitaaryal) - Ankita Aryal
 
 - [LoxAtlis](https://github.com/LoxAtlis) - Lox
-
-- [DevNinja08](https://github.com/DevNinja08) - Dev Ninja
-
-- [demaagro](https://github.com/demaagro) - Dema
 
 
 #### ❤️ Recent Sponsors
@@ -68,7 +68,7 @@ Many thanks everyone! 🙏
 - [Por que decidi oferecer consultoria técnica?](https://rifeli.dev/blog/2025-08-02-por-que-decidi-oferecer-consultoria-tecnica/) (2 months ago)
 - [Entrevista com Elton Minetto em Mais Que Senior](https://rifeli.dev/blog/2025-08-01-entrevista-mais-que-senior-com-elton-minetto/) (2 months ago)
 - [Como gerimos nossos clusters Kubernetes na prática](https://rifeli.dev/blog/2025-07-10-como-gerimos-nossos-cluters-kubernets-na-pratica/) (3 months ago)
-- [Agendando cronjobs nativos no RDS Aurora PostgreSQL com pg_cron](https://rifeli.dev/blog/2025-07-01-agendando-cronjobs-nativos-no-rds-aurora-postgresql-com-pgcron/) (3 months ago)
+- [Agendando cronjobs nativos no RDS Aurora PostgreSQL com pg_cron](https://rifeli.dev/blog/2025-07-01-agendando-cronjobs-nativos-no-rds-aurora-postgresql-com-pgcron/) (4 months ago)
 - [How we use Serverless at Harmo](https://rifeli.dev/blog/2020-10-08-how-we-use-serverless-at-harmo/) (5 years ago)
 - [Princípios SOLID: LSP e sopa de letrinhas](https://rifeli.dev/blog/2017-12-30-principios-solid-lsp-e-sopa-de-letrinhas/) (7 years ago)
 - [Princípios SOLID: OCP e sopa de letrinhas](https://rifeli.dev/blog/2017-12-06-principios-solid-ocp-e-sopa-de-letrinhas/) (8 years ago)
