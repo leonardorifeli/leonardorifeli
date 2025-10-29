@@ -63,6 +63,7 @@ Many thanks everyone! 🙏
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
 
 #### 📄 Latest blog posts
+- [Como adicionar dicionários no ClickUp](https://rifeli.dev/blog/como-adicionar-dicionarios-no-clickup/) (1 day ago)
 - [Por que priorizar o fetch nativo? E como implementar timeout nas requisições](https://rifeli.dev/blog/2025-08-20-por-que-usar-o-fetch-no-nodejs/) (2 months ago)
 - [Do zero a Home Server: como e por que montei meu NAS em ZFS](https://rifeli.dev/blog/2025-08-10-do-zero-a-home-server-como-e-por-que-montei-meu-nas-em-zfs/) (2 months ago)
 - [Por que decidi oferecer consultoria técnica?](https://rifeli.dev/blog/2025-08-02-por-que-decidi-oferecer-consultoria-tecnica/) (2 months ago)
@@ -72,6 +73,5 @@ Many thanks everyone! 🙏
 - [How we use Serverless at Harmo](https://rifeli.dev/blog/2020-10-08-how-we-use-serverless-at-harmo/) (5 years ago)
 - [Princípios SOLID: LSP e sopa de letrinhas](https://rifeli.dev/blog/2017-12-30-principios-solid-lsp-e-sopa-de-letrinhas/) (7 years ago)
 - [Princípios SOLID: OCP e sopa de letrinhas](https://rifeli.dev/blog/2017-12-06-principios-solid-ocp-e-sopa-de-letrinhas/) (8 years ago)
-- [Princípios SOLID: SRP e sopa de letrinhas](https://rifeli.dev/blog/2017-03-25-principios-solid-srp-e-sopa-de-letrinhas/) (8 years ago)
 
 I created this readme based on [Becker's](https://github.com/caarlos0) readme.
