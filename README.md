@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [trinhminhtriet](https://github.com/trinhminhtriet) - Triet Trinh
+
 - [foxy1081](https://github.com/foxy1081) - Foxy
 
 - [zhusonglai](https://github.com/zhusonglai) - Zhu
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [pethmm](https://github.com/pethmm) - Pety
 
 - [ankitaaryal](https://github.com/ankitaaryal) - Ankita Aryal
-
-- [LoxAtlis](https://github.com/LoxAtlis) - Lox
 
 
 #### ❤️ Recent Sponsors
