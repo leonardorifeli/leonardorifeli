@@ -39,11 +39,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [trinhminhtriet](https://github.com/trinhminhtriet) - Triet Trinh
 
-- [foxy1081](https://github.com/foxy1081) - Foxy
-
 - [zhusonglai](https://github.com/zhusonglai) - Zhu
 
 - [pethmm](https://github.com/pethmm) - Pety
+
+- [ankitaaryal](https://github.com/ankitaaryal) - Ankita Aryal
 
 
 #### ❤️ Recent Sponsors
@@ -63,7 +63,7 @@ Many thanks everyone! 🙏
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
 
 #### 📄 Latest blog posts
-- [Como adicionar dicionários no ClickUp](https://rifeli.dev/blog/como-adicionar-dicionarios-no-clickup/) (1 week ago)
+- [Como adicionar dicionários no ClickUp](https://rifeli.dev/blog/como-adicionar-dicionarios-no-clickup/) (2 weeks ago)
 - [Por que priorizar o fetch nativo? E como implementar timeout nas requisições](https://rifeli.dev/blog/2025-08-20-por-que-usar-o-fetch-no-nodejs/) (2 months ago)
 - [Do zero a Home Server: como e por que montei meu NAS em ZFS](https://rifeli.dev/blog/2025-08-10-do-zero-a-home-server-como-e-por-que-montei-meu-nas-em-zfs/) (3 months ago)
 - [Por que decidi oferecer consultoria técnica?](https://rifeli.dev/blog/2025-08-02-por-que-decidi-oferecer-consultoria-tecnica/) (3 months ago)
