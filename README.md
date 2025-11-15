@@ -39,11 +39,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [trinhminhtriet](https://github.com/trinhminhtriet) - Triet Trinh
 
-- [zhusonglai](https://github.com/zhusonglai) - Zhu
-
 - [pethmm](https://github.com/pethmm) - Pety
 
 - [ankitaaryal](https://github.com/ankitaaryal) - Ankita Aryal
+
+- [LoxAtlis](https://github.com/LoxAtlis) - Lox
 
 
 #### ❤️ Recent Sponsors
