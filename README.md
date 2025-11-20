@@ -26,14 +26,16 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [diillson/aws-finops-dashboard-go](https://github.com/diillson/aws-finops-dashboard-go) - Um painel de custos e recursos da AWS baseado em terminal, desenvolvido com Go e arquitetura hexagonal. Ele fornece uma visão geral dos gastos da AWS por conta, detalhamentos por nível de serviço, acompanhamento de orçamento e resumos de instâncias do EC2. (2 days ago)
-- [Mau005/LaucherOpenTibia](https://github.com/Mau005/LaucherOpenTibia) -  (2 days ago)
-- [ublue-os/aurora](https://github.com/ublue-os/aurora) - The ultimate productivity workstation (3 weeks ago)
+- [diillson/aws-finops-dashboard-go](https://github.com/diillson/aws-finops-dashboard-go) - Um painel de custos e recursos da AWS baseado em terminal, desenvolvido com Go e arquitetura hexagonal. Ele fornece uma visão geral dos gastos da AWS por conta, detalhamentos por nível de serviço, acompanhamento de orçamento e resumos de instâncias do EC2. (3 days ago)
+- [Mau005/LaucherOpenTibia](https://github.com/Mau005/LaucherOpenTibia) -  (3 days ago)
+- [ublue-os/aurora](https://github.com/ublue-os/aurora) - The ultimate productivity workstation (4 weeks ago)
 - [zimbadev/gameclient](https://github.com/zimbadev/gameclient) -  (1 month ago)
 - [OTCv8/otcv8-dev](https://github.com/OTCv8/otcv8-dev) - OTCv8 Development repository (source code) (1 month ago)
 
 #### ❤️ Recent Followers
 
+
+- [giladfuchs](https://github.com/giladfuchs) - 
 
 - [nfterrax](https://github.com/nfterrax) - NFTerraX
 
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [ankitaaryal](https://github.com/ankitaaryal) - Ankita Aryal
 
 - [LoxAtlis](https://github.com/LoxAtlis) - Lox
-
-- [DevNinja08](https://github.com/DevNinja08) - Dev Ninja
 
 
 #### ❤️ Recent Sponsors
@@ -63,8 +63,8 @@ Many thanks everyone! 🙏
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
 
 #### 📄 Latest blog posts
-- [Por que o tooling nativo do Go aumenta sua produtividade, e como fazer profiling como um profissional](https://rifeli.dev/blog/tooling-nativo-go-produtividade-e-profiling-pprof/) (1 day ago)
-- [Lições aprendidas rodando uma plataforma cloud-native na AWS](https://rifeli.dev/blog/licoes-aprendidas-rodando-plataforma-cloudnative-na-aws/) (5 days ago)
+- [Por que o tooling nativo do Go aumenta sua produtividade, e como fazer profiling como um profissional](https://rifeli.dev/blog/tooling-nativo-go-produtividade-e-profiling-pprof/) (2 days ago)
+- [Lições aprendidas rodando uma plataforma cloud-native na AWS](https://rifeli.dev/blog/licoes-aprendidas-rodando-plataforma-cloudnative-na-aws/) (6 days ago)
 - [Como estruturamos nosso pipeline CI/CD para aplicações cloud-native no EKS](https://rifeli.dev/blog/como-fazemos-ci-cd-na-harmo/) (2 weeks ago)
 - [Como adicionar dicionários no ClickUp](https://rifeli.dev/blog/como-adicionar-dicionarios-no-clickup/) (3 weeks ago)
 - [Por que priorizar o fetch nativo? E como implementar timeout nas requisições](https://rifeli.dev/blog/2025-08-20-por-que-usar-o-fetch-no-nodejs/) (3 months ago)
