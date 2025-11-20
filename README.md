@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [raptr45](https://github.com/raptr45) - Abid Al Wassie
+
 - [giladfuchs](https://github.com/giladfuchs) - 
 
 - [nfterrax](https://github.com/nfterrax) - NFTerraX
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [trinhminhtriet](https://github.com/trinhminhtriet) - Triet Trinh
 
 - [ankitaaryal](https://github.com/ankitaaryal) - Ankita Aryal
-
-- [LoxAtlis](https://github.com/LoxAtlis) - Lox
 
 
 #### ❤️ Recent Sponsors
