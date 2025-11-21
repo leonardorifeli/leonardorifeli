@@ -35,7 +35,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
-- [raptr45](https://github.com/raptr45) - Abid Al Wassie
+- [S4IL21](https://github.com/S4IL21) - S4IL
 
 - [giladfuchs](https://github.com/giladfuchs) - 
 
