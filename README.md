@@ -26,24 +26,24 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
+- [seenquev/RonClient](https://github.com/seenquev/RonClient) - Alternative Tibia client (a competitor to Tibia Client and OtClient) (today)
 - [luan/slender-launcher](https://github.com/luan/slender-launcher) -  (3 days ago)
 - [diillson/aws-finops-dashboard-go](https://github.com/diillson/aws-finops-dashboard-go) - Um painel de custos e recursos da AWS baseado em terminal, desenvolvido com Go e arquitetura hexagonal. Ele fornece uma visão geral dos gastos da AWS por conta, detalhamentos por nível de serviço, acompanhamento de orçamento e resumos de instâncias do EC2. (1 week ago)
 - [Mau005/LaucherOpenTibia](https://github.com/Mau005/LaucherOpenTibia) -  (1 week ago)
 - [ublue-os/aurora](https://github.com/ublue-os/aurora) - The ultimate productivity workstation (1 month ago)
-- [zimbadev/gameclient](https://github.com/zimbadev/gameclient) -  (2 months ago)
 
 #### ❤️ Recent Followers
 
 
 - [S4IL21](https://github.com/S4IL21) - S4IL
 
-- [giladfuchs](https://github.com/giladfuchs) - 
-
 - [nfterrax](https://github.com/nfterrax) - NFTerraX
 
 - [trinhminhtriet](https://github.com/trinhminhtriet) - Triet Trinh
 
 - [ankitaaryal](https://github.com/ankitaaryal) - Ankita Aryal
+
+- [LoxAtlis](https://github.com/LoxAtlis) - Lox
 
 
 #### ❤️ Recent Sponsors
