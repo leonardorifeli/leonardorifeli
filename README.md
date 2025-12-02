@@ -26,10 +26,10 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [nixentric/Lowkey-Hugo-Theme](https://github.com/nixentric/Lowkey-Hugo-Theme) - A Simple &amp; Humble Hugo Themes (2 days ago)
-- [caio-moliveira/langgraph-agent](https://github.com/caio-moliveira/langgraph-agent) -  (4 days ago)
-- [CelestoAI/agentor](https://github.com/CelestoAI/agentor) - Fastest way to build, prototype and deploy AI Agents or ANY LLM Application with built-in security layer. (4 days ago)
-- [langchain-ai/agent-chat-ui](https://github.com/langchain-ai/agent-chat-ui) - 🦜💬 Web app for interacting with any LangGraph agent (PY &amp; TS) via a chat interface. (4 days ago)
+- [nixentric/Lowkey-Hugo-Theme](https://github.com/nixentric/Lowkey-Hugo-Theme) - A Simple &amp; Humble Hugo Themes (3 days ago)
+- [caio-moliveira/langgraph-agent](https://github.com/caio-moliveira/langgraph-agent) -  (5 days ago)
+- [CelestoAI/agentor](https://github.com/CelestoAI/agentor) - Fastest way to build, prototype and deploy AI Agents or ANY LLM Application with built-in security layer. (5 days ago)
+- [langchain-ai/agent-chat-ui](https://github.com/langchain-ai/agent-chat-ui) - 🦜💬 Web app for interacting with any LangGraph agent (PY &amp; TS) via a chat interface. (5 days ago)
 - [seenquev/RonClient](https://github.com/seenquev/RonClient) - Alternative Tibia client (a competitor to Tibia Client and OtClient) (1 week ago)
 
 #### ❤️ Recent Followers
@@ -63,7 +63,7 @@ Many thanks everyone! 🙏
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
 
 #### 📄 Latest blog posts
-- [Por que o tooling nativo do Go aumenta sua produtividade, e como fazer profiling como um profissional](https://rifeli.dev/blog/tooling-nativo-go-produtividade-e-profiling-pprof/) (1 week ago)
+- [Por que o tooling nativo do Go aumenta sua produtividade, e como fazer profiling como um profissional](https://rifeli.dev/blog/tooling-nativo-go-produtividade-e-profiling-pprof/) (2 weeks ago)
 - [Lições aprendidas rodando uma plataforma cloud-native na AWS](https://rifeli.dev/blog/licoes-aprendidas-rodando-plataforma-cloudnative-na-aws/) (2 weeks ago)
 - [Como estruturamos nosso pipeline CI/CD para aplicações cloud-native no EKS](https://rifeli.dev/blog/como-fazemos-ci-cd-na-harmo/) (1 month ago)
 - [Como adicionar dicionários no ClickUp](https://rifeli.dev/blog/como-adicionar-dicionarios-no-clickup/) (1 month ago)
