@@ -26,8 +26,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [mehah/otclient](https://github.com/mehah/otclient) - An alternative tibia client for otserv written in C&#43;&#43;20 and Lua, made with a modular system that uses lua scripts for ingame interface and functionality, making otclient flexible and easy to customize (2 days ago)
-- [nixentric/Lowkey-Hugo-Theme](https://github.com/nixentric/Lowkey-Hugo-Theme) - A Simple &amp; Humble Hugo Themes (5 days ago)
+- [mehah/otclient](https://github.com/mehah/otclient) - An alternative tibia client for otserv written in C&#43;&#43;20 and Lua, made with a modular system that uses lua scripts for ingame interface and functionality, making otclient flexible and easy to customize (3 days ago)
+- [nixentric/Lowkey-Hugo-Theme](https://github.com/nixentric/Lowkey-Hugo-Theme) - A Simple &amp; Humble Hugo Themes (6 days ago)
 - [caio-moliveira/langgraph-agent](https://github.com/caio-moliveira/langgraph-agent) -  (1 week ago)
 - [CelestoAI/agentor](https://github.com/CelestoAI/agentor) - Fastest way to build, prototype and deploy AI Agents or ANY LLM Application with built-in security layer. (1 week ago)
 - [langchain-ai/agent-chat-ui](https://github.com/langchain-ai/agent-chat-ui) - 🦜💬 Web app for interacting with any LangGraph agent (PY &amp; TS) via a chat interface. (1 week ago)
@@ -43,7 +43,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [ankitaaryal](https://github.com/ankitaaryal) - Ankita Aryal
 
-- [LoxAtlis](https://github.com/LoxAtlis) - Lox
+- [DevNinja08](https://github.com/DevNinja08) - Dev Ninja
 
 
 #### ❤️ Recent Sponsors
@@ -64,7 +64,7 @@ Many thanks everyone! 🙏
 
 #### 📄 Latest blog posts
 - [Por que o tooling nativo do Go aumenta sua produtividade, e como fazer profiling como um profissional](https://rifeli.dev/blog/tooling-nativo-go-produtividade-e-profiling-pprof/) (2 weeks ago)
-- [Lições aprendidas rodando uma plataforma cloud-native na AWS](https://rifeli.dev/blog/licoes-aprendidas-rodando-plataforma-cloudnative-na-aws/) (2 weeks ago)
+- [Lições aprendidas rodando uma plataforma cloud-native na AWS](https://rifeli.dev/blog/licoes-aprendidas-rodando-plataforma-cloudnative-na-aws/) (3 weeks ago)
 - [Como estruturamos nosso pipeline CI/CD para aplicações cloud-native no EKS](https://rifeli.dev/blog/como-fazemos-ci-cd-na-harmo/) (1 month ago)
 - [Como adicionar dicionários no ClickUp](https://rifeli.dev/blog/como-adicionar-dicionarios-no-clickup/) (1 month ago)
 - [Por que priorizar o fetch nativo? E como implementar timeout nas requisições](https://rifeli.dev/blog/2025-08-20-por-que-usar-o-fetch-no-nodejs/) (3 months ago)
