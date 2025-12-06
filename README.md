@@ -26,8 +26,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [mehah/otclient](https://github.com/mehah/otclient) - An alternative tibia client for otserv written in C&#43;&#43;20 and Lua, made with a modular system that uses lua scripts for ingame interface and functionality, making otclient flexible and easy to customize (3 days ago)
-- [nixentric/Lowkey-Hugo-Theme](https://github.com/nixentric/Lowkey-Hugo-Theme) - A Simple &amp; Humble Hugo Themes (6 days ago)
+- [mehah/otclient](https://github.com/mehah/otclient) - An alternative tibia client for otserv written in C&#43;&#43;20 and Lua, made with a modular system that uses lua scripts for ingame interface and functionality, making otclient flexible and easy to customize (4 days ago)
+- [nixentric/Lowkey-Hugo-Theme](https://github.com/nixentric/Lowkey-Hugo-Theme) - A Simple &amp; Humble Hugo Themes (1 week ago)
 - [caio-moliveira/langgraph-agent](https://github.com/caio-moliveira/langgraph-agent) -  (1 week ago)
 - [CelestoAI/agentor](https://github.com/CelestoAI/agentor) - Fastest way to build, prototype and deploy AI Agents or ANY LLM Application with built-in security layer. (1 week ago)
 - [langchain-ai/agent-chat-ui](https://github.com/langchain-ai/agent-chat-ui) - 🦜💬 Web app for interacting with any LangGraph agent (PY &amp; TS) via a chat interface. (1 week ago)
