@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [EflexSolution](https://github.com/EflexSolution) - Efle
+
 - [S4IL21](https://github.com/S4IL21) - S4IL
 
 - [nfterrax](https://github.com/nfterrax) - NFTerraX
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [trinhminhtriet](https://github.com/trinhminhtriet) - Triet Trinh
 
 - [ankitaaryal](https://github.com/ankitaaryal) - Ankita Aryal
-
-- [DevNinja08](https://github.com/DevNinja08) - Dev Ninja
 
 
 #### ❤️ Recent Sponsors
@@ -64,7 +64,7 @@ Many thanks everyone! 🙏
 
 #### 📄 Latest blog posts
 - [Por que o tooling nativo do Go aumenta sua produtividade, e como fazer profiling como um profissional](https://rifeli.dev/blog/tooling-nativo-go-produtividade-e-profiling-pprof/) (3 weeks ago)
-- [Lições aprendidas rodando uma plataforma cloud-native na AWS](https://rifeli.dev/blog/licoes-aprendidas-rodando-plataforma-cloudnative-na-aws/) (3 weeks ago)
+- [Lições aprendidas rodando uma plataforma cloud-native na AWS](https://rifeli.dev/blog/licoes-aprendidas-rodando-plataforma-cloudnative-na-aws/) (4 weeks ago)
 - [Como estruturamos nosso pipeline CI/CD para aplicações cloud-native no EKS](https://rifeli.dev/blog/como-fazemos-ci-cd-na-harmo/) (1 month ago)
 - [Como adicionar dicionários no ClickUp](https://rifeli.dev/blog/como-adicionar-dicionarios-no-clickup/) (1 month ago)
 - [Por que priorizar o fetch nativo? E como implementar timeout nas requisições](https://rifeli.dev/blog/2025-08-20-por-que-usar-o-fetch-no-nodejs/) (3 months ago)
