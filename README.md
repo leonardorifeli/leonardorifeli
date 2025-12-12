@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [aprilrr](https://github.com/aprilrr) - April
+
 - [EflexSolution](https://github.com/EflexSolution) - Efle
 
 - [S4IL21](https://github.com/S4IL21) - S4IL
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [nfterrax](https://github.com/nfterrax) - NFTerraX
 
 - [trinhminhtriet](https://github.com/trinhminhtriet) - Triet Trinh
-
-- [ankitaaryal](https://github.com/ankitaaryal) - Ankita Aryal
 
 
 #### ❤️ Recent Sponsors
