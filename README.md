@@ -27,13 +27,15 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 
 - [mehah/otclient](https://github.com/mehah/otclient) - An alternative tibia client for otserv written in C&#43;&#43;20 and Lua, made with a modular system that uses lua scripts for ingame interface and functionality, making otclient flexible and easy to customize (1 week ago)
-- [nixentric/Lowkey-Hugo-Theme](https://github.com/nixentric/Lowkey-Hugo-Theme) - A Simple &amp; Humble Hugo Themes (1 week ago)
+- [nixentric/Lowkey-Hugo-Theme](https://github.com/nixentric/Lowkey-Hugo-Theme) - A Simple &amp; Humble Hugo Themes (2 weeks ago)
 - [caio-moliveira/langgraph-agent](https://github.com/caio-moliveira/langgraph-agent) -  (2 weeks ago)
 - [CelestoAI/agentor](https://github.com/CelestoAI/agentor) - Fastest way to build, prototype and deploy AI Agents or ANY LLM Application with built-in security layer. (2 weeks ago)
 - [langchain-ai/agent-chat-ui](https://github.com/langchain-ai/agent-chat-ui) - 🦜💬 Web app for interacting with any LangGraph agent (PY &amp; TS) via a chat interface. (2 weeks ago)
 
 #### ❤️ Recent Followers
 
+
+- [HoussemDhiaEddine19](https://github.com/HoussemDhiaEddine19) - Edine
 
 - [aprilrr](https://github.com/aprilrr) - April
 
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [S4IL21](https://github.com/S4IL21) - S4IL
 
 - [nfterrax](https://github.com/nfterrax) - NFTerraX
-
-- [trinhminhtriet](https://github.com/trinhminhtriet) - Triet Trinh
 
 
 #### ❤️ Recent Sponsors
