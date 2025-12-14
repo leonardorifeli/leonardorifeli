@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [Ajca200](https://github.com/Ajca200) - Aca
+
 - [giladfuchs](https://github.com/giladfuchs) - 
 
 - [lorde-enigma](https://github.com/lorde-enigma) - Lorde enigmA
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [HoussemDhiaEddine19](https://github.com/HoussemDhiaEddine19) - Edine
 
 - [aprilrr](https://github.com/aprilrr) - April
-
-- [EflexSolution](https://github.com/EflexSolution) - Efle
 
 
 #### ❤️ Recent Sponsors
