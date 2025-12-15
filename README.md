@@ -35,15 +35,15 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [astabrutie8](https://github.com/astabrutie8) - Brutie
+
+- [muskitma](https://github.com/muskitma) - Muski
+
 - [Ajca200](https://github.com/Ajca200) - Aca
 
 - [giladfuchs](https://github.com/giladfuchs) - 
 
 - [lorde-enigma](https://github.com/lorde-enigma) - Lorde enigmA
-
-- [HoussemDhiaEddine19](https://github.com/HoussemDhiaEddine19) - Edine
-
-- [aprilrr](https://github.com/aprilrr) - April
 
 
 #### ❤️ Recent Sponsors
