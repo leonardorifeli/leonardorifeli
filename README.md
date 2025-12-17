@@ -41,9 +41,9 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [muskitma](https://github.com/muskitma) - Muski
 
-- [Ajca200](https://github.com/Ajca200) - Aca
-
 - [giladfuchs](https://github.com/giladfuchs) - 
+
+- [lorde-enigma](https://github.com/lorde-enigma) - Lorde enigmA
 
 
 #### ❤️ Recent Sponsors
