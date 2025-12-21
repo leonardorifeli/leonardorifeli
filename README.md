@@ -37,13 +37,13 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [mikechiloane](https://github.com/mikechiloane) - Mike Nhlanhla Chiloane
 
-- [astabrutie8](https://github.com/astabrutie8) - Brutie
-
-- [muskitma](https://github.com/muskitma) - Muski
-
 - [giladfuchs](https://github.com/giladfuchs) - 
 
 - [lorde-enigma](https://github.com/lorde-enigma) - Lorde enigmA
+
+- [S4IL21](https://github.com/S4IL21) - S4IL
+
+- [nfterrax](https://github.com/nfterrax) - NFTerraX
 
 
 #### ❤️ Recent Sponsors
