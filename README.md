@@ -26,14 +26,16 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [Tahrim19/chatbot](https://github.com/Tahrim19/chatbot) - A simple chatbot using Google Gemini API. (6 days ago)
-- [ajay-dhangar/gemini-ai-chatbot](https://github.com/ajay-dhangar/gemini-ai-chatbot) - Gemini AI Chabot  (6 days ago)
-- [mehah/otclient](https://github.com/mehah/otclient) - An alternative tibia client for otserv written in C&#43;&#43;20 and Lua, made with a modular system that uses lua scripts for ingame interface and functionality, making otclient flexible and easy to customize (2 weeks ago)
+- [Tahrim19/chatbot](https://github.com/Tahrim19/chatbot) - A simple chatbot using Google Gemini API. (1 week ago)
+- [ajay-dhangar/gemini-ai-chatbot](https://github.com/ajay-dhangar/gemini-ai-chatbot) - Gemini AI Chabot  (1 week ago)
+- [mehah/otclient](https://github.com/mehah/otclient) - An alternative tibia client for otserv written in C&#43;&#43;20 and Lua, made with a modular system that uses lua scripts for ingame interface and functionality, making otclient flexible and easy to customize (3 weeks ago)
 - [nixentric/Lowkey-Hugo-Theme](https://github.com/nixentric/Lowkey-Hugo-Theme) - A Simple &amp; Humble Hugo Themes (3 weeks ago)
 - [caio-moliveira/langgraph-agent](https://github.com/caio-moliveira/langgraph-agent) -  (3 weeks ago)
 
 #### ❤️ Recent Followers
 
+
+- [masonliiu](https://github.com/masonliiu) - Mason Liu
 
 - [mikechiloane](https://github.com/mikechiloane) - Mike Nhlanhla Chiloane
 
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [lorde-enigma](https://github.com/lorde-enigma) - Lorde enigmA
 
 - [S4IL21](https://github.com/S4IL21) - S4IL
-
-- [nfterrax](https://github.com/nfterrax) - NFTerraX
 
 
 #### ❤️ Recent Sponsors
