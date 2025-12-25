@@ -30,7 +30,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [ajay-dhangar/gemini-ai-chatbot](https://github.com/ajay-dhangar/gemini-ai-chatbot) - Gemini AI Chabot  (1 week ago)
 - [mehah/otclient](https://github.com/mehah/otclient) - An alternative tibia client for otserv written in C&#43;&#43;20 and Lua, made with a modular system that uses lua scripts for ingame interface and functionality, making otclient flexible and easy to customize (3 weeks ago)
 - [nixentric/Lowkey-Hugo-Theme](https://github.com/nixentric/Lowkey-Hugo-Theme) - A Simple &amp; Humble Hugo Themes (3 weeks ago)
-- [caio-moliveira/langgraph-agent](https://github.com/caio-moliveira/langgraph-agent) -  (3 weeks ago)
+- [caio-moliveira/langgraph-agent](https://github.com/caio-moliveira/langgraph-agent) -  (4 weeks ago)
 
 #### ❤️ Recent Followers
 
