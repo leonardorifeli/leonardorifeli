@@ -35,15 +35,15 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [helallao](https://github.com/helallao) - Ali Yaşar
+
+- [seckinyasar](https://github.com/seckinyasar) - Seckin Yasar
+
 - [masonliiu](https://github.com/masonliiu) - Mason Liu
 
 - [mikechiloane](https://github.com/mikechiloane) - Mike Nhlanhla Chiloane
 
 - [giladfuchs](https://github.com/giladfuchs) - 
-
-- [lorde-enigma](https://github.com/lorde-enigma) - Lorde enigmA
-
-- [S4IL21](https://github.com/S4IL21) - S4IL
 
 
 #### ❤️ Recent Sponsors
