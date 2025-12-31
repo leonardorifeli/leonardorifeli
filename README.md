@@ -41,9 +41,9 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [seckinyasar](https://github.com/seckinyasar) - Seckin Yasar
 
-- [masonliiu](https://github.com/masonliiu) - Mason Liu
-
 - [mikechiloane](https://github.com/mikechiloane) - Mike Nhlanhla Chiloane
+
+- [lorde-enigma](https://github.com/lorde-enigma) - Lorde enigmA
 
 
 #### ❤️ Recent Sponsors
