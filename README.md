@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [abuhuraira-73](https://github.com/abuhuraira-73) - Abu Huraira
+
 - [MR-MUNYI](https://github.com/MR-MUNYI) - Trick Munyi
 
 - [helallao](https://github.com/helallao) - Ali Yaşar
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [seckinyasar](https://github.com/seckinyasar) - Seckin Yasar
 
 - [mikechiloane](https://github.com/mikechiloane) - Mike Nhlanhla Chiloane
-
-- [lorde-enigma](https://github.com/lorde-enigma) - Lorde enigmA
 
 
 #### ❤️ Recent Sponsors
