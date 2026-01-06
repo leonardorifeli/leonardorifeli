@@ -26,8 +26,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [Tahrim19/chatbot](https://github.com/Tahrim19/chatbot) - A simple chatbot using Google Gemini API. (2 weeks ago)
-- [ajay-dhangar/gemini-ai-chatbot](https://github.com/ajay-dhangar/gemini-ai-chatbot) - Gemini AI Chabot  (2 weeks ago)
+- [Tahrim19/chatbot](https://github.com/Tahrim19/chatbot) - A simple chatbot using Google Gemini API. (3 weeks ago)
+- [ajay-dhangar/gemini-ai-chatbot](https://github.com/ajay-dhangar/gemini-ai-chatbot) - Gemini AI Chabot  (3 weeks ago)
 - [mehah/otclient](https://github.com/mehah/otclient) - An alternative tibia client for otserv written in C&#43;&#43;20 and Lua, made with a modular system that uses lua scripts for ingame interface and functionality, making otclient flexible and easy to customize (1 month ago)
 - [nixentric/Lowkey-Hugo-Theme](https://github.com/nixentric/Lowkey-Hugo-Theme) - A Simple &amp; Humble Hugo Themes (1 month ago)
 - [caio-moliveira/langgraph-agent](https://github.com/caio-moliveira/langgraph-agent) -  (1 month ago)
@@ -71,7 +71,7 @@ Many thanks everyone! 🙏
 - [Do zero a Home Server: como e por que montei meu NAS em ZFS](https://rifeli.dev/blog/2025-08-10-do-zero-a-home-server-como-e-por-que-montei-meu-nas-em-zfs/) (4 months ago)
 - [Por que decidi oferecer consultoria técnica?](https://rifeli.dev/blog/2025-08-02-por-que-decidi-oferecer-consultoria-tecnica/) (5 months ago)
 - [Entrevista com Elton Minetto em Mais Que Senior](https://rifeli.dev/blog/2025-08-01-entrevista-mais-que-senior-com-elton-minetto/) (5 months ago)
-- [Como gerimos nossos clusters Kubernetes na prática](https://rifeli.dev/blog/2025-07-10-como-gerimos-nossos-cluters-kubernets-na-pratica/) (5 months ago)
+- [Como gerimos nossos clusters Kubernetes na prática](https://rifeli.dev/blog/2025-07-10-como-gerimos-nossos-cluters-kubernets-na-pratica/) (6 months ago)
 - [Agendando cronjobs nativos no RDS Aurora PostgreSQL com pg_cron](https://rifeli.dev/blog/2025-07-01-agendando-cronjobs-nativos-no-rds-aurora-postgresql-com-pgcron/) (6 months ago)
 
 I created this readme based on [Becker's](https://github.com/caarlos0) readme.
