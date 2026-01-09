@@ -39,11 +39,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [SamuraiJack96](https://github.com/SamuraiJack96) - Jack
 
-- [abuhuraira-73](https://github.com/abuhuraira-73) - Abu Huraira
-
 - [MR-MUNYI](https://github.com/MR-MUNYI) - Trick Munyi
 
 - [helallao](https://github.com/helallao) - Ali Yaşar
+
+- [seckinyasar](https://github.com/seckinyasar) - Seckin Yasar
 
 
 #### ❤️ Recent Sponsors
