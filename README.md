@@ -43,7 +43,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [ephmo](https://github.com/ephmo) - 
 
-- [SamuraiJack96](https://github.com/SamuraiJack96) - Jack
+- [MR-MUNYI](https://github.com/MR-MUNYI) - Trick Munyi
 
 
 #### ❤️ Recent Sponsors
