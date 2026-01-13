@@ -28,7 +28,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [Tahrim19/chatbot](https://github.com/Tahrim19/chatbot) - A simple chatbot using Google Gemini API. (4 weeks ago)
 - [ajay-dhangar/gemini-ai-chatbot](https://github.com/ajay-dhangar/gemini-ai-chatbot) - Gemini AI Chabot  (4 weeks ago)
-- [mehah/otclient](https://github.com/mehah/otclient) - An alternative tibia client for otserv written in C&#43;&#43;20 and Lua, made with a modular system that uses lua scripts for ingame interface and functionality, making otclient flexible and easy to customize (1 month ago)
+- [opentibiabr/otclient](https://github.com/opentibiabr/otclient) - An alternative tibia client for otserv written in C&#43;&#43;20 and Lua, made with a modular system that uses lua scripts for ingame interface and functionality, making otclient flexible and easy to customize (1 month ago)
 - [nixentric/Lowkey-Hugo-Theme](https://github.com/nixentric/Lowkey-Hugo-Theme) - A Simple &amp; Humble Hugo Themes (1 month ago)
 - [caio-moliveira/langgraph-agent](https://github.com/caio-moliveira/langgraph-agent) -  (1 month ago)
 
