@@ -43,7 +43,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [zynapsee](https://github.com/zynapsee) - Zyna
 
-- [Marwannabil92](https://github.com/Marwannabil92) - Marwa
+- [ephmo](https://github.com/ephmo) - 
 
 
 #### ❤️ Recent Sponsors
