@@ -35,15 +35,15 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [Jhoel777ar](https://github.com/Jhoel777ar) - Joel Andres
+
+- [Carrington-dev](https://github.com/Carrington-dev) - Carrington Muleya
+
 - [thomaaf69](https://github.com/thomaaf69) - Thoma
 
 - [zynapsee](https://github.com/zynapsee) - Zyna
 
 - [Marwannabil92](https://github.com/Marwannabil92) - Marwa
-
-- [ephmo](https://github.com/ephmo) - 
-
-- [MR-MUNYI](https://github.com/MR-MUNYI) - Trick Munyi
 
 
 #### ❤️ Recent Sponsors
