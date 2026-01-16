@@ -37,13 +37,13 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [tetref](https://github.com/tetref) - Teta
 
-- [eatsky1006](https://github.com/eatsky1006) - eatsky1006
-
 - [abressiddique](https://github.com/abressiddique) - abressiddique
 
 - [diorwave](https://github.com/diorwave) - Dior
 
 - [OOLin](https://github.com/OOLin) - Olin
+
+- [Jhoel777ar](https://github.com/Jhoel777ar) - Joel Andres
 
 
 #### ❤️ Recent Sponsors
