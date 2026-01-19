@@ -41,9 +41,9 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [Light00Side](https://github.com/Light00Side) - NULLIGHT
 
-- [xryutaro](https://github.com/xryutaro) - Ryu Taro
-
 - [abressiddique](https://github.com/abressiddique) - abressiddique
+
+- [diorwave](https://github.com/diorwave) - Dior
 
 
 #### ❤️ Recent Sponsors
