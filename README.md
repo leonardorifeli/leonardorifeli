@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [ragibalasad](https://github.com/ragibalasad) - Ragib Al Asad
+
 - [Light00Side](https://github.com/Light00Side) - NULLIGHT
 
 - [xryutaro](https://github.com/xryutaro) - Ryu Taro
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [abressiddique](https://github.com/abressiddique) - abressiddique
 
 - [diorwave](https://github.com/diorwave) - Dior
-
-- [Jhoel777ar](https://github.com/Jhoel777ar) - Joel Andres
 
 
 #### ❤️ Recent Sponsors
