@@ -35,15 +35,15 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [Ronaldo45rt](https://github.com/Ronaldo45rt) - Do
+
+- [iagomourarabelo](https://github.com/iagomourarabelo) - Moura
+
+- [hasan4224](https://github.com/hasan4224) - Hasan
+
 - [eagleeye410](https://github.com/eagleeye410) - Lyne
 
 - [draifodil](https://github.com/draifodil) - Drai
-
-- [Lilbodo12](https://github.com/Lilbodo12) - lil
-
-- [lezer0208](https://github.com/lezer0208) - Lezer
-
-- [ragibalasad](https://github.com/ragibalasad) - Ragib Al Asad
 
 
 #### ❤️ Recent Sponsors
