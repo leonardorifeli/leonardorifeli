@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [eGBang](https://github.com/eGBang) - Biya
+
 - [ZainJavaid](https://github.com/ZainJavaid) - Zein
 
 - [Ronaldo45rt](https://github.com/Ronaldo45rt) - Do
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [iagomourarabelo](https://github.com/iagomourarabelo) - Moura
 
 - [hasan4224](https://github.com/hasan4224) - Hasan
-
-- [eagleeye410](https://github.com/eagleeye410) - Lyne
 
 
 #### ❤️ Recent Sponsors
