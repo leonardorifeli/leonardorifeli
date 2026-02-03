@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [czerid](https://github.com/czerid) - Cze
+
 - [abressiddique](https://github.com/abressiddique) - abressiddique
 
 - [Jhoel777ar](https://github.com/Jhoel777ar) - Joel Andres
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [Carrington-dev](https://github.com/Carrington-dev) - Carrington
 
 - [ephmo](https://github.com/ephmo) - 
-
-- [MR-MUNYI](https://github.com/MR-MUNYI) - Trick Munyi
 
 
 #### ❤️ Recent Sponsors
