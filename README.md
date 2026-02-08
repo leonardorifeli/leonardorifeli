@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [helallao](https://github.com/helallao) - Ali Yaşar
+
 - [seckinyasar](https://github.com/seckinyasar) - Seckin Yasar
 
 - [xedeline](https://github.com/xedeline) - Xede
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [wenteris](https://github.com/wenteris) - Wen
 
 - [szenled](https://github.com/szenled) - Szen
-
-- [rynesix](https://github.com/rynesix) - Ryne
 
 
 #### ❤️ Recent Sponsors
