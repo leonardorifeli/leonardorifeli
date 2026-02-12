@@ -39,11 +39,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [syaharip005](https://github.com/syaharip005) - Achmad Syarifudin
 
-- [susiasa](https://github.com/susiasa) - Sushi
-
-- [Hstkj23](https://github.com/Hstkj23) - Hase
-
 - [gagaguguk](https://github.com/gagaguguk) - Gaga
+
+- [abressiddique](https://github.com/abressiddique) - abressiddique
+
+- [Jhoel777ar](https://github.com/Jhoel777ar) - Joel Andres
 
 
 #### ❤️ Recent Sponsors
