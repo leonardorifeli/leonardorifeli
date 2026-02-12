@@ -35,15 +35,15 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
-- [xedeline](https://github.com/xedeline) - Xede
+- [Seif-01](https://github.com/Seif-01) - Seif Walker
 
-- [wenteris](https://github.com/wenteris) - Wen
+- [syaharip005](https://github.com/syaharip005) - Achmad Syarifudin
 
-- [szenled](https://github.com/szenled) - Szen
+- [susiasa](https://github.com/susiasa) - Sushi
 
-- [rynesix](https://github.com/rynesix) - Ryne
+- [Hstkj23](https://github.com/Hstkj23) - Hase
 
-- [cleinvert](https://github.com/cleinvert) - Clein
+- [gagaguguk](https://github.com/gagaguguk) - Gaga
 
 
 #### ❤️ Recent Sponsors
