@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [logiica](https://github.com/logiica) - Logika
+
 - [erogluyusuf](https://github.com/erogluyusuf) - yusuf eroğlu
 
 - [buddy1276](https://github.com/buddy1276) - Buddy bailey
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [Seif-01](https://github.com/Seif-01) - Seif Walker
 
 - [syaharip005](https://github.com/syaharip005) - Achmad Syarifudin
-
-- [abressiddique](https://github.com/abressiddique) - abressiddique
 
 
 #### ❤️ Recent Sponsors
