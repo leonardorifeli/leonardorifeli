@@ -43,7 +43,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [Seif-01](https://github.com/Seif-01) - Seif Walker
 
-- [syaharip005](https://github.com/syaharip005) - Achmad Syarifudin
+- [syaharip005](https://github.com/syaharip005) - Syah
 
 
 #### ❤️ Recent Sponsors
