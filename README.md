@@ -35,15 +35,15 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
-- [nykoco](https://github.com/nykoco) - 
+- [weirdlone](https://github.com/weirdlone) - Weird
 
-- [arjtriv](https://github.com/arjtriv) - Arjun Trivedi
+- [panyster](https://github.com/panyster) - Pany
 
-- [tldrwtf](https://github.com/tldrwtf) - W. Garcia / n3u
+- [pabwinner](https://github.com/pabwinner) - Pab
 
-- [logiica](https://github.com/logiica) - Logika
+- [loreius](https://github.com/loreius) - Lore
 
-- [erogluyusuf](https://github.com/erogluyusuf) - yusuf eroğlu
+- [nerywine](https://github.com/nerywine) - Nery
 
 
 #### ❤️ Recent Sponsors
