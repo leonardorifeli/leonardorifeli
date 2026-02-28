@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [nykoco](https://github.com/nykoco) - 
+
 - [arjtriv](https://github.com/arjtriv) - Arjun Trivedi
 
 - [tldrwtf](https://github.com/tldrwtf) - W. Garcia / n3u
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [logiica](https://github.com/logiica) - Logika
 
 - [erogluyusuf](https://github.com/erogluyusuf) - yusuf eroğlu
-
-- [buddy1276](https://github.com/buddy1276) - Buddy bailey
 
 
 #### ❤️ Recent Sponsors
