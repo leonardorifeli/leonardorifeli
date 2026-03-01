@@ -37,13 +37,13 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [jaydev787748](https://github.com/jaydev787748) - Jay Dev
 
-- [weirdlone](https://github.com/weirdlone) - Weird
-
 - [panyster](https://github.com/panyster) - Pany
 
 - [pabwinner](https://github.com/pabwinner) - Pab
 
 - [loreius](https://github.com/loreius) - Lore
+
+- [nerywine](https://github.com/nerywine) - Nery
 
 
 #### ❤️ Recent Sponsors
