@@ -63,6 +63,7 @@ Many thanks everyone! 🙏
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
 
 #### 📄 Latest blog posts
+- [Como começamos com Python para IA e dados na Harmo — do básico ao prático](https://rifeli.dev/blog/python-ia-dados-harmo-basico-ao-pratico/) (1 day ago)
 - [Object Calisthenics em Go: disciplina de design em uma linguagem pragmática](https://rifeli.dev/blog/object-calisthenics-golang-design/) (1 day ago)
 - [Go é Orientada a Objetos? A resposta pragmática para uma dúvida comum](https://rifeli.dev/blog/go-e-orientada-a-objetos-paradigmas/) (1 week ago)
 - [Por que o tooling nativo do Go aumenta sua produtividade, e como fazer profiling como um profissional](https://rifeli.dev/blog/tooling-nativo-go-produtividade-e-profiling-pprof/) (3 months ago)
@@ -72,6 +73,5 @@ Many thanks everyone! 🙏
 - [Por que priorizar o fetch nativo? E como implementar timeout nas requisições](https://rifeli.dev/blog/2025-08-20-por-que-usar-o-fetch-no-nodejs/) (6 months ago)
 - [Do zero a Home Server: como e por que montei meu NAS em ZFS](https://rifeli.dev/blog/2025-08-10-do-zero-a-home-server-como-e-por-que-montei-meu-nas-em-zfs/) (6 months ago)
 - [Por que decidi oferecer consultoria técnica?](https://rifeli.dev/blog/2025-08-02-por-que-decidi-oferecer-consultoria-tecnica/) (7 months ago)
-- [Entrevista com Elton Minetto em Mais Que Senior](https://rifeli.dev/blog/2025-08-01-entrevista-mais-que-senior-com-elton-minetto/) (7 months ago)
 
 I created this readme based on [Becker's](https://github.com/caarlos0) readme.
