@@ -35,15 +35,15 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [zorktys](https://github.com/zorktys) - Zork
+
+- [lukestoik](https://github.com/lukestoik) - Luke
+
 - [lokitore](https://github.com/lokitore) - Loki
 
 - [xaviersins](https://github.com/xaviersins) - Xavier
 
 - [jaydev787748](https://github.com/jaydev787748) - Jay Dev
-
-- [panyster](https://github.com/panyster) - Pany
-
-- [pabwinner](https://github.com/pabwinner) - Pab
 
 
 #### ❤️ Recent Sponsors
