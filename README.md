@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [lxRbckl](https://github.com/lxRbckl) - alex
+
 - [CaioSGoncalves](https://github.com/CaioSGoncalves) - Caio Silva Gonçalves
 
 - [zorktys](https://github.com/zorktys) - Zork
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [lukestoik](https://github.com/lukestoik) - Luke
 
 - [lokitore](https://github.com/lokitore) - Loki
-
-- [xaviersins](https://github.com/xaviersins) - Xavier
 
 
 #### ❤️ Recent Sponsors
