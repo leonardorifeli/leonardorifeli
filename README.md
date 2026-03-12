@@ -26,7 +26,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows (1 week ago)
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows (1 week ago)
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect (1 week ago)
 - [brick-so/thalamus-serve](https://github.com/brick-so/thalamus-serve) - AI serving Framework (1 week ago)
 - [Tahrim19/chatbot](https://github.com/Tahrim19/chatbot) - A simple chatbot using Google Gemini API. (2 months ago)
