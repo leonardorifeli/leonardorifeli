@@ -27,15 +27,13 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows (2 weeks ago)
-- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect (2 weeks ago)
-- [brick-so/thalamus-serve](https://github.com/brick-so/thalamus-serve) - AI serving Framework (2 weeks ago)
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect (3 weeks ago)
+- [brick-so/thalamus-serve](https://github.com/brick-so/thalamus-serve) - AI serving Framework (3 weeks ago)
 - [Tahrim19/chatbot](https://github.com/Tahrim19/chatbot) - A simple chatbot using Google Gemini API. (3 months ago)
 - [ajay-dhangar/gemini-ai-chatbot](https://github.com/ajay-dhangar/gemini-ai-chatbot) - Gemini AI Chabot  (3 months ago)
 
 #### ❤️ Recent Followers
 
-
-- [procerezo](https://github.com/procerezo) - procerezo
 
 - [lxRbckl](https://github.com/lxRbckl) - alex
 
@@ -44,6 +42,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [jayDevCodes](https://github.com/jayDevCodes) - Jay Dev
 
 - [nykoco](https://github.com/nykoco) - 
+
+- [erogluyusuf](https://github.com/erogluyusuf) - yusuf eroğlu
 
 
 #### ❤️ Recent Sponsors
