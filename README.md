@@ -26,8 +26,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. (today)
-- [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks. (today)
+- [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. (1 day ago)
+- [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks. (1 day ago)
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows (2 weeks ago)
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect (3 weeks ago)
 - [brick-so/thalamus-serve](https://github.com/brick-so/thalamus-serve) - AI serving Framework (3 weeks ago)
@@ -62,8 +62,8 @@ Many thanks everyone! 🙏
 - [leonardorifeli/lmde-omakube-install](https://github.com/leonardorifeli/lmde-omakube-install)
 
 #### 📄 Latest blog posts
-- [Como começamos com Python para IA e dados na Harmo — do básico ao prático](https://rifeli.dev/blog/python-ia-dados-harmo-basico-ao-pratico/) (2 weeks ago)
-- [Object Calisthenics em Go: disciplina de design em uma linguagem pragmática](https://rifeli.dev/blog/object-calisthenics-golang-design/) (2 weeks ago)
+- [Como começamos com Python para IA e dados na Harmo — do básico ao prático](https://rifeli.dev/blog/python-ia-dados-harmo-basico-ao-pratico/) (3 weeks ago)
+- [Object Calisthenics em Go: disciplina de design em uma linguagem pragmática](https://rifeli.dev/blog/object-calisthenics-golang-design/) (3 weeks ago)
 - [Go é Orientada a Objetos? A resposta pragmática para uma dúvida comum](https://rifeli.dev/blog/go-e-orientada-a-objetos-paradigmas/) (1 month ago)
 - [Por que o tooling nativo do Go aumenta sua produtividade, e como fazer profiling como um profissional](https://rifeli.dev/blog/tooling-nativo-go-produtividade-e-profiling-pprof/) (4 months ago)
 - [Lições aprendidas rodando uma plataforma cloud-native na AWS](https://rifeli.dev/blog/licoes-aprendidas-rodando-plataforma-cloudnative-na-aws/) (4 months ago)
