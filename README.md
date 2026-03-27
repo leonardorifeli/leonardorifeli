@@ -26,11 +26,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. (3 days ago)
-- [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks. (3 days ago)
+- [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. (4 days ago)
+- [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks. (4 days ago)
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows (3 weeks ago)
-- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect (3 weeks ago)
-- [brick-so/thalamus-serve](https://github.com/brick-so/thalamus-serve) - AI serving Framework (3 weeks ago)
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect (4 weeks ago)
+- [brick-so/thalamus-serve](https://github.com/brick-so/thalamus-serve) - AI serving Framework (4 weeks ago)
 
 #### ❤️ Recent Followers
 
@@ -68,7 +68,7 @@ Many thanks everyone! 🙏
 - [Por que o tooling nativo do Go aumenta sua produtividade, e como fazer profiling como um profissional](https://rifeli.dev/blog/tooling-nativo-go-produtividade-e-profiling-pprof/) (4 months ago)
 - [Lições aprendidas rodando uma plataforma cloud-native na AWS](https://rifeli.dev/blog/licoes-aprendidas-rodando-plataforma-cloudnative-na-aws/) (4 months ago)
 - [Como estruturamos nosso pipeline CI/CD para aplicações cloud-native no EKS](https://rifeli.dev/blog/como-fazemos-ci-cd-na-harmo/) (4 months ago)
-- [Como adicionar dicionários no ClickUp](https://rifeli.dev/blog/como-adicionar-dicionarios-no-clickup/) (4 months ago)
+- [Como adicionar dicionários no ClickUp](https://rifeli.dev/blog/como-adicionar-dicionarios-no-clickup/) (5 months ago)
 - [Por que priorizar o fetch nativo? E como implementar timeout nas requisições](https://rifeli.dev/blog/2025-08-20-por-que-usar-o-fetch-no-nodejs/) (7 months ago)
 - [Do zero a Home Server: como e por que montei meu NAS em ZFS](https://rifeli.dev/blog/2025-08-10-do-zero-a-home-server-como-e-por-que-montei-meu-nas-em-zfs/) (7 months ago)
 - [Por que decidi oferecer consultoria técnica?](https://rifeli.dev/blog/2025-08-02-por-que-decidi-oferecer-consultoria-tecnica/) (7 months ago)
