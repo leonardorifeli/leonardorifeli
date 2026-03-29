@@ -26,11 +26,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [eduardo-sl/go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - Curated AI agent skills for Go projects. (today)
-- [gretaisright/otclient-erindor-launcher](https://github.com/gretaisright/otclient-erindor-launcher) -  (1 day ago)
-- [ivanhardjr/Editor-OTUI-Redemption](https://github.com/ivanhardjr/Editor-OTUI-Redemption) -  (1 day ago)
-- [gretaisright/Editor-OTUI-Redemption](https://github.com/gretaisright/Editor-OTUI-Redemption) -  (1 day ago)
-- [gretaisright/erindor-client](https://github.com/gretaisright/erindor-client) -  (1 day ago)
+- [eduardo-sl/go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - Curated AI agent skills for Go projects. (1 day ago)
+- [gretaisright/otclient-erindor-launcher](https://github.com/gretaisright/otclient-erindor-launcher) -  (2 days ago)
+- [ivanhardjr/Editor-OTUI-Redemption](https://github.com/ivanhardjr/Editor-OTUI-Redemption) -  (2 days ago)
+- [gretaisright/Editor-OTUI-Redemption](https://github.com/gretaisright/Editor-OTUI-Redemption) -  (2 days ago)
+- [gretaisright/erindor-client](https://github.com/gretaisright/erindor-client) -  (2 days ago)
 
 #### ❤️ Recent Followers
 
