@@ -26,11 +26,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [eduardo-sl/go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - Curated AI agent skills for Go projects. (1 day ago)
-- [gretaisright/otclient-erindor-launcher](https://github.com/gretaisright/otclient-erindor-launcher) -  (2 days ago)
-- [ivanhardjr/Editor-OTUI-Redemption](https://github.com/ivanhardjr/Editor-OTUI-Redemption) -  (2 days ago)
-- [gretaisright/Editor-OTUI-Redemption](https://github.com/gretaisright/Editor-OTUI-Redemption) -  (2 days ago)
-- [gretaisright/erindor-client](https://github.com/gretaisright/erindor-client) -  (2 days ago)
+- [eduardo-sl/go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - Curated AI agent skills for Go projects. (2 days ago)
+- [gretaisright/otclient-erindor-launcher](https://github.com/gretaisright/otclient-erindor-launcher) -  (3 days ago)
+- [ivanhardjr/Editor-OTUI-Redemption](https://github.com/ivanhardjr/Editor-OTUI-Redemption) -  (3 days ago)
+- [gretaisright/Editor-OTUI-Redemption](https://github.com/gretaisright/Editor-OTUI-Redemption) -  (3 days ago)
+- [gretaisright/erindor-client](https://github.com/gretaisright/erindor-client) -  (3 days ago)
 
 #### ❤️ Recent Followers
 
@@ -71,6 +71,6 @@ Many thanks everyone! 🙏
 - [Como adicionar dicionários no ClickUp](https://rifeli.dev/blog/como-adicionar-dicionarios-no-clickup/) (5 months ago)
 - [Por que priorizar o fetch nativo? E como implementar timeout nas requisições](https://rifeli.dev/blog/2025-08-20-por-que-usar-o-fetch-no-nodejs/) (7 months ago)
 - [Do zero a Home Server: como e por que montei meu NAS em ZFS](https://rifeli.dev/blog/2025-08-10-do-zero-a-home-server-como-e-por-que-montei-meu-nas-em-zfs/) (7 months ago)
-- [Por que decidi oferecer consultoria técnica?](https://rifeli.dev/blog/2025-08-02-por-que-decidi-oferecer-consultoria-tecnica/) (7 months ago)
+- [Por que decidi oferecer consultoria técnica?](https://rifeli.dev/blog/2025-08-02-por-que-decidi-oferecer-consultoria-tecnica/) (8 months ago)
 
 I created this readme based on [Becker's](https://github.com/caarlos0) readme.
