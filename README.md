@@ -26,11 +26,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [eduardo-sl/go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - Curated AI agent skills for Go projects. (2 days ago)
-- [gretaisright/otclient-erindor-launcher](https://github.com/gretaisright/otclient-erindor-launcher) -  (3 days ago)
-- [ivanhardjr/Editor-OTUI-Redemption](https://github.com/ivanhardjr/Editor-OTUI-Redemption) -  (3 days ago)
-- [gretaisright/Editor-OTUI-Redemption](https://github.com/gretaisright/Editor-OTUI-Redemption) -  (3 days ago)
-- [gretaisright/erindor-client](https://github.com/gretaisright/erindor-client) -  (3 days ago)
+- [eduardo-sl/go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - Curated AI agent skills for Go projects. (3 days ago)
+- [gretaisright/otclient-erindor-launcher](https://github.com/gretaisright/otclient-erindor-launcher) -  (4 days ago)
+- [ivanhardjr/Editor-OTUI-Redemption](https://github.com/ivanhardjr/Editor-OTUI-Redemption) -  (4 days ago)
+- [gretaisright/Editor-OTUI-Redemption](https://github.com/gretaisright/Editor-OTUI-Redemption) -  (4 days ago)
+- [gretaisright/erindor-client](https://github.com/gretaisright/erindor-client) -  (4 days ago)
 
 #### ❤️ Recent Followers
 
@@ -62,12 +62,12 @@ Many thanks everyone! 🙏
 - [leonardorifeli/lmde-omakube-install](https://github.com/leonardorifeli/lmde-omakube-install)
 
 #### 📄 Latest blog posts
-- [Como começamos com Python para IA e dados na Harmo — do básico ao prático](https://rifeli.dev/blog/python-ia-dados-harmo-basico-ao-pratico/) (3 weeks ago)
-- [Object Calisthenics em Go: disciplina de design em uma linguagem pragmática](https://rifeli.dev/blog/object-calisthenics-golang-design/) (3 weeks ago)
+- [Como começamos com Python para IA e dados na Harmo — do básico ao prático](https://rifeli.dev/blog/python-ia-dados-harmo-basico-ao-pratico/) (4 weeks ago)
+- [Object Calisthenics em Go: disciplina de design em uma linguagem pragmática](https://rifeli.dev/blog/object-calisthenics-golang-design/) (4 weeks ago)
 - [Go é Orientada a Objetos? A resposta pragmática para uma dúvida comum](https://rifeli.dev/blog/go-e-orientada-a-objetos-paradigmas/) (1 month ago)
 - [Por que o tooling nativo do Go aumenta sua produtividade, e como fazer profiling como um profissional](https://rifeli.dev/blog/tooling-nativo-go-produtividade-e-profiling-pprof/) (4 months ago)
 - [Lições aprendidas rodando uma plataforma cloud-native na AWS](https://rifeli.dev/blog/licoes-aprendidas-rodando-plataforma-cloudnative-na-aws/) (4 months ago)
-- [Como estruturamos nosso pipeline CI/CD para aplicações cloud-native no EKS](https://rifeli.dev/blog/como-fazemos-ci-cd-na-harmo/) (4 months ago)
+- [Como estruturamos nosso pipeline CI/CD para aplicações cloud-native no EKS](https://rifeli.dev/blog/como-fazemos-ci-cd-na-harmo/) (5 months ago)
 - [Como adicionar dicionários no ClickUp](https://rifeli.dev/blog/como-adicionar-dicionarios-no-clickup/) (5 months ago)
 - [Por que priorizar o fetch nativo? E como implementar timeout nas requisições](https://rifeli.dev/blog/2025-08-20-por-que-usar-o-fetch-no-nodejs/) (7 months ago)
 - [Do zero a Home Server: como e por que montei meu NAS em ZFS](https://rifeli.dev/blog/2025-08-10-do-zero-a-home-server-como-e-por-que-montei-meu-nas-em-zfs/) (7 months ago)
