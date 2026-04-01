@@ -26,11 +26,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [instructkr/claw-code](https://github.com/instructkr/claw-code) - Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things done. Now rewriting in Rust. (today)
-- [eduardo-sl/go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - Curated AI agent skills for Go projects. (3 days ago)
-- [gretaisright/otclient-erindor-launcher](https://github.com/gretaisright/otclient-erindor-launcher) -  (4 days ago)
-- [ivanhardjr/Editor-OTUI-Redemption](https://github.com/ivanhardjr/Editor-OTUI-Redemption) -  (4 days ago)
-- [gretaisright/Editor-OTUI-Redemption](https://github.com/gretaisright/Editor-OTUI-Redemption) -  (4 days ago)
+- [instructkr/claw-code](https://github.com/instructkr/claw-code) - The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after publication. Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things done. Now rewriting in Rust. (1 day ago)
+- [eduardo-sl/go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - Curated AI agent skills for Go projects. (4 days ago)
+- [gretaisright/otclient-erindor-launcher](https://github.com/gretaisright/otclient-erindor-launcher) -  (5 days ago)
+- [ivanhardjr/Editor-OTUI-Redemption](https://github.com/ivanhardjr/Editor-OTUI-Redemption) -  (5 days ago)
+- [gretaisright/Editor-OTUI-Redemption](https://github.com/gretaisright/Editor-OTUI-Redemption) -  (5 days ago)
 
 #### ❤️ Recent Followers
 
