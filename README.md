@@ -26,7 +26,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. (4 days ago)
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. (5 days ago)
 - [eduardo-sl/go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - Curated AI agent skills for Go projects. (1 week ago)
 - [gretaisright/otclient-erindor-launcher](https://github.com/gretaisright/otclient-erindor-launcher) -  (1 week ago)
 - [ivanhardjr/Editor-OTUI-Redemption](https://github.com/ivanhardjr/Editor-OTUI-Redemption) -  (1 week ago)
