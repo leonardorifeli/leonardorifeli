@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [CelaDaniel](https://github.com/CelaDaniel) - Daniel Cela
+
 - [bezerracdd](https://github.com/bezerracdd) - Diego Bezerra
 
 - [CaioSGoncalves](https://github.com/CaioSGoncalves) - Caio Silva Gonçalves
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [jayDevCodes](https://github.com/jayDevCodes) - Jay Dev
 
 - [nykoco](https://github.com/nykoco) - 
-
-- [erogluyusuf](https://github.com/erogluyusuf) - yusuf eroğlu
 
 
 #### ❤️ Recent Sponsors
