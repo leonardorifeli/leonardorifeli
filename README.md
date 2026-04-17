@@ -41,9 +41,9 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [CaioSGoncalves](https://github.com/CaioSGoncalves) - Caio Silva Gonçalves
 
-- [jayDevCodes](https://github.com/jayDevCodes) - Jay Dev
-
 - [nykoco](https://github.com/nykoco) - 
+
+- [erogluyusuf](https://github.com/erogluyusuf) - yusuf eroğlu
 
 
 #### ❤️ Recent Sponsors
