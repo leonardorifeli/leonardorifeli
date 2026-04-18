@@ -29,7 +29,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it&#39;s free. (1 week ago)
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. (1 week ago)
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. (2 weeks ago)
-- [eduardo-sl/go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - Curated AI agent skills for Go projects. (2 weeks ago)
+- [eduardo-sl/go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - Curated AI agent skills for Go projects. (3 weeks ago)
 - [gretaisright/otclient-erindor-launcher](https://github.com/gretaisright/otclient-erindor-launcher) -  (3 weeks ago)
 
 #### ❤️ Recent Followers
