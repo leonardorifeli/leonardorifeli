@@ -57,8 +57,6 @@ Many thanks everyone! 🙏
 - [Muximba/.github](https://github.com/Muximba/.github)
 - [leonardorifeli/consultoria.rifeli.dev](https://github.com/leonardorifeli/consultoria.rifeli.dev)
 - [leonardorifeli/xmrig-dashboard-app](https://github.com/leonardorifeli/xmrig-dashboard-app)
-- [leonardorifeli/local-llm-server](https://github.com/leonardorifeli/local-llm-server)
-- [remy/mit-license](https://github.com/remy/mit-license)
 
 #### 📄 Latest blog posts
 - [Como começamos com Python para IA e dados na Harmo — do básico ao prático](https://rifeli.dev/blog/python-ia-dados-harmo-basico-ao-pratico/) (1 month ago)
