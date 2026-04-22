@@ -27,7 +27,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it&#39;s free. (1 week ago)
-- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. (1 week ago)
+- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. (2 weeks ago)
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. (3 weeks ago)
 - [eduardo-sl/go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - Curated AI agent skills for Go projects. (3 weeks ago)
 - [gretaisright/otclient-erindor-launcher](https://github.com/gretaisright/otclient-erindor-launcher) -  (3 weeks ago)
@@ -61,7 +61,7 @@ Many thanks everyone! 🙏
 #### 📄 Latest blog posts
 - [Como começamos com Python para IA e dados na Harmo — do básico ao prático](https://rifeli.dev/blog/python-ia-dados-harmo-basico-ao-pratico/) (1 month ago)
 - [Object Calisthenics em Go: disciplina de design em uma linguagem pragmática](https://rifeli.dev/blog/object-calisthenics-golang-design/) (1 month ago)
-- [Go é Orientada a Objetos? A resposta pragmática para uma dúvida comum](https://rifeli.dev/blog/go-e-orientada-a-objetos-paradigmas/) (1 month ago)
+- [Go é Orientada a Objetos? A resposta pragmática para uma dúvida comum](https://rifeli.dev/blog/go-e-orientada-a-objetos-paradigmas/) (2 months ago)
 - [Por que o tooling nativo do Go aumenta sua produtividade, e como fazer profiling como um profissional](https://rifeli.dev/blog/tooling-nativo-go-produtividade-e-profiling-pprof/) (5 months ago)
 - [Lições aprendidas rodando uma plataforma cloud-native na AWS](https://rifeli.dev/blog/licoes-aprendidas-rodando-plataforma-cloudnative-na-aws/) (5 months ago)
 - [Como estruturamos nosso pipeline CI/CD para aplicações cloud-native no EKS](https://rifeli.dev/blog/como-fazemos-ci-cd-na-harmo/) (5 months ago)
