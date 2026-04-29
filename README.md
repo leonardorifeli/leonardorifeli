@@ -37,13 +37,13 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [bezerracdd](https://github.com/bezerracdd) - Diego Bezerra
 
-- [CaioSGoncalves](https://github.com/CaioSGoncalves) - Caio Silva Gonçalves
-
 - [nykoco](https://github.com/nykoco) - 
 
 - [erogluyusuf](https://github.com/erogluyusuf) - yusuf eroğlu
 
 - [buddy1276](https://github.com/buddy1276) - Buddy bailey
+
+- [Seif-01](https://github.com/Seif-01) - Seif Walker
 
 
 #### ❤️ Recent Sponsors
