@@ -26,14 +26,16 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [ajdavidl/Portuguese-NLP](https://github.com/ajdavidl/Portuguese-NLP) - List of resources and tools developed with focus on Portuguese. (today)
-- [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP) (today)
+- [ajdavidl/Portuguese-NLP](https://github.com/ajdavidl/Portuguese-NLP) - List of resources and tools developed with focus on Portuguese. (1 day ago)
+- [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP) (1 day ago)
 - [momhq/mom](https://github.com/momhq/mom) - MOM is a persistent memory for AI agents — she remembers, so you don&#39;t have to_ (1 week ago)
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it&#39;s free. (3 weeks ago)
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. (3 weeks ago)
 
 #### ❤️ Recent Followers
 
+
+- [victorsabino](https://github.com/victorsabino) - Victor Sabino
 
 - [REIJISAKAMAKI](https://github.com/REIJISAKAMAKI) - Kyle
 
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [nykoco](https://github.com/nykoco) - 
 
 - [erogluyusuf](https://github.com/erogluyusuf) - yusuf eroğlu
-
-- [buddy1276](https://github.com/buddy1276) - Buddy bailey
 
 
 #### ❤️ Recent Sponsors
@@ -60,8 +60,8 @@ Many thanks everyone! 🙏
 
 #### 📄 Latest blog posts
 - [Sincronizando Claude Code entre máquinas: o que a Anthropic ainda não faz por você](https://rifeli.dev/blog/sincronizando-claude-code-entre-maquinas/) (1 week ago)
-- [Como começamos com Python para IA e dados na Harmo — do básico ao prático](https://rifeli.dev/blog/python-ia-dados-harmo-basico-ao-pratico/) (1 month ago)
-- [Object Calisthenics em Go: disciplina de design em uma linguagem pragmática](https://rifeli.dev/blog/object-calisthenics-golang-design/) (1 month ago)
+- [Como começamos com Python para IA e dados na Harmo — do básico ao prático](https://rifeli.dev/blog/python-ia-dados-harmo-basico-ao-pratico/) (2 months ago)
+- [Object Calisthenics em Go: disciplina de design em uma linguagem pragmática](https://rifeli.dev/blog/object-calisthenics-golang-design/) (2 months ago)
 - [Go é Orientada a Objetos? A resposta pragmática para uma dúvida comum](https://rifeli.dev/blog/go-e-orientada-a-objetos-paradigmas/) (2 months ago)
 - [Por que o tooling nativo do Go aumenta sua produtividade, e como fazer profiling como um profissional](https://rifeli.dev/blog/tooling-nativo-go-produtividade-e-profiling-pprof/) (5 months ago)
 - [Lições aprendidas rodando uma plataforma cloud-native na AWS](https://rifeli.dev/blog/licoes-aprendidas-rodando-plataforma-cloudnative-na-aws/) (5 months ago)
