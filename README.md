@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [VanessaAndradeDev](https://github.com/VanessaAndradeDev) - Vanessa Andrade
+
 - [victorsabino](https://github.com/victorsabino) - Victor Sabino
 
 - [REIJISAKAMAKI](https://github.com/REIJISAKAMAKI) - Kyle
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [bezerracdd](https://github.com/bezerracdd) - Diego Bezerra
 
 - [nykoco](https://github.com/nykoco) - 
-
-- [erogluyusuf](https://github.com/erogluyusuf) - yusuf eroğlu
 
 
 #### ❤️ Recent Sponsors
