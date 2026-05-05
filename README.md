@@ -26,8 +26,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [ajdavidl/Portuguese-NLP](https://github.com/ajdavidl/Portuguese-NLP) - List of resources and tools developed with focus on Portuguese. (3 days ago)
-- [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP) (3 days ago)
+- [ajdavidl/Portuguese-NLP](https://github.com/ajdavidl/Portuguese-NLP) - List of resources and tools developed with focus on Portuguese. (4 days ago)
+- [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP) (4 days ago)
 - [momhq/mom](https://github.com/momhq/mom) - MOM is a persistent memory for AI agents — she remembers, so you don&#39;t have to_ (1 week ago)
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it&#39;s free. (3 weeks ago)
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. (3 weeks ago)
