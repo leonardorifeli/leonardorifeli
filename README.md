@@ -26,10 +26,10 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [ajdavidl/Portuguese-NLP](https://github.com/ajdavidl/Portuguese-NLP) - List of resources and tools developed with focus on Portuguese. (5 days ago)
-- [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP) (5 days ago)
-- [momhq/mom](https://github.com/momhq/mom) - MOM is a persistent memory for AI agents — she remembers, so you don&#39;t have to_ (1 week ago)
-- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it&#39;s free. (3 weeks ago)
+- [ajdavidl/Portuguese-NLP](https://github.com/ajdavidl/Portuguese-NLP) - List of resources and tools developed with focus on Portuguese. (6 days ago)
+- [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP) (6 days ago)
+- [momhq/mom](https://github.com/momhq/mom) - MOM is a persistent memory for AI agents — she remembers, so you don&#39;t have to_ (2 weeks ago)
+- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it&#39;s free. (4 weeks ago)
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. (4 weeks ago)
 
 #### ❤️ Recent Followers
@@ -68,6 +68,6 @@ Many thanks everyone! 🙏
 - [Como estruturamos nosso pipeline CI/CD para aplicações cloud-native no EKS](https://rifeli.dev/blog/como-fazemos-ci-cd-na-harmo/) (6 months ago)
 - [Como adicionar dicionários no ClickUp](https://rifeli.dev/blog/como-adicionar-dicionarios-no-clickup/) (6 months ago)
 - [Por que priorizar o fetch nativo? E como implementar timeout nas requisições](https://rifeli.dev/blog/2025-08-20-por-que-usar-o-fetch-no-nodejs/) (8 months ago)
-- [Do zero a Home Server: como e por que montei meu NAS em ZFS](https://rifeli.dev/blog/2025-08-10-do-zero-a-home-server-como-e-por-que-montei-meu-nas-em-zfs/) (8 months ago)
+- [Do zero a Home Server: como e por que montei meu NAS em ZFS](https://rifeli.dev/blog/2025-08-10-do-zero-a-home-server-como-e-por-que-montei-meu-nas-em-zfs/) (9 months ago)
 
 I created this readme based on [Becker's](https://github.com/caarlos0) readme.
