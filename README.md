@@ -27,7 +27,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 
 - [ajdavidl/Portuguese-NLP](https://github.com/ajdavidl/Portuguese-NLP) - List of resources and tools developed with focus on Portuguese. (1 week ago)
-- [momhq/mom](https://github.com/momhq/mom) - MOM is a persistent memory for AI agents — she remembers, so you don&#39;t have to_ (2 weeks ago)
+- [momhq/mom](https://github.com/momhq/mom) - MOM is a persistent memory for AI agents — she remembers, so you don&#39;t have to_ (3 weeks ago)
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it&#39;s free. (1 month ago)
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. (1 month ago)
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. (1 month ago)
