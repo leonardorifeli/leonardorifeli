@@ -59,6 +59,7 @@ Many thanks everyone! 🙏
 - [leonardorifeli/xmrig-dashboard-app](https://github.com/leonardorifeli/xmrig-dashboard-app)
 
 #### 📄 Latest blog posts
+- [Crise de performance no Aurora PostgreSQL: o que aprendi apagando incêndio ao vivo](https://rifeli.dev/blog/2026-05-24-crise-performance-aurora-postgresql/) (today)
 - [Sincronizando Claude Code entre máquinas: o que a Anthropic ainda não faz por você](https://rifeli.dev/blog/sincronizando-claude-code-entre-maquinas/) (1 month ago)
 - [Como começamos com Python para IA e dados na Harmo — do básico ao prático](https://rifeli.dev/blog/python-ia-dados-harmo-basico-ao-pratico/) (2 months ago)
 - [Object Calisthenics em Go: disciplina de design em uma linguagem pragmática](https://rifeli.dev/blog/object-calisthenics-golang-design/) (2 months ago)
@@ -68,6 +69,5 @@ Many thanks everyone! 🙏
 - [Como estruturamos nosso pipeline CI/CD para aplicações cloud-native no EKS](https://rifeli.dev/blog/como-fazemos-ci-cd-na-harmo/) (6 months ago)
 - [Como adicionar dicionários no ClickUp](https://rifeli.dev/blog/como-adicionar-dicionarios-no-clickup/) (6 months ago)
 - [Por que priorizar o fetch nativo? E como implementar timeout nas requisições](https://rifeli.dev/blog/2025-08-20-por-que-usar-o-fetch-no-nodejs/) (9 months ago)
-- [Do zero a Home Server: como e por que montei meu NAS em ZFS](https://rifeli.dev/blog/2025-08-10-do-zero-a-home-server-como-e-por-que-montei-meu-nas-em-zfs/) (9 months ago)
 
 I created this readme based on [Becker's](https://github.com/caarlos0) readme.
