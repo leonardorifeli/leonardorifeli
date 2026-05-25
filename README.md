@@ -56,10 +56,9 @@ Many thanks everyone! 🙏
 
 - [Muximba/.github](https://github.com/Muximba/.github)
 - [leonardorifeli/consultoria.rifeli.dev](https://github.com/leonardorifeli/consultoria.rifeli.dev)
-- [leonardorifeli/xmrig-dashboard-app](https://github.com/leonardorifeli/xmrig-dashboard-app)
 
 #### 📄 Latest blog posts
-- [Crise de performance no Aurora PostgreSQL: o que aprendi apagando incêndio ao vivo](https://rifeli.dev/blog/2026-05-24-crise-performance-aurora-postgresql/) (today)
+- [Crise de performance no Aurora PostgreSQL: o que aprendi apagando incêndio ao vivo](https://rifeli.dev/blog/2026-05-24-crise-performance-aurora-postgresql/) (1 day ago)
 - [Sincronizando Claude Code entre máquinas: o que a Anthropic ainda não faz por você](https://rifeli.dev/blog/sincronizando-claude-code-entre-maquinas/) (1 month ago)
 - [Como começamos com Python para IA e dados na Harmo — do básico ao prático](https://rifeli.dev/blog/python-ia-dados-harmo-basico-ao-pratico/) (2 months ago)
 - [Object Calisthenics em Go: disciplina de design em uma linguagem pragmática](https://rifeli.dev/blog/object-calisthenics-golang-design/) (2 months ago)
