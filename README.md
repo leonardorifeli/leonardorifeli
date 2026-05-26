@@ -54,6 +54,7 @@ Many thanks everyone! 🙏
 
 #### ⛏️ What I've been working on
 
+- [HarmoDeveloper/harmo-i18n](https://github.com/HarmoDeveloper/harmo-i18n)
 - [Muximba/.github](https://github.com/Muximba/.github)
 - [leonardorifeli/consultoria.rifeli.dev](https://github.com/leonardorifeli/consultoria.rifeli.dev)
 
