@@ -26,11 +26,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
+- [markgerald/aws-cdk-static-site-starter](https://github.com/markgerald/aws-cdk-static-site-starter) - Reusable AWS CDK starter for a static website with private S3, CloudFront OAC, ACM, Cloudflare DNS, and GitHub Actions deploys. (today)
 - [leonardorifeli/clawtop](https://github.com/leonardorifeli/clawtop) - Multi-host TUI dashboard for Anthropic Claude subscription usage. Daemon &#43; viewer split keeps OAuth credentials on your workstation while a tmux dashboard on any host renders the merged view. (2 days ago)
 - [HermannBjorgvin/Clawdmeter](https://github.com/HermannBjorgvin/Clawdmeter) - ESP32 desk dashboard that shows Claude Code usage (2 days ago)
 - [ajdavidl/Portuguese-NLP](https://github.com/ajdavidl/Portuguese-NLP) - List of resources and tools developed with focus on Portuguese. (3 weeks ago)
 - [momhq/mom](https://github.com/momhq/mom) - MOM is a persistent memory for AI agents — she remembers, so you don&#39;t have to_ (1 month ago)
-- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it&#39;s free. (1 month ago)
 
 #### ❤️ Recent Followers
 
@@ -60,6 +60,7 @@ Many thanks everyone! 🙏
 - [leonardorifeli/consultoria.rifeli.dev](https://github.com/leonardorifeli/consultoria.rifeli.dev)
 
 #### 📄 Latest blog posts
+- [IRSA vs Pod Identity no EKS: diferenças, armadilhas e um bug silencioso que me custou duas horas](https://rifeli.dev/blog/2026-05-28-irsa-vs-pod-identity-eks/) (today)
 - [Concorrência e worker pools em Go: o mínimo que você precisa ter na ponta da língua](https://rifeli.dev/blog/2026-05-27-concorrencia-worker-pools-go/) (1 day ago)
 - [Batch inserts e ON CONFLICT no PostgreSQL: saindo do single-row em consumers de alta frequência](https://rifeli.dev/blog/2026-05-25-batch-inserts-on-conflict-postgresql/) (3 days ago)
 - [Crise de performance no Aurora PostgreSQL: o que aprendi apagando incêndio ao vivo](https://rifeli.dev/blog/2026-05-24-crise-performance-aurora-postgresql/) (4 days ago)
@@ -69,6 +70,5 @@ Many thanks everyone! 🙏
 - [Go é Orientada a Objetos? A resposta pragmática para uma dúvida comum](https://rifeli.dev/blog/go-e-orientada-a-objetos-paradigmas/) (3 months ago)
 - [Por que o tooling nativo do Go aumenta sua produtividade, e como fazer profiling como um profissional](https://rifeli.dev/blog/tooling-nativo-go-produtividade-e-profiling-pprof/) (6 months ago)
 - [Lições aprendidas rodando uma plataforma cloud-native na AWS](https://rifeli.dev/blog/licoes-aprendidas-rodando-plataforma-cloudnative-na-aws/) (6 months ago)
-- [Como estruturamos nosso pipeline CI/CD para aplicações cloud-native no EKS](https://rifeli.dev/blog/como-fazemos-ci-cd-na-harmo/) (6 months ago)
 
 I created this readme based on [Becker's](https://github.com/caarlos0) readme.
