@@ -26,11 +26,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
+- [The-500MB-Club/the_500mb_club_challenge](https://github.com/The-500MB-Club/the_500mb_club_challenge) - Open benchmark for backend languages under hard edge-hardware constraints: 2 CPUs, 500MB RAM, at least three replicas, one round-robin LB, one Pi. (today)
 - [markgerald/aws-cdk-static-site-starter](https://github.com/markgerald/aws-cdk-static-site-starter) - Reusable AWS CDK starter for a static website with private S3, CloudFront OAC, ACM, Cloudflare DNS, and GitHub Actions deploys. (1 day ago)
 - [leonardorifeli/clawtop](https://github.com/leonardorifeli/clawtop) - Multi-host TUI dashboard for Anthropic Claude subscription usage. Daemon &#43; viewer split keeps OAuth credentials on your workstation while a tmux dashboard on any host renders the merged view. (3 days ago)
 - [HermannBjorgvin/Clawdmeter](https://github.com/HermannBjorgvin/Clawdmeter) - ESP32 desk dashboard that shows Claude Code usage (3 days ago)
 - [ajdavidl/Portuguese-NLP](https://github.com/ajdavidl/Portuguese-NLP) - List of resources and tools developed with focus on Portuguese. (4 weeks ago)
-- [momhq/mom](https://github.com/momhq/mom) - MOM is a persistent memory for AI agents — she remembers, so you don&#39;t have to_ (1 month ago)
 
 #### ❤️ Recent Followers
 
