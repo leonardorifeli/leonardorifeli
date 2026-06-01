@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [aza-ali](https://github.com/aza-ali) - Aza
+
 - [alanalvestech](https://github.com/alanalvestech) - Alan Alves
 
 - [alexgarzao](https://github.com/alexgarzao) - Alex Sandro Garzão
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [pwnedroot](https://github.com/pwnedroot) - pwnedroot
 
 - [rahuloraj](https://github.com/rahuloraj) - Rahul Raj 🇮🇳 
-
-- [VanessaAndradeDev](https://github.com/VanessaAndradeDev) - Vanessa Andrade
 
 
 #### ❤️ Recent Sponsors
@@ -60,6 +60,7 @@ Many thanks everyone! 🙏
 - [Muximba/.github](https://github.com/Muximba/.github)
 
 #### 📄 Latest blog posts
+- [clawtop: meu primeiro projeto open source, e por que ele não é só mais um dashboard pro Claude Code](https://rifeli.dev/blog/2026-06-01-clawtop-meu-primeiro-open-source/) (today)
 - [4x mais entrega no mesmo mês: 30 dias dentro do Claude Code](https://rifeli.dev/blog/2026-05-29-30-dias-claude-code-usd-8k-plano-fixo/) (3 days ago)
 - [IRSA vs Pod Identity no EKS: diferenças, armadilhas e um bug silencioso que me custou duas horas](https://rifeli.dev/blog/2026-05-28-irsa-vs-pod-identity-eks/) (4 days ago)
 - [Concorrência e worker pools em Go: o mínimo que você precisa ter na ponta da língua](https://rifeli.dev/blog/2026-05-27-concorrencia-worker-pools-go/) (5 days ago)
@@ -69,6 +70,5 @@ Many thanks everyone! 🙏
 - [Como começamos com Python para IA e dados na Harmo — do básico ao prático](https://rifeli.dev/blog/python-ia-dados-harmo-basico-ao-pratico/) (3 months ago)
 - [Object Calisthenics em Go: disciplina de design em uma linguagem pragmática](https://rifeli.dev/blog/object-calisthenics-golang-design/) (3 months ago)
 - [Go é Orientada a Objetos? A resposta pragmática para uma dúvida comum](https://rifeli.dev/blog/go-e-orientada-a-objetos-paradigmas/) (3 months ago)
-- [Por que o tooling nativo do Go aumenta sua produtividade, e como fazer profiling como um profissional](https://rifeli.dev/blog/tooling-nativo-go-produtividade-e-profiling-pprof/) (6 months ago)
 
 I created this readme based on [Becker's](https://github.com/caarlos0) readme.
