@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [soladdev](https://github.com/soladdev) - Solad Dev
+
 - [aza-ali](https://github.com/aza-ali) - Aza
 
 - [alanalvestech](https://github.com/alanalvestech) - Alan Alves
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [alexgarzao](https://github.com/alexgarzao) - Alex Sandro Garzão
 
 - [pwnedroot](https://github.com/pwnedroot) - pwnedroot
-
-- [rahuloraj](https://github.com/rahuloraj) - Rahul Raj 🇮🇳 
 
 
 #### ❤️ Recent Sponsors
