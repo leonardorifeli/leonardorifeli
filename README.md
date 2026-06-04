@@ -37,13 +37,13 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [soladdev](https://github.com/soladdev) - Solad Dev
 
-- [aza-ali](https://github.com/aza-ali) - Aza
-
 - [alanalvestech](https://github.com/alanalvestech) - Alan Alves
 
 - [alexgarzao](https://github.com/alexgarzao) - Alex Sandro Garzão
 
 - [pwnedroot](https://github.com/pwnedroot) - pwnedroot
+
+- [rahuloraj](https://github.com/rahuloraj) - Rahul Raj 🇮🇳 
 
 
 #### ❤️ Recent Sponsors
