@@ -26,7 +26,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [debpalash/OmniVoice-Studio](https://github.com/debpalash/OmniVoice-Studio) - The open-source ElevenLabs alternative for local voice cloning, design, create, dubbing and dictation Desktop App (5 days ago)
+- [debpalash/OmniVoice-Studio](https://github.com/debpalash/OmniVoice-Studio) - The open-source ElevenLabs alternative for local voice cloning, design, create, dubbing and dictation Desktop App (6 days ago)
 - [The-500MB-Club/the_500mb_club_challenge](https://github.com/The-500MB-Club/the_500mb_club_challenge) - Open benchmark for backend languages under hard edge-hardware constraints: 2 CPUs, 500MB RAM, at least three replicas, one round-robin LB, one Pi. (1 week ago)
 - [markgerald/aws-cdk-static-site-starter](https://github.com/markgerald/aws-cdk-static-site-starter) - Reusable AWS CDK starter for a static website with private S3, CloudFront OAC, ACM, Cloudflare DNS, and GitHub Actions deploys. (1 week ago)
 - [leonardorifeli/clawtop](https://github.com/leonardorifeli/clawtop) - Multi-host TUI dashboard for Anthropic Claude subscription usage. Daemon &#43; viewer split keeps OAuth credentials on your workstation while a tmux dashboard on any host renders the merged view. (1 week ago)
@@ -60,14 +60,14 @@ Many thanks everyone! 🙏
 - [Muximba/.github](https://github.com/Muximba/.github)
 
 #### 📄 Latest blog posts
-- [O loop improdutivo que multiplicou nossa conta AWS por quase 6x em quatro madrugadas](https://rifeli.dev/blog/2026-06-05-loop-improdutivo-step-functions-6x-aws/) (1 day ago)
-- [Relatório diário de custo AWS com CronJob no EKS: encurtando a demora entre a anomalia e alguém perceber](https://rifeli.dev/blog/2026-06-03-relatorios-custo-aws-cronjob-eks/) (3 days ago)
-- [clawtop: meu primeiro projeto open source, e por que ele não é só mais um dashboard pro Claude Code](https://rifeli.dev/blog/2026-06-01-clawtop-meu-primeiro-open-source/) (5 days ago)
+- [O loop improdutivo que multiplicou nossa conta AWS por quase 6x em quatro madrugadas](https://rifeli.dev/blog/2026-06-05-loop-improdutivo-step-functions-6x-aws/) (2 days ago)
+- [Relatório diário de custo AWS com CronJob no EKS: encurtando a demora entre a anomalia e alguém perceber](https://rifeli.dev/blog/2026-06-03-relatorios-custo-aws-cronjob-eks/) (4 days ago)
+- [clawtop: meu primeiro projeto open source, e por que ele não é só mais um dashboard pro Claude Code](https://rifeli.dev/blog/2026-06-01-clawtop-meu-primeiro-open-source/) (6 days ago)
 - [4x mais entrega no mesmo mês: 30 dias dentro do Claude Code](https://rifeli.dev/blog/2026-05-29-30-dias-claude-code-usd-8k-plano-fixo/) (1 week ago)
 - [IRSA vs Pod Identity no EKS: diferenças, armadilhas e um bug silencioso que me custou duas horas](https://rifeli.dev/blog/2026-05-28-irsa-vs-pod-identity-eks/) (1 week ago)
 - [Concorrência e worker pools em Go: o mínimo que você precisa ter na ponta da língua](https://rifeli.dev/blog/2026-05-27-concorrencia-worker-pools-go/) (1 week ago)
 - [Batch inserts e ON CONFLICT no PostgreSQL: saindo do single-row em consumers de alta frequência](https://rifeli.dev/blog/2026-05-25-batch-inserts-on-conflict-postgresql/) (1 week ago)
-- [Crise de performance no Aurora PostgreSQL: o que aprendi apagando incêndio ao vivo](https://rifeli.dev/blog/2026-05-24-crise-performance-aurora-postgresql/) (1 week ago)
+- [Crise de performance no Aurora PostgreSQL: o que aprendi apagando incêndio ao vivo](https://rifeli.dev/blog/2026-05-24-crise-performance-aurora-postgresql/) (2 weeks ago)
 - [Sincronizando Claude Code entre máquinas: o que a Anthropic ainda não faz por você](https://rifeli.dev/blog/sincronizando-claude-code-entre-maquinas/) (1 month ago)
 - [Como começamos com Python para IA e dados na Harmo — do básico ao prático](https://rifeli.dev/blog/python-ia-dados-harmo-basico-ao-pratico/) (3 months ago)
 
