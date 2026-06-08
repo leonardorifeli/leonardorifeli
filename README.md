@@ -26,11 +26,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
+- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. (today)
 - [debpalash/OmniVoice-Studio](https://github.com/debpalash/OmniVoice-Studio) - The open-source ElevenLabs alternative for local voice cloning, design, create, dubbing and dictation Desktop App (1 week ago)
 - [The-500MB-Club/the_500mb_club_challenge](https://github.com/The-500MB-Club/the_500mb_club_challenge) - Open benchmark for backend languages under hard edge-hardware constraints: 2 CPUs, 500MB RAM, at least three replicas, one round-robin LB, one Pi. (1 week ago)
 - [markgerald/aws-cdk-static-site-starter](https://github.com/markgerald/aws-cdk-static-site-starter) - Reusable AWS CDK starter for a static website with private S3, CloudFront OAC, ACM, Cloudflare DNS, and GitHub Actions deploys. (1 week ago)
 - [leonardorifeli/clawtop](https://github.com/leonardorifeli/clawtop) - Multi-host TUI dashboard for Anthropic Claude subscription usage. Daemon &#43; viewer split keeps OAuth credentials on your workstation while a tmux dashboard on any host renders the merged view. (1 week ago)
-- [HermannBjorgvin/Clawdmeter](https://github.com/HermannBjorgvin/Clawdmeter) - ESP32 desk dashboard that shows Claude Code usage (1 week ago)
 
 #### ❤️ Recent Followers
 
