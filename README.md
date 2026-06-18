@@ -26,7 +26,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [Arvo-AI/aurora](https://github.com/Arvo-AI/aurora) - Aurora — Open source AI-powered agentic incident management &amp; root cause analysis for SREs. LangGraph agents investigate across AWS, Azure, GCP, Kubernetes. Integrates with PagerDuty, Datadog, Grafana, Slack and More. Apache 2.0. (1 day ago)
+- [Arvo-AI/aurora](https://github.com/Arvo-AI/aurora) - Aurora — Open source AI-powered agentic incident management &amp; root cause analysis for SREs. LangGraph agents investigate across AWS, Azure, GCP, Kubernetes. Integrates with PagerDuty, Datadog, Grafana, Slack and More. Apache 2.0. (2 days ago)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (1 week ago)
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. (1 week ago)
 - [debpalash/OmniVoice-Studio](https://github.com/debpalash/OmniVoice-Studio) - The open-source ElevenLabs alternative for local voice cloning, design, create, dubbing and dictation Desktop App (2 weeks ago)
@@ -60,15 +60,15 @@ Many thanks everyone! 🙏
 - [Muximba/.github](https://github.com/Muximba/.github)
 
 #### 📄 Latest blog posts
+- [Slash commands no Claude Code: como construí o /save-session e por que ele virou ritual de fim de sessão](https://rifeli.dev/blog/2026-06-17-slash-command-save-session-claude-code/) (1 day ago)
 - [Seis anos de Harmo: o que aprendi como CTO construindo infraestrutura Drive-to-Store](https://rifeli.dev/blog/2026-06-08-seis-anos-harmo-cto-infraestrutura-drive-to-store/) (1 week ago)
 - [O loop improdutivo que multiplicou nossa conta AWS por quase 6x em quatro madrugadas](https://rifeli.dev/blog/2026-06-05-loop-improdutivo-step-functions-6x-aws/) (1 week ago)
 - [Relatório diário de custo AWS com CronJob no EKS: encurtando a demora entre a anomalia e alguém perceber](https://rifeli.dev/blog/2026-06-03-relatorios-custo-aws-cronjob-eks/) (2 weeks ago)
 - [clawtop: meu primeiro projeto open source, e por que ele não é só mais um dashboard pro Claude Code](https://rifeli.dev/blog/2026-06-01-clawtop-meu-primeiro-open-source/) (2 weeks ago)
 - [4x mais entrega no mesmo mês: 30 dias dentro do Claude Code](https://rifeli.dev/blog/2026-05-29-30-dias-claude-code-usd-8k-plano-fixo/) (2 weeks ago)
-- [IRSA vs Pod Identity no EKS: diferenças, armadilhas e um bug silencioso que me custou duas horas](https://rifeli.dev/blog/2026-05-28-irsa-vs-pod-identity-eks/) (2 weeks ago)
+- [IRSA vs Pod Identity no EKS: diferenças, armadilhas e um bug silencioso que me custou duas horas](https://rifeli.dev/blog/2026-05-28-irsa-vs-pod-identity-eks/) (3 weeks ago)
 - [Concorrência e worker pools em Go: o mínimo que você precisa ter na ponta da língua](https://rifeli.dev/blog/2026-05-27-concorrencia-worker-pools-go/) (3 weeks ago)
 - [Batch inserts e ON CONFLICT no PostgreSQL: saindo do single-row em consumers de alta frequência](https://rifeli.dev/blog/2026-05-25-batch-inserts-on-conflict-postgresql/) (3 weeks ago)
 - [Crise de performance no Aurora PostgreSQL: o que aprendi apagando incêndio ao vivo](https://rifeli.dev/blog/2026-05-24-crise-performance-aurora-postgresql/) (3 weeks ago)
-- [Sincronizando Claude Code entre máquinas: o que a Anthropic ainda não faz por você](https://rifeli.dev/blog/sincronizando-claude-code-entre-maquinas/) (1 month ago)
 
 I created this readme based on [Becker's](https://github.com/caarlos0) readme.
