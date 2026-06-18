@@ -26,11 +26,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms (today)
 - [Arvo-AI/aurora](https://github.com/Arvo-AI/aurora) - Aurora — Open source AI-powered agentic incident management &amp; root cause analysis for SREs. LangGraph agents investigate across AWS, Azure, GCP, Kubernetes. Integrates with PagerDuty, Datadog, Grafana, Slack and More. Apache 2.0. (2 days ago)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (1 week ago)
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. (1 week ago)
 - [debpalash/OmniVoice-Studio](https://github.com/debpalash/OmniVoice-Studio) - The open-source ElevenLabs alternative for local voice cloning, design, create, dubbing and dictation Desktop App (2 weeks ago)
-- [The-500MB-Club/the_500mb_club_challenge](https://github.com/The-500MB-Club/the_500mb_club_challenge) - Open benchmark for backend languages under hard edge-hardware constraints: 2 CPUs, 500MB RAM, at least three replicas, one round-robin LB, one Pi. (2 weeks ago)
 
 #### ❤️ Recent Followers
 
