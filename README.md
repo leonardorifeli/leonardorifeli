@@ -35,8 +35,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
-- [white-night-eco-dev](https://github.com/white-night-eco-dev) - White Night
-
 - [Nai64](https://github.com/Nai64) - 
 
 - [flaviopavim](https://github.com/flaviopavim) - Flávio Pavim
@@ -44,6 +42,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [Sanjaya-Danushka](https://github.com/Sanjaya-Danushka) - sanjaya
 
 - [shiuly-28](https://github.com/shiuly-28) - Shiuly Akhter
+
+- [soladdev](https://github.com/soladdev) - Solad Dev
 
 
 #### ❤️ Recent Sponsors
