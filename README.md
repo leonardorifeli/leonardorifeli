@@ -60,6 +60,8 @@ Many thanks everyone! 🙏
 - [Muximba/.github](https://github.com/Muximba/.github)
 
 #### 📄 Latest blog posts
+- [Observabilidade e alertas no EKS: fechando o loop](https://rifeli.dev/blog/2026-06-22-observabilidade-alertas-eks/) (today)
+- [O alpinista no nevoeiro: dez anos depois do Cálculo I, descobri que ele mora dentro de toda IA moderna](https://rifeli.dev/blog/2026-06-19-alpinista-nevoeiro-gradiente-descendente-ia/) (3 days ago)
 - [Slash commands no Claude Code: como construí o /save-session e por que ele virou ritual de fim de sessão](https://rifeli.dev/blog/2026-06-17-slash-command-save-session-claude-code/) (5 days ago)
 - [Seis anos de Harmo: o que aprendi como CTO construindo infraestrutura Drive-to-Store](https://rifeli.dev/blog/2026-06-08-seis-anos-harmo-cto-infraestrutura-drive-to-store/) (2 weeks ago)
 - [O loop improdutivo que multiplicou nossa conta AWS por quase 6x em quatro madrugadas](https://rifeli.dev/blog/2026-06-05-loop-improdutivo-step-functions-6x-aws/) (2 weeks ago)
@@ -68,7 +70,5 @@ Many thanks everyone! 🙏
 - [4x mais entrega no mesmo mês: 30 dias dentro do Claude Code](https://rifeli.dev/blog/2026-05-29-30-dias-claude-code-usd-8k-plano-fixo/) (3 weeks ago)
 - [IRSA vs Pod Identity no EKS: diferenças, armadilhas e um bug silencioso que me custou duas horas](https://rifeli.dev/blog/2026-05-28-irsa-vs-pod-identity-eks/) (3 weeks ago)
 - [Concorrência e worker pools em Go: o mínimo que você precisa ter na ponta da língua](https://rifeli.dev/blog/2026-05-27-concorrencia-worker-pools-go/) (3 weeks ago)
-- [Batch inserts e ON CONFLICT no PostgreSQL: saindo do single-row em consumers de alta frequência](https://rifeli.dev/blog/2026-05-25-batch-inserts-on-conflict-postgresql/) (4 weeks ago)
-- [Crise de performance no Aurora PostgreSQL: o que aprendi apagando incêndio ao vivo](https://rifeli.dev/blog/2026-05-24-crise-performance-aurora-postgresql/) (4 weeks ago)
 
 I created this readme based on [Becker's](https://github.com/caarlos0) readme.
