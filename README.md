@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [aza-ali](https://github.com/aza-ali) - Aza
+
 - [DsThakurRawat](https://github.com/DsThakurRawat) - Divyansh Rawat
 
 - [pwnedroot](https://github.com/pwnedroot) - pwnedroot
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [Nai64](https://github.com/Nai64) - 
 
 - [flaviopavim](https://github.com/flaviopavim) - Flávio Pavim
-
-- [Sanjaya-Danushka](https://github.com/Sanjaya-Danushka) - sanjaya
 
 
 #### ❤️ Recent Sponsors
