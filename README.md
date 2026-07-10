@@ -37,13 +37,13 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [VansAndrade](https://github.com/VansAndrade) - Vanessa Andrade
 
-- [aza-ali](https://github.com/aza-ali) - Aza
-
 - [DsThakurRawat](https://github.com/DsThakurRawat) - Divyansh Rawat
 
 - [pwnedroot](https://github.com/pwnedroot) - pwnedroot
 
 - [Nai64](https://github.com/Nai64) - 
+
+- [flaviopavim](https://github.com/flaviopavim) - Flávio Pavim
 
 
 #### ❤️ Recent Sponsors
