@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [giladfuchs](https://github.com/giladfuchs) - 
+
 - [VansAndrade](https://github.com/VansAndrade) - Vanessa Andrade
 
 - [DsThakurRawat](https://github.com/DsThakurRawat) - Divyansh Rawat
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [pwnedroot](https://github.com/pwnedroot) - pwnedroot
 
 - [Nai64](https://github.com/Nai64) - 
-
-- [flaviopavim](https://github.com/flaviopavim) - Flávio Pavim
 
 
 #### ❤️ Recent Sponsors
@@ -63,7 +63,7 @@ Many thanks everyone! 🙏
 #### 📄 Latest blog posts
 - [Observabilidade e alertas no EKS: fechando o loop](https://rifeli.dev/blog/2026-06-22-observabilidade-alertas-eks/) (3 weeks ago)
 - [O alpinista no nevoeiro: dez anos depois do Cálculo I, descobri que ele mora dentro de toda IA moderna](https://rifeli.dev/blog/2026-06-19-alpinista-nevoeiro-gradiente-descendente-ia/) (3 weeks ago)
-- [Slash commands no Claude Code: como construí o /save-session e por que ele virou ritual de fim de sessão](https://rifeli.dev/blog/2026-06-17-slash-command-save-session-claude-code/) (3 weeks ago)
+- [Slash commands no Claude Code: como construí o /save-session e por que ele virou ritual de fim de sessão](https://rifeli.dev/blog/2026-06-17-slash-command-save-session-claude-code/) (4 weeks ago)
 - [Seis anos de Harmo: o que aprendi como CTO construindo infraestrutura Drive-to-Store](https://rifeli.dev/blog/2026-06-08-seis-anos-harmo-cto-infraestrutura-drive-to-store/) (1 month ago)
 - [O loop improdutivo que multiplicou nossa conta AWS por quase 6x em quatro madrugadas](https://rifeli.dev/blog/2026-06-05-loop-improdutivo-step-functions-6x-aws/) (1 month ago)
 - [Relatório diário de custo AWS com CronJob no EKS: encurtando a demora entre a anomalia e alguém perceber](https://rifeli.dev/blog/2026-06-03-relatorios-custo-aws-cronjob-eks/) (1 month ago)
