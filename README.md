@@ -62,7 +62,7 @@ Many thanks everyone! 🙏
 
 #### 📄 Latest blog posts
 - [Observabilidade e alertas no EKS: fechando o loop](https://rifeli.dev/blog/2026-06-22-observabilidade-alertas-eks/) (3 weeks ago)
-- [O alpinista no nevoeiro: dez anos depois do Cálculo I, descobri que ele mora dentro de toda IA moderna](https://rifeli.dev/blog/2026-06-19-alpinista-nevoeiro-gradiente-descendente-ia/) (4 weeks ago)
+- [O alpinista no nevoeiro: dez anos depois do Cálculo I, descobri que ele mora dentro de toda IA moderna](https://rifeli.dev/blog/2026-06-19-alpinista-nevoeiro-gradiente-descendente-ia/) (1 month ago)
 - [Slash commands no Claude Code: como construí o /save-session e por que ele virou ritual de fim de sessão](https://rifeli.dev/blog/2026-06-17-slash-command-save-session-claude-code/) (1 month ago)
 - [Seis anos de Harmo: o que aprendi como CTO construindo infraestrutura Drive-to-Store](https://rifeli.dev/blog/2026-06-08-seis-anos-harmo-cto-infraestrutura-drive-to-store/) (1 month ago)
 - [O loop improdutivo que multiplicou nossa conta AWS por quase 6x em quatro madrugadas](https://rifeli.dev/blog/2026-06-05-loop-improdutivo-step-functions-6x-aws/) (1 month ago)
