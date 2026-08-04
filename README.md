@@ -26,11 +26,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
+- [StarlightSearch/EmbedAnything](https://github.com/StarlightSearch/EmbedAnything) - Highly Performant, Modular, Memory Safe and Production-ready Inference, Ingestion and Indexing built in Rust 🦀 (today)
 - [Anakin-Inc/anakin](https://github.com/Anakin-Inc/anakin) - Open-source web scraping API. Turn any website into clean markdown or structured JSON. Anti-detect browser, proxy auto-selection, self-hosted. One command: make up (1 week ago)
 - [diegoQuinas/oxidia](https://github.com/diegoQuinas/oxidia) - Oxidia — an Open Tibia server written in Rust (protocol 10.98, OTClient Redemption) (1 week ago)
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms (1 month ago)
 - [Arvo-AI/aurora](https://github.com/Arvo-AI/aurora) - Aurora — Open source AI-powered agentic incident management &amp; root cause analysis for SREs. LangGraph agents investigate across AWS, Azure, GCP, Kubernetes. Integrates with PagerDuty, Datadog, Grafana, Slack and More. Apache 2.0. (1 month ago)
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (1 month ago)
 
 #### ❤️ Recent Followers
 
