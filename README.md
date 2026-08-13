@@ -26,7 +26,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work. https://qm.ycombinator.com (1 day ago)
+- [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work. (1 day ago)
 - [StarlightSearch/EmbedAnything](https://github.com/StarlightSearch/EmbedAnything) - Highly Performant, Modular, Memory Safe and Production-ready Inference, Ingestion and Indexing built in Rust 🦀 (1 week ago)
 - [Anakin-Inc/anakin](https://github.com/Anakin-Inc/anakin) - Open-source web scraping API. Turn any website into clean markdown or structured JSON. Anti-detect browser, proxy auto-selection, self-hosted. One command: make up (2 weeks ago)
 - [diegoQuinas/oxidia](https://github.com/diegoQuinas/oxidia) - Oxidia — an Open Tibia server written in Rust (protocol 10.98, OTClient Redemption) (2 weeks ago)
