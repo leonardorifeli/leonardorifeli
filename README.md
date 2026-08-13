@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [Ali-hey-0](https://github.com/Ali-hey-0) - Ali Heydari
+
 - [arxdsilva](https://github.com/arxdsilva) - Arthur Silva
 
 - [VansAndrade](https://github.com/VansAndrade) - Vanessa Andrade
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [DsThakurRawat](https://github.com/DsThakurRawat) - Divyansh Rawat
 
 - [pwnedroot](https://github.com/pwnedroot) - pwnedroot
-
-- [Nai64](https://github.com/Nai64) - 
 
 
 #### ❤️ Recent Sponsors
