@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [tensortech-ai](https://github.com/tensortech-ai) - AI engineer
+
 - [journaltraces](https://github.com/journaltraces) - Xen K.
 
 - [Ali-hey-0](https://github.com/Ali-hey-0) - Ali Heydari
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [arxdsilva](https://github.com/arxdsilva) - Arthur Silva
 
 - [VansAndrade](https://github.com/VansAndrade) - Vanessa Andrade
-
-- [DsThakurRawat](https://github.com/DsThakurRawat) - Divyansh Rawat
 
 
 #### ❤️ Recent Sponsors
