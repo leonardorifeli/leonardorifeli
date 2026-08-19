@@ -35,15 +35,15 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [procerezo](https://github.com/procerezo) - procerezo
+
+- [NathaliaGS](https://github.com/NathaliaGS) - Nathalia
+
 - [tensortech-ai](https://github.com/tensortech-ai) - AI engineer
 
 - [journaltraces](https://github.com/journaltraces) - Xen K.
 
 - [Ali-hey-0](https://github.com/Ali-hey-0) - Ali Heydari
-
-- [arxdsilva](https://github.com/arxdsilva) - Arthur Silva
-
-- [VansAndrade](https://github.com/VansAndrade) - Vanessa Andrade
 
 
 #### ❤️ Recent Sponsors
