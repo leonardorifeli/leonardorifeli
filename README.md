@@ -26,9 +26,9 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [imfing/hextra](https://github.com/imfing/hextra) - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites (1 day ago)
-- [c2g-dev/city2graph](https://github.com/c2g-dev/city2graph) - Transform geospatial relations into graphs for Graph Neural Networks and spatial network analysis (2 days ago)
-- [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) - A vector index built on TurboQuant, written in Rust with Python bindings (4 days ago)
+- [imfing/hextra](https://github.com/imfing/hextra) - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites (2 days ago)
+- [c2g-dev/city2graph](https://github.com/c2g-dev/city2graph) - Transform geospatial relations into graphs for Graph Neural Networks and spatial network analysis (3 days ago)
+- [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) - A vector index built on TurboQuant, written in Rust with Python bindings (5 days ago)
 - [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work. (1 week ago)
 - [StarlightSearch/EmbedAnything](https://github.com/StarlightSearch/EmbedAnything) - Highly Performant, Modular, Memory Safe and Production-ready Inference, Ingestion and Indexing built in Rust 🦀 (2 weeks ago)
 
