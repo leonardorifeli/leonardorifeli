@@ -41,7 +41,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [tensortech-ai](https://github.com/tensortech-ai) - AI engineer
 
-- [journaltraces](https://github.com/journaltraces) - Xen K.
+- [journaltraces](https://github.com/journaltraces) - Darius B.
 
 - [Ali-hey-0](https://github.com/Ali-hey-0) - Ali Heydari
 
