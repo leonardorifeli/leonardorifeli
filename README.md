@@ -26,10 +26,10 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [NVIDIA-NeMo/labs-OO-Agents](https://github.com/NVIDIA-NeMo/labs-OO-Agents) - NVIDIA Object Oriented Agents: the Pythonic way to build AI Agents. (today)
-- [imfing/hextra](https://github.com/imfing/hextra) - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites (2 days ago)
-- [c2g-dev/city2graph](https://github.com/c2g-dev/city2graph) - Transform geospatial relations into graphs for Graph Neural Networks and spatial network analysis (3 days ago)
-- [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) - A vector index built on TurboQuant, written in Rust with Python bindings (5 days ago)
+- [NVIDIA-NeMo/labs-OO-Agents](https://github.com/NVIDIA-NeMo/labs-OO-Agents) - NVIDIA Object Oriented Agents: the Pythonic way to build AI Agents. (1 day ago)
+- [imfing/hextra](https://github.com/imfing/hextra) - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites (3 days ago)
+- [c2g-dev/city2graph](https://github.com/c2g-dev/city2graph) - Transform geospatial relations into graphs for Graph Neural Networks and spatial network analysis (4 days ago)
+- [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) - A vector index built on TurboQuant, written in Rust with Python bindings (6 days ago)
 - [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work. (1 week ago)
 
 #### ❤️ Recent Followers
@@ -63,8 +63,8 @@ Many thanks everyone! 🙏
 
 #### 📄 Latest blog posts
 - [A API HTTP escondida do meu DVR Intelbras: ajustando 4 câmeras pela linha de comando](https://rifeli.dev/blog/2026-07-29-api-escondida-dvr-intelbras-mhdx-curl/) (3 weeks ago)
-- [As oito famílias de matemática que rodam por trás da Plataforma Harmo todo dia](https://rifeli.dev/blog/2026-07-27-formulas-essenciais-data-science-harmo/) (3 weeks ago)
-- [MWAA orquestrando workers em Go no EKS: a stack que sustenta nossos pipelines de dados](https://rifeli.dev/blog/2026-07-25-airflow-eks-go-orquestracao-pipelines/) (4 weeks ago)
+- [As oito famílias de matemática que rodam por trás da Plataforma Harmo todo dia](https://rifeli.dev/blog/2026-07-27-formulas-essenciais-data-science-harmo/) (4 weeks ago)
+- [MWAA orquestrando workers em Go no EKS: a stack que sustenta nossos pipelines de dados](https://rifeli.dev/blog/2026-07-25-airflow-eks-go-orquestracao-pipelines/) (1 month ago)
 - [Observabilidade e alertas no EKS: fechando o loop](https://rifeli.dev/blog/2026-06-22-observabilidade-alertas-eks/) (2 months ago)
 - [O alpinista no nevoeiro: dez anos depois do Cálculo I, descobri que ele mora dentro de toda IA moderna](https://rifeli.dev/blog/2026-06-19-alpinista-nevoeiro-gradiente-descendente-ia/) (2 months ago)
 - [Slash commands no Claude Code: como construí o /save-session e por que ele virou ritual de fim de sessão](https://rifeli.dev/blog/2026-06-17-slash-command-save-session-claude-code/) (2 months ago)
