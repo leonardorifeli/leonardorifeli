@@ -26,11 +26,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
+- [DeHor-Labs/mcp-agro-brasil](https://github.com/DeHor-Labs/mcp-agro-brasil) - MCP server de dados do agronegocio brasileiro: cotacoes (boi, soja, milho, leite) e conversoes (today)
 - [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software (1 day ago)
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. (1 day ago)
 - [NVIDIA-NeMo/labs-OO-Agents](https://github.com/NVIDIA-NeMo/labs-OO-Agents) - NVIDIA Object Oriented Agents: the Pythonic way to build AI Agents. (2 days ago)
 - [imfing/hextra](https://github.com/imfing/hextra) - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites (4 days ago)
-- [c2g-dev/city2graph](https://github.com/c2g-dev/city2graph) - Transform geospatial relations into graphs for Graph Neural Networks and spatial network analysis (5 days ago)
 
 #### ❤️ Recent Followers
 
