@@ -26,14 +26,16 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [DeHor-Labs/mcp-agro-brasil](https://github.com/DeHor-Labs/mcp-agro-brasil) - MCP server de dados do agronegocio brasileiro: cotacoes (boi, soja, milho, leite) e conversoes (2 days ago)
-- [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software (3 days ago)
-- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. (3 days ago)
-- [NVIDIA-NeMo/labs-OO-Agents](https://github.com/NVIDIA-NeMo/labs-OO-Agents) - NVIDIA Object Oriented Agents: the Pythonic way to build AI Agents. (4 days ago)
-- [imfing/hextra](https://github.com/imfing/hextra) - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites (6 days ago)
+- [DeHor-Labs/mcp-agro-brasil](https://github.com/DeHor-Labs/mcp-agro-brasil) - MCP server de dados do agronegocio brasileiro: cotacoes (boi, soja, milho, leite) e conversoes (3 days ago)
+- [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software (4 days ago)
+- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. (4 days ago)
+- [NVIDIA-NeMo/labs-OO-Agents](https://github.com/NVIDIA-NeMo/labs-OO-Agents) - NVIDIA Object Oriented Agents: the Pythonic way to build AI Agents. (5 days ago)
+- [imfing/hextra](https://github.com/imfing/hextra) - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites (1 week ago)
 
 #### ❤️ Recent Followers
 
+
+- [webbrain-one](https://github.com/webbrain-one) - WebBrain
 
 - [aza-ali](https://github.com/aza-ali) - Aza
 
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [tensortech-ai](https://github.com/tensortech-ai) - AI engineer
 
 - [journaltraces](https://github.com/journaltraces) - Darius B.
-
-- [Ali-hey-0](https://github.com/Ali-hey-0) - Ali Heydari
 
 
 #### ❤️ Recent Sponsors
@@ -62,7 +62,7 @@ Many thanks everyone! 🙏
 - [HarmoDeveloper/harmo-i18n](https://github.com/HarmoDeveloper/harmo-i18n)
 
 #### 📄 Latest blog posts
-- [A API HTTP escondida do meu DVR Intelbras: ajustando 4 câmeras pela linha de comando](https://rifeli.dev/blog/2026-07-29-api-escondida-dvr-intelbras-mhdx-curl/) (4 weeks ago)
+- [A API HTTP escondida do meu DVR Intelbras: ajustando 4 câmeras pela linha de comando](https://rifeli.dev/blog/2026-07-29-api-escondida-dvr-intelbras-mhdx-curl/) (1 month ago)
 - [As oito famílias de matemática que rodam por trás da Plataforma Harmo todo dia](https://rifeli.dev/blog/2026-07-27-formulas-essenciais-data-science-harmo/) (1 month ago)
 - [MWAA orquestrando workers em Go no EKS: a stack que sustenta nossos pipelines de dados](https://rifeli.dev/blog/2026-07-25-airflow-eks-go-orquestracao-pipelines/) (1 month ago)
 - [Observabilidade e alertas no EKS: fechando o loop](https://rifeli.dev/blog/2026-06-22-observabilidade-alertas-eks/) (2 months ago)
