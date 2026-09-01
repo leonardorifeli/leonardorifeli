@@ -26,7 +26,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [DeHor-Labs/mcp-agro-brasil](https://github.com/DeHor-Labs/mcp-agro-brasil) - MCP server de dados do agronegocio brasileiro: cotacoes (boi, soja, milho, leite) e conversoes (6 days ago)
+- [DeHor-Labs/mcp-agro-brasil](https://github.com/DeHor-Labs/mcp-agro-brasil) - MCP server de dados do agronegocio brasileiro: cotacoes (boi, soja, milho, leite) e conversoes (1 week ago)
 - [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software (1 week ago)
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. (1 week ago)
 - [NVIDIA-NeMo/labs-OO-Agents](https://github.com/NVIDIA-NeMo/labs-OO-Agents) - NVIDIA Object Oriented Agents: the Pythonic way to build AI Agents. (1 week ago)
@@ -70,7 +70,7 @@ Many thanks everyone! 🙏
 - [Slash commands no Claude Code: como construí o /save-session e por que ele virou ritual de fim de sessão](https://rifeli.dev/blog/2026-06-17-slash-command-save-session-claude-code/) (2 months ago)
 - [Seis anos de Harmo: o que aprendi como CTO construindo infraestrutura Drive-to-Store](https://rifeli.dev/blog/2026-06-08-seis-anos-harmo-cto-infraestrutura-drive-to-store/) (2 months ago)
 - [O loop improdutivo que multiplicou nossa conta AWS por quase 6x em quatro madrugadas](https://rifeli.dev/blog/2026-06-05-loop-improdutivo-step-functions-6x-aws/) (2 months ago)
-- [Relatório diário de custo AWS com CronJob no EKS: encurtando a demora entre a anomalia e alguém perceber](https://rifeli.dev/blog/2026-06-03-relatorios-custo-aws-cronjob-eks/) (2 months ago)
+- [Relatório diário de custo AWS com CronJob no EKS: encurtando a demora entre a anomalia e alguém perceber](https://rifeli.dev/blog/2026-06-03-relatorios-custo-aws-cronjob-eks/) (3 months ago)
 - [clawtop: meu primeiro projeto open source, e por que ele não é só mais um dashboard pro Claude Code](https://rifeli.dev/blog/2026-06-01-clawtop-meu-primeiro-open-source/) (3 months ago)
 
 I created this readme based on [Becker's](https://github.com/caarlos0) readme.
