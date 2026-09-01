@@ -35,8 +35,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
-- [webbrain-one](https://github.com/webbrain-one) - WebBrain
-
 - [NathaliaGS](https://github.com/NathaliaGS) - Nathalia
 
 - [tensortech-ai](https://github.com/tensortech-ai) - AI engineer
@@ -44,6 +42,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [Ali-hey-0](https://github.com/Ali-hey-0) - Ali Heydari
 
 - [arxdsilva](https://github.com/arxdsilva) - Arthur Silva
+
+- [VansAndrade](https://github.com/VansAndrade) - Vanessa Andrade
 
 
 #### ❤️ Recent Sponsors
