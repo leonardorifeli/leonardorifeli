@@ -52,6 +52,10 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 Many thanks everyone! 🙏
 
+#### 💻 Commits at @HarmoDeveloper (this year)
+
+<!-- HARMO_COMMITS_COUNT -->
+
 #### ⛏️ What I've been working on
 
 - [leonardorifeli/consultoria.rifeli.dev](https://github.com/leonardorifeli/consultoria.rifeli.dev)
