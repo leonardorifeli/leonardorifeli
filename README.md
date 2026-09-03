@@ -26,11 +26,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
+- [leonardorifeli/clawtop](https://github.com/leonardorifeli/clawtop) - Multi-host TUI dashboard for Anthropic Claude subscription usage. Daemon &#43; viewer split keeps OAuth credentials on your workstation while a tmux dashboard on any host renders the merged view. (today)
 - [DeHor-Labs/mcp-agro-brasil](https://github.com/DeHor-Labs/mcp-agro-brasil) - MCP server de dados do agronegocio brasileiro: cotacoes (boi, soja, milho, leite) e conversoes (1 week ago)
 - [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software (1 week ago)
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. (1 week ago)
 - [NVIDIA-NeMo/labs-OO-Agents](https://github.com/NVIDIA-NeMo/labs-OO-Agents) - NVIDIA Object Oriented Agents: the Pythonic way to build AI Agents. (1 week ago)
-- [imfing/hextra](https://github.com/imfing/hextra) - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites (1 week ago)
 
 #### ❤️ Recent Followers
 
