@@ -43,7 +43,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [tensortech-ai](https://github.com/tensortech-ai) - AI engineer
 
-- [Ali-hey-0](https://github.com/Ali-hey-0) - Ali Heydari
+- [arxdsilva](https://github.com/arxdsilva) - Arthur Silva
 
 
 #### ❤️ Recent Sponsors
