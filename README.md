@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [aza-ali](https://github.com/aza-ali) - Aza
+
 - [Vadim-Matsul](https://github.com/Vadim-Matsul) - CEO | IT Mountain
 
 - [mohamed-sayed-elmahdy](https://github.com/mohamed-sayed-elmahdy) - Mohamed Sayed Elmahdy
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [NathaliaGS](https://github.com/NathaliaGS) - Nathalia
 
 - [tensortech-ai](https://github.com/tensortech-ai) - AI engineer
-
-- [arxdsilva](https://github.com/arxdsilva) - Arthur Silva
 
 
 #### ❤️ Recent Sponsors
