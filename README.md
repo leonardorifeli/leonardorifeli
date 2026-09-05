@@ -62,6 +62,8 @@ Many thanks everyone! 🙏
 - [HarmoDeveloper/harmo-i18n](https://github.com/HarmoDeveloper/harmo-i18n)
 
 #### 📄 Latest blog posts
+- [O termo de fronteira](https://rifeli.dev/blog/2026-09-02-termo-de-fronteira-regra-de-leibniz/) (1 week ago)
+- [Ensinei o Claude Code a documentar minha sprint no ClickUp](https://rifeli.dev/blog/2026-08-26-skill-clickup-claude-code-documentar-sprint/) (1 week ago)
 - [A API HTTP escondida do meu DVR Intelbras: ajustando 4 câmeras pela linha de comando](https://rifeli.dev/blog/2026-07-29-api-escondida-dvr-intelbras-mhdx-curl/) (1 month ago)
 - [As oito famílias de matemática que rodam por trás da Plataforma Harmo todo dia](https://rifeli.dev/blog/2026-07-27-formulas-essenciais-data-science-harmo/) (1 month ago)
 - [MWAA orquestrando workers em Go no EKS: a stack que sustenta nossos pipelines de dados](https://rifeli.dev/blog/2026-07-25-airflow-eks-go-orquestracao-pipelines/) (1 month ago)
@@ -70,7 +72,5 @@ Many thanks everyone! 🙏
 - [Slash commands no Claude Code: como construí o /save-session e por que ele virou ritual de fim de sessão](https://rifeli.dev/blog/2026-06-17-slash-command-save-session-claude-code/) (2 months ago)
 - [Seis anos de Harmo: o que aprendi como CTO construindo infraestrutura Drive-to-Store](https://rifeli.dev/blog/2026-06-08-seis-anos-harmo-cto-infraestrutura-drive-to-store/) (2 months ago)
 - [O loop improdutivo que multiplicou nossa conta AWS por quase 6x em quatro madrugadas](https://rifeli.dev/blog/2026-06-05-loop-improdutivo-step-functions-6x-aws/) (3 months ago)
-- [Relatório diário de custo AWS com CronJob no EKS: encurtando a demora entre a anomalia e alguém perceber](https://rifeli.dev/blog/2026-06-03-relatorios-custo-aws-cronjob-eks/) (3 months ago)
-- [clawtop: meu primeiro projeto open source, e por que ele não é só mais um dashboard pro Claude Code](https://rifeli.dev/blog/2026-06-01-clawtop-meu-primeiro-open-source/) (3 months ago)
 
 I created this readme based on [Becker's](https://github.com/caarlos0) readme.
