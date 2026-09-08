@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [mamadou-wane](https://github.com/mamadou-wane) - Mamadou Wane
+
 - [irisdomain23](https://github.com/irisdomain23) - Iris Lin
 
 - [aza-ali](https://github.com/aza-ali) - Aza
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [Vadim-Matsul](https://github.com/Vadim-Matsul) - CEO | IT Mountain
 
 - [mohamed-sayed-elmahdy](https://github.com/mohamed-sayed-elmahdy) - Mohamed Sayed Elmahdy
-
-- [NathaliaGS](https://github.com/NathaliaGS) - Nathalia
 
 
 #### ❤️ Recent Sponsors
