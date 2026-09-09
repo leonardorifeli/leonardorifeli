@@ -26,8 +26,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative (3 days ago)
-- [leonardorifeli/clawtop](https://github.com/leonardorifeli/clawtop) - Multi-host TUI dashboard for Anthropic Claude subscription usage. Daemon &#43; viewer split keeps OAuth credentials on your workstation while a tmux dashboard on any host renders the merged view. (5 days ago)
+- [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative (4 days ago)
+- [leonardorifeli/clawtop](https://github.com/leonardorifeli/clawtop) - Multi-host TUI dashboard for Anthropic Claude subscription usage. Daemon &#43; viewer split keeps OAuth credentials on your workstation while a tmux dashboard on any host renders the merged view. (6 days ago)
 - [DeHor-Labs/mcp-agro-brasil](https://github.com/DeHor-Labs/mcp-agro-brasil) - MCP server de dados do agronegocio brasileiro: cotacoes (boi, soja, milho, leite) e conversoes (2 weeks ago)
 - [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software (2 weeks ago)
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. (2 weeks ago)
@@ -35,15 +35,15 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [xcontcom](https://github.com/xcontcom) - Serhii Herasymov
+
+- [md-abu-kayser](https://github.com/md-abu-kayser) - Md Abu Kayser
+
 - [mamadou-wane](https://github.com/mamadou-wane) - Mamadou Wane
 
 - [irisdomain23](https://github.com/irisdomain23) - Iris Lin
 
 - [aza-ali](https://github.com/aza-ali) - Aza
-
-- [Vadim-Matsul](https://github.com/Vadim-Matsul) - CEO | IT Mountain
-
-- [mohamed-sayed-elmahdy](https://github.com/mohamed-sayed-elmahdy) - Mohamed Sayed Elmahdy
 
 
 #### ❤️ Recent Sponsors
@@ -62,8 +62,8 @@ Many thanks everyone! 🙏
 - [HarmoDeveloper/harmo-i18n](https://github.com/HarmoDeveloper/harmo-i18n)
 
 #### 📄 Latest blog posts
-- [O termo de fronteira da regra de Leibniz](https://rifeli.dev/blog/2026-09-02-termo-de-fronteira-regra-de-leibniz/) (6 days ago)
-- [Ensinei o Claude Code a documentar minha sprint no ClickUp (e ele abriu a última task sozinho)](https://rifeli.dev/blog/2026-08-26-skill-clickup-claude-code-documentar-sprint/) (1 week ago)
+- [O termo de fronteira da regra de Leibniz](https://rifeli.dev/blog/2026-09-02-termo-de-fronteira-regra-de-leibniz/) (1 week ago)
+- [Ensinei o Claude Code a documentar minha sprint no ClickUp (e ele abriu a última task sozinho)](https://rifeli.dev/blog/2026-08-26-skill-clickup-claude-code-documentar-sprint/) (2 weeks ago)
 - [A API HTTP escondida do meu DVR Intelbras: ajustando 4 câmeras pela linha de comando](https://rifeli.dev/blog/2026-07-29-api-escondida-dvr-intelbras-mhdx-curl/) (1 month ago)
 - [As oito famílias de matemática que rodam por trás da Plataforma Harmo todo dia](https://rifeli.dev/blog/2026-07-27-formulas-essenciais-data-science-harmo/) (1 month ago)
 - [MWAA orquestrando workers em Go no EKS: a stack que sustenta nossos pipelines de dados](https://rifeli.dev/blog/2026-07-25-airflow-eks-go-orquestracao-pipelines/) (1 month ago)
