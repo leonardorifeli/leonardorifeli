@@ -26,6 +26,26 @@ jobs:
           template: "templates/README.gtpl"
           writeTo: "README.md"
 
+      - name: Count Harmo commits this year
+        id: harmo_commits
+        run: |
+          YEAR=$(date +%Y)
+          FROM="${YEAR}-01-01T00:00:00Z"
+
+          ORG_ID=$(gh api graphql \
+            -f query='{ organization(login: "HarmoDeveloper") { id } }' \
+            --jq '.data.organization.id')
+
+          COMMITS=$(gh api graphql \
+            -f query='query($orgId: ID!, $from: DateTime!) { viewer { contributionsCollection(organizationID: $orgId, from: $from) { totalCommitContributions restrictedContributionsCount } } }' \
+            -f orgId="$ORG_ID" \
+            -f from="$FROM" \
+            --jq '.data.viewer.contributionsCollection | .totalCommitContributions + .restrictedContributionsCount')
+
+          sed -i.bak "s|<!-- HARMO_COMMITS_COUNT -->|**${COMMITS}** commits since January ${YEAR}|" README.md && rm -f README.md.bak
+        env:
+          GH_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+
       - name: generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
