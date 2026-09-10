@@ -35,11 +35,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [Zapalimybymy](https://github.com/Zapalimybymy) - 
+
 - [xcontcom](https://github.com/xcontcom) - Serhii Herasymov
 
 - [md-abu-kayser](https://github.com/md-abu-kayser) - Md Abu Kayser
-
-- [mamadou-wane](https://github.com/mamadou-wane) - Mamadou Wane
 
 - [irisdomain23](https://github.com/irisdomain23) - Iris Lin
 
