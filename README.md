@@ -26,11 +26,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (today)
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (2 days ago)
 - [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU (2 days ago)
 - [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative (6 days ago)
 - [leonardorifeli/clawtop](https://github.com/leonardorifeli/clawtop) - Multi-host TUI dashboard for Anthropic Claude subscription usage. Daemon &#43; viewer split keeps OAuth credentials on your workstation while a tmux dashboard on any host renders the merged view. (1 week ago)
-- [DeHor-Labs/mcp-agro-brasil](https://github.com/DeHor-Labs/mcp-agro-brasil) - MCP server de dados do agronegocio brasileiro: cotacoes (boi, soja, milho, leite) e conversoes (2 weeks ago)
 
 #### ❤️ Recent Followers
 
