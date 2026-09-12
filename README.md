@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [arch-yunus](https://github.com/arch-yunus) - Bahattin Yunus ÇETİN
+
 - [jkdevcode](https://github.com/jkdevcode) - Dario Zamora
 
 - [Zapalimybymy](https://github.com/Zapalimybymy) - 
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [xcontcom](https://github.com/xcontcom) - Serhii Herasymov
 
 - [md-abu-kayser](https://github.com/md-abu-kayser) - Md Abu Kayser
-
-- [irisdomain23](https://github.com/irisdomain23) - Iris Lin
 
 
 #### ❤️ Recent Sponsors
