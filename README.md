@@ -26,14 +26,16 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (today)
-- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (2 days ago)
-- [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU (2 days ago)
-- [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative (6 days ago)
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (1 day ago)
+- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (3 days ago)
+- [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU (3 days ago)
+- [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative (1 week ago)
 - [leonardorifeli/clawtop](https://github.com/leonardorifeli/clawtop) - Multi-host TUI dashboard for Anthropic Claude subscription usage. Daemon &#43; viewer split keeps OAuth credentials on your workstation while a tmux dashboard on any host renders the merged view. (1 week ago)
 
 #### ❤️ Recent Followers
 
+
+- [jkdevcode](https://github.com/jkdevcode) - Dario Zamora
 
 - [Zapalimybymy](https://github.com/Zapalimybymy) - 
 
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [md-abu-kayser](https://github.com/md-abu-kayser) - Md Abu Kayser
 
 - [irisdomain23](https://github.com/irisdomain23) - Iris Lin
-
-- [aza-ali](https://github.com/aza-ali) - Aza
 
 
 #### ❤️ Recent Sponsors
