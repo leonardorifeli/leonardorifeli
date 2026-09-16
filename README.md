@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [raviwijerathna1](https://github.com/raviwijerathna1) - Ravi Wijerathna
+
 - [BlackDragon0828](https://github.com/BlackDragon0828) - BlackDragon0828
 
 - [arch-yunus](https://github.com/arch-yunus) - Bahattin Yunus ÇETİN
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [Zapalimybymy](https://github.com/Zapalimybymy) - 
 
 - [xcontcom](https://github.com/xcontcom) - Serhii Herasymov
-
-- [md-abu-kayser](https://github.com/md-abu-kayser) - Md Abu Kayser
 
 
 #### ❤️ Recent Sponsors
@@ -62,6 +62,7 @@ Many thanks everyone! 🙏
 - [HarmoDeveloper/harmo-i18n](https://github.com/HarmoDeveloper/harmo-i18n)
 
 #### 📄 Latest blog posts
+- [A métrica que não existia: como tiramos o RRi do zero, na notação](https://rifeli.dev/blog/2026-09-09-rri-metrica-reputacao-do-zero-necessidade-de-produto/) (1 week ago)
 - [O termo de fronteira](https://rifeli.dev/blog/2026-09-02-termo-de-fronteira-regra-de-leibniz/) (2 weeks ago)
 - [Ensinei o Claude Code a documentar minha sprint no ClickUp (e ele abriu a última task sozinho)](https://rifeli.dev/blog/2026-08-26-skill-clickup-claude-code-documentar-sprint/) (3 weeks ago)
 - [A API HTTP escondida do meu DVR Intelbras: ajustando 4 câmeras pela linha de comando](https://rifeli.dev/blog/2026-07-29-api-escondida-dvr-intelbras-mhdx-curl/) (1 month ago)
@@ -71,6 +72,5 @@ Many thanks everyone! 🙏
 - [O alpinista no nevoeiro: dez anos depois do Cálculo I, descobri que ele mora dentro de toda IA moderna](https://rifeli.dev/blog/2026-06-19-alpinista-nevoeiro-gradiente-descendente-ia/) (2 months ago)
 - [Slash commands no Claude Code: como construí o /save-session e por que ele virou ritual de fim de sessão](https://rifeli.dev/blog/2026-06-17-slash-command-save-session-claude-code/) (3 months ago)
 - [Seis anos de Harmo: o que aprendi como CTO construindo infraestrutura Drive-to-Store](https://rifeli.dev/blog/2026-06-08-seis-anos-harmo-cto-infraestrutura-drive-to-store/) (3 months ago)
-- [O loop improdutivo que multiplicou nossa conta AWS por quase 6x em quatro madrugadas](https://rifeli.dev/blog/2026-06-05-loop-improdutivo-step-functions-6x-aws/) (3 months ago)
 
 I created this readme based on [Becker's](https://github.com/caarlos0) readme.
