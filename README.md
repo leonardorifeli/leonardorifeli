@@ -68,7 +68,7 @@ Many thanks everyone! 🙏
 - [A API HTTP escondida do meu DVR Intelbras: ajustando 4 câmeras pela linha de comando](https://rifeli.dev/blog/2026-07-29-api-escondida-dvr-intelbras-mhdx-curl/) (1 month ago)
 - [As oito famílias de matemática que rodam por trás da Plataforma Harmo todo dia](https://rifeli.dev/blog/2026-07-27-formulas-essenciais-data-science-harmo/) (1 month ago)
 - [MWAA orquestrando workers em Go no EKS: a stack que sustenta nossos pipelines de dados](https://rifeli.dev/blog/2026-07-25-airflow-eks-go-orquestracao-pipelines/) (1 month ago)
-- [Observabilidade e alertas no EKS: fechando o loop](https://rifeli.dev/blog/2026-06-22-observabilidade-alertas-eks/) (2 months ago)
+- [Observabilidade e alertas no EKS: fechando o loop](https://rifeli.dev/blog/2026-06-22-observabilidade-alertas-eks/) (3 months ago)
 - [O alpinista no nevoeiro: dez anos depois do Cálculo I, descobri que ele mora dentro de toda IA moderna](https://rifeli.dev/blog/2026-06-19-alpinista-nevoeiro-gradiente-descendente-ia/) (3 months ago)
 - [Slash commands no Claude Code: como construí o /save-session e por que ele virou ritual de fim de sessão](https://rifeli.dev/blog/2026-06-17-slash-command-save-session-claude-code/) (3 months ago)
 - [Seis anos de Harmo: o que aprendi como CTO construindo infraestrutura Drive-to-Store](https://rifeli.dev/blog/2026-06-08-seis-anos-harmo-cto-infraestrutura-drive-to-store/) (3 months ago)
