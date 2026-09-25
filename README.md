@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [Berserk-hub150](https://github.com/Berserk-hub150) - BerserkTime
+
 - [raviwijerathna1](https://github.com/raviwijerathna1) - Ravi Wijerathna
 
 - [BlackDragon0828](https://github.com/BlackDragon0828) - BlackDragon0828
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [arch-yunus](https://github.com/arch-yunus) - Bahattin Yunus ÇETİN
 
 - [Zapalimybymy](https://github.com/Zapalimybymy) - 
-
-- [xcontcom](https://github.com/xcontcom) - Serhii Herasymov
 
 
 #### ❤️ Recent Sponsors
