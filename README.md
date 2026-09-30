@@ -35,15 +35,15 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [ElmanCod110](https://github.com/ElmanCod110) - Elman Coder
+
+- [Edouard144](https://github.com/Edouard144) - Edouard
+
 - [Berserk-hub150](https://github.com/Berserk-hub150) - BerserkTime
 
 - [raviwijerathna1](https://github.com/raviwijerathna1) - Ravi Wijerathna
 
 - [BlackDragon0828](https://github.com/BlackDragon0828) - BlackDragon0828
-
-- [arch-yunus](https://github.com/arch-yunus) - Bahattin Yunus ÇETİN
-
-- [Zapalimybymy](https://github.com/Zapalimybymy) - 
 
 
 #### ❤️ Recent Sponsors
