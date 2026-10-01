@@ -43,7 +43,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [raviwijerathna1](https://github.com/raviwijerathna1) - Ravi Wijerathna
 
-- [BlackDragon0828](https://github.com/BlackDragon0828) - BlackDragon0828
+- [stackpilot05](https://github.com/stackpilot05) - Stack Pilot
 
 
 #### ❤️ Recent Sponsors
