@@ -30,7 +30,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill &#43; proxy for coding agents that cuts 65% of tokens by talking like a caveman. (3 weeks ago)
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (3 weeks ago)
 - [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU (3 weeks ago)
-- [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative (4 weeks ago)
+- [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative (1 month ago)
 
 #### ❤️ Recent Followers
 
