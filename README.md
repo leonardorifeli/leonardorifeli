@@ -39,11 +39,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [kpopdev](https://github.com/kpopdev) - Kyla
 
-- [Edouard144](https://github.com/Edouard144) - Edouard
-
 - [raviwijerathna1](https://github.com/raviwijerathna1) - Ravi Wijerathna
 
 - [stackpilot05](https://github.com/stackpilot05) - Stack Pilot
+
+- [arch-yunus](https://github.com/arch-yunus) - Bahattin Yunus ÇETİN
 
 
 #### ❤️ Recent Sponsors
