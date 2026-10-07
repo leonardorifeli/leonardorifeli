@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [dotcomjack](https://github.com/dotcomjack) - DotcomJack
+
 - [jkdevcode](https://github.com/jkdevcode) - Dario Zamora
 
 - [kpopdev](https://github.com/kpopdev) - Kyla
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [raviwijerathna1](https://github.com/raviwijerathna1) - Ravi Wijerathna
 
 - [stackpilot05](https://github.com/stackpilot05) - Stack Pilot
-
-- [arch-yunus](https://github.com/arch-yunus) - Bahattin Yunus ÇETİN
 
 
 #### ❤️ Recent Sponsors
