@@ -28,7 +28,7 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) - Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors (today)
 - [ONSBR/TIAGO-Dados-Abertos](https://github.com/ONSBR/TIAGO-Dados-Abertos) - Servidor MCP oficial do dados.ons.org.br . Permite a assistentes de IA buscar, explorar e analisar os datasets do Portal de Dados Abertos do ONS, o Operador Nacional do Sistema Elétrico. (6 days ago)
-- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference engine that tunes its kernels to your hardware for every model you download, making it 2x faster than Ollama. Works on Apple Silicon, NVIDIA, AMD, or just a CPU. (1 month ago)
+- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference engine that tunes its kernels on your hardware to find the fastest way to run each model. 2x faster than Ollama. Works on Apple Silicon, NVIDIA, AMD, or just a CPU. (1 month ago)
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill &#43; proxy for coding agents that cuts 65% of tokens by talking like a caveman. (1 month ago)
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (1 month ago)
 
