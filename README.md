@@ -26,10 +26,10 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ⭐ Recent Stars
 
 
-- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation. (2 days ago)
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https://discord.gg/VuxzM8mtf (2 days ago)
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥 (2 days ago)
-- [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn AI Engineering! Learn it. Build it. Ship it for others. (3 days ago)
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation. (3 days ago)
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https://discord.gg/VuxzM8mtf (3 days ago)
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥 (3 days ago)
+- [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn AI Engineering! Learn it. Build it. Ship it for others. (4 days ago)
 - [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. (1 week ago)
 
 #### ❤️ Recent Followers
@@ -63,7 +63,7 @@ Many thanks everyone! 🙏
 
 #### 📄 Latest blog posts
 - [A métrica que não existia: como tiramos o RRi do zero, na notação](https://rifeli.dev/blog/2026-09-09-rri-metrica-reputacao-do-zero-necessidade-de-produto/) (1 month ago)
-- [O termo de fronteira](https://rifeli.dev/blog/2026-09-02-termo-de-fronteira-regra-de-leibniz/) (1 month ago)
+- [O termo de fronteira](https://rifeli.dev/blog/2026-09-02-termo-de-fronteira-regra-de-leibniz/) (2 months ago)
 - [Ensinei o Claude Code a documentar minha sprint no ClickUp (e ele abriu a última task sozinho)](https://rifeli.dev/blog/2026-08-26-skill-clickup-claude-code-documentar-sprint/) (2 months ago)
 - [A API HTTP escondida do meu DVR Intelbras: ajustando 4 câmeras pela linha de comando](https://rifeli.dev/blog/2026-07-29-api-escondida-dvr-intelbras-mhdx-curl/) (3 months ago)
 - [As oito famílias de matemática que rodam por trás da Plataforma Harmo todo dia](https://rifeli.dev/blog/2026-07-27-formulas-essenciais-data-science-harmo/) (3 months ago)
