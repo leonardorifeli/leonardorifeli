@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [rafaelbmateus](https://github.com/rafaelbmateus) - Rafael Mateus
+
 - [lxcadoza993](https://github.com/lxcadoza993) - 
 
 - [bahattinyunus](https://github.com/bahattinyunus) - Bahattin Yunus ÇETİN
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [Dvurechensky](https://github.com/Dvurechensky) - Dvurechensky
 
 - [shahidazam2020-oss](https://github.com/shahidazam2020-oss) - Shahid Azam
-
-- [MatthewMacri](https://github.com/MatthewMacri) - Matthew Macri
 
 
 #### ❤️ Recent Sponsors
