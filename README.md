@@ -62,7 +62,7 @@ Many thanks everyone! 🙏
 - [HarmoDeveloper/harmo-i18n](https://github.com/HarmoDeveloper/harmo-i18n)
 
 #### 📄 Latest blog posts
-- [A métrica que não existia: como tiramos o RRi do zero, na notação](https://rifeli.dev/blog/2026-09-09-rri-metrica-reputacao-do-zero-necessidade-de-produto/) (1 month ago)
+- [A métrica que não existia: como tiramos o RRi do zero, na notação](https://rifeli.dev/blog/2026-09-09-rri-metrica-reputacao-do-zero-necessidade-de-produto/) (2 months ago)
 - [O termo de fronteira](https://rifeli.dev/blog/2026-09-02-termo-de-fronteira-regra-de-leibniz/) (2 months ago)
 - [Ensinei o Claude Code a documentar minha sprint no ClickUp (e ele abriu a última task sozinho)](https://rifeli.dev/blog/2026-08-26-skill-clickup-claude-code-documentar-sprint/) (2 months ago)
 - [A API HTTP escondida do meu DVR Intelbras: ajustando 4 câmeras pela linha de comando](https://rifeli.dev/blog/2026-07-29-api-escondida-dvr-intelbras-mhdx-curl/) (3 months ago)
