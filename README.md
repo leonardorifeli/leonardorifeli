@@ -39,11 +39,11 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [rafaelbmateus](https://github.com/rafaelbmateus) - Rafael Mateus
 
-- [lxcadoza993](https://github.com/lxcadoza993) - 
-
 - [bahattinyunus](https://github.com/bahattinyunus) - Bahattin Yunus ÇETİN
 
 - [Dvurechensky](https://github.com/Dvurechensky) - Dvurechensky
+
+- [shahidazam2020-oss](https://github.com/shahidazam2020-oss) - Shahid Azam
 
 
 #### ❤️ Recent Sponsors
