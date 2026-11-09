@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [Git-FED](https://github.com/Git-FED) - www.fedpromptly.com
+
 - [rafaelbmateus](https://github.com/rafaelbmateus) - Rafael Mateus
 
 - [lxcadoza993](https://github.com/lxcadoza993) - 
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [bahattinyunus](https://github.com/bahattinyunus) - Bahattin Yunus ÇETİN
 
 - [Dvurechensky](https://github.com/Dvurechensky) - Dvurechensky
-
-- [shahidazam2020-oss](https://github.com/shahidazam2020-oss) - Shahid Azam
 
 
 #### ❤️ Recent Sponsors
