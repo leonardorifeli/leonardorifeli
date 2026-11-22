@@ -35,6 +35,8 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 #### ❤️ Recent Followers
 
 
+- [crespomanuela](https://github.com/crespomanuela) - Manuela Crespo
+
 - [Sadra138456](https://github.com/Sadra138456) - sadra cheraghi
 
 - [anjennlical](https://github.com/anjennlical) - Larissa Albuquerque
@@ -42,8 +44,6 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 - [Git-FED](https://github.com/Git-FED) - www.fedpromptly.com
 
 - [Dvurechensky](https://github.com/Dvurechensky) - Dvurechensky
-
-- [shahidazam2020-oss](https://github.com/shahidazam2020-oss) - Shahid Azam
 
 
 #### ❤️ Recent Sponsors
