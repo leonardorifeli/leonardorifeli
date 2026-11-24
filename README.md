@@ -64,9 +64,9 @@ Many thanks everyone! 🙏
 #### 📄 Latest blog posts
 - [A métrica que não existia: como tiramos o RRi do zero, na notação](https://rifeli.dev/blog/2026-09-09-rri-metrica-reputacao-do-zero-necessidade-de-produto/) (2 months ago)
 - [O termo de fronteira](https://rifeli.dev/blog/2026-09-02-termo-de-fronteira-regra-de-leibniz/) (2 months ago)
-- [Ensinei o Claude Code a documentar minha sprint no ClickUp (e ele abriu a última task sozinho)](https://rifeli.dev/blog/2026-08-26-skill-clickup-claude-code-documentar-sprint/) (2 months ago)
+- [Ensinei o Claude Code a documentar minha sprint no ClickUp (e ele abriu a última task sozinho)](https://rifeli.dev/blog/2026-08-26-skill-clickup-claude-code-documentar-sprint/) (3 months ago)
 - [A API HTTP escondida do meu DVR Intelbras: ajustando 4 câmeras pela linha de comando](https://rifeli.dev/blog/2026-07-29-api-escondida-dvr-intelbras-mhdx-curl/) (3 months ago)
-- [As oito famílias de matemática que rodam por trás da Plataforma Harmo todo dia](https://rifeli.dev/blog/2026-07-27-formulas-essenciais-data-science-harmo/) (3 months ago)
+- [As oito famílias de matemática que rodam por trás da Plataforma Harmo todo dia](https://rifeli.dev/blog/2026-07-27-formulas-essenciais-data-science-harmo/) (4 months ago)
 - [MWAA orquestrando workers em Go no EKS: a stack que sustenta nossos pipelines de dados](https://rifeli.dev/blog/2026-07-25-airflow-eks-go-orquestracao-pipelines/) (4 months ago)
 - [Observabilidade e alertas no EKS: fechando o loop](https://rifeli.dev/blog/2026-06-22-observabilidade-alertas-eks/) (5 months ago)
 - [O alpinista no nevoeiro: dez anos depois do Cálculo I, descobri que ele mora dentro de toda IA moderna](https://rifeli.dev/blog/2026-06-19-alpinista-nevoeiro-gradiente-descendente-ia/) (5 months ago)
