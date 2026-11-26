@@ -41,9 +41,9 @@ I'm [Leonardo](https://rifeli.dev). I'm a Brazilian Data Scientist.
 
 - [anjennlical](https://github.com/anjennlical) - Larissa Albuquerque
 
-- [Git-FED](https://github.com/Git-FED) - www.fedpromptly.com
-
 - [Dvurechensky](https://github.com/Dvurechensky) - Dvurechensky
+
+- [shahidazam2020-oss](https://github.com/shahidazam2020-oss) - Shahid Azam
 
 
 #### ❤️ Recent Sponsors
